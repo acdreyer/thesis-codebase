@@ -11,8 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "element-ui": "^2.4.11"
+    "d3": "^5.15.1",
+    "element-ui": "^2.4.11",
+    "nuxt": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "element-theme-chalk": "^2.13.1"
+  }
 }
