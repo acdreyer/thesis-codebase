@@ -1,7 +1,7 @@
 
 AERODYNAMICS 
 
-
+(1)
 
 AERODYNAMICS 1 
 
@@ -277,7 +277,7 @@ EFFECTS OF INLET WALL CONTOUR ON THE
 PRESSURE RECOVERY OF A 10° 10-INCH-INLET- 
 DIAMETER CONICAL DIFFUSER. Martin R. Copp. 
 September 1951. 29p. diagrs., photos. (NACA 
-RM LSlElla) 
+RM LS1E11a) 
 
 TWO- AND THREE-DIMENSIONAL UNSTEADY 
 LIFT PROBLEMS IN HIGH-SPEED FLIGHT. 
@@ -658,7 +658,6 @@ INVESTIGATION OF WING CHARACTERISTICS AT A
 MACH NUMBER OF 1.53. I - TRIANGULAR WINGS 
 OF ASPECT RATIO 2. Walter G. Vincenti, Jack N. 
 Nielsen and Frederick H. Matteson. December 19, 
-
 1947. 83p. diagrs., photos., tab. (NACA RM A7I10) 
 (Declassified from Confidential, 10/5/53) 
 
@@ -666,7 +665,6 @@ PRESSURE DISTRIBUTION OVER A SHARP-NOSE
 BODY OF REVOLUTION AT TRANSONIC SPEEDS 
 BY THE NACA WING-FLOW METHOD. Edward 
 C. B. Danforth and J. Ford Johnston. March 5, 
-
 1948. 25p. diagrs., photos. (NACA RM L7K12) 
 (Declassified from Confidential, 1/8/54) 
 
@@ -729,7 +727,6 @@ PRELIMINARY INVESTIGATION OF A VARIABLE
 MASS-FLOW SUPERSONIC NOSE INLET. Clyde 
 Hayes. December 13, 1949. 15p. diagrs., photos. 
 (NACA RM L9J11) (Declassified from Confidential, 
-
 1/8/54) 
 
 
@@ -855,7 +852,8 @@ AERODYNAMICS
 6 FUNDAMENTAL (1. 1) 
 
 Supersonic Flow - Compressible 
-(Cent. ) 
+
+(Cont. ) 
 
 COMPARISON OF SECONDARY FLOWS AND 
 BOUNDARY-LAYER ACCUMULATIONS IN SEV- 
@@ -1239,7 +1237,7 @@ EFFECTS OF INLET WALL CONTOUR ON THE
 PRESSURE RECOVERY OF A 10° 10-INCH-INLET- 
 DIAMETER CONICAL DIFFUSER. Martin R. Copp. 
 September 1951. 29p. diagrs., photos. (NACA 
-RM LSlElla) 
+RM LS1E11a) 
 
 
 
@@ -1523,7 +1521,7 @@ BERS. Robert G. Deissler. May 1954. 53p. diagrs.
 
 
 JET MIXING 
-(1.1.3,3) 
+(1.1.3.3) 
 
 
 
@@ -1563,7 +1561,7 @@ dlagrs., tab. (NACA RM E53J08)
 
 
 AERODYNAMICS WITH HEAT 
-0.1.4) 
+(1.1.4) 
 
 
 
@@ -1633,7 +1631,7 @@ Formerly NACA RM L53B25)
 
 
 HEATING 
-(1. 1.4, 1) 
+(1.1.4.1) 
 
 
 
@@ -1688,8 +1686,7 @@ HEAT TRANSFER
 
 EXTENSION OF BOUNDARY -LAYER HEAT- 
 TRANSFER THEORY TO COOLED TURBINE 
-BLADES. W. Byron Brown and Patrick L. * 
-
+BLADES. W. Byron Brown and Patrick L. 
 Donoughe. August 11, 1950. 51p. diagrs., tab. 
 (NACA RM E50F02) (Declassified from Restricted, 
 12/11/53) 
@@ -2511,7 +2508,7 @@ FOIL SECTION. Louis S. Stivers, Jr. March 1954.
 
 
 Split Flaps 
-{1.2.1.4.2) 
+(1.2.1.4.2) 
 
 
 
@@ -2696,7 +2693,6 @@ Characteristics
 BOUNDARY-LAYER MEASUREMENTS ON SEVERAL 
 POROUS MATERIALS WITH SUCTION APPUED. 
 George B. McCullough and Bruno J. Gambucci. June 
-
 1952. 26p. diagrs., photos., tab. (NACA RM 
 A52D01b) 
 
@@ -2711,7 +2707,6 @@ SUCTION VELOCITY DISTRIBUTION ON THE
 CHARACTERISTICS OF A 10. 5-PERCENT-THICK 
 AIRFOIL WITH AREA SUCTION. Robert E. 
 Dannenberg and James K'. Weiberg. December 
-
 1953. 59p. diagrs. , photos. , 5 tabs. (NACA 
 TN 3093) 
 
@@ -2850,7 +2845,7 @@ Ray H. Wright. September 1, 1948. 62p. diagrs.
 
 
 AERODYNAMICS 
-WINGS (1,2) 
+WINGS (1.2) 
 
 
 
@@ -3367,7 +3362,7 @@ WINGS (1.2)
 
 
 
-Profiles - Complete Wings (Cent. ) 
+Profiles - Complete Wings (Cont. ) 
 
 
 
@@ -3486,7 +3481,6 @@ AN INVESTIGATION OF THE CHARACTERISTICS
 OF AN UNSWEPT WING OF ASPECT RATIO 4.01 
 IN THE LANGLEY 8-FOOT HIGH-SPEED TUNNEL. 
 Ralph P. Bielat and Maurice S. Cahn. November 8, 
-
 1949. 32p. diagrs., 2 tabs. (NACA RM L9H23) 
 (Declassified from Restricted, 12/14/53) 
 
@@ -3503,7 +3497,6 @@ LONGITUDINAL CHARACTERISTICS OF TWO 47.7°
 SWEPTBACK WINGS WITH ASPECT RATIOS OF 5.1 
 AND 6.0 AT REYNOLDS NUMBERS UP TO 10 x 106. 
 Reino J. Salmi and Robert J. Carros. March 30, 
-
 1950. 25p. diagrs., photo. (NACA RM L50A04) 
 (Declassified from Restricted, 12/7/53) 
 
@@ -4811,15 +4804,12 @@ EFFECTS OF WING POSITION AND FUSELAGE
 SIZE ON THE LOW -SPEED STATIC AND ROLLING 
 STABILITY CHARACTERISTICS OF A DELTA 
 WING mGDEL. Alex Goouaian and David F. 
-
-
-
-Thomas, Jr. February 1954. 
+Thomas, Jr. February 1954. 66p. diagrs., photos.,
 3 tabs. (NACA TN 3063) 
 
 
 
-66p. diagrs., photos., 
+ 
 
 
 
@@ -5109,7 +5099,7 @@ August 1953. 63p. diagrs., photos., 2 tabs.
 
 
 Dihedral 
-(1 2.2.2.7) 
+(1.2.2.2.7) 
 
 
 
@@ -5866,7 +5856,7 @@ WINGS (1.2)
 
 
 blots and Slats - oompiete wings 
-(Cont, ) 
+(Cont. ) 
 
 
 
@@ -6033,7 +6023,7 @@ AERODYNAMICS
 
 
 Leading-Edge Flaps - Complete 
-Wings (Cont, ) 
+Wings (Cont. ) 
 
 LOW -SPEED LATERAL STABILITY AND AILERON- 
 EFFECTIVENESS CHARACTERISTICS AT A 
@@ -6205,10 +6195,10 @@ Flap Type
 
 
 
-TESTS OF A HORIZONTAL -TAIL MODEL THROUGH 
-
-WDJG-FLOW METHOD. Richard E. Adams and 
-Norman S. SUsby. AprU 11, 1947. 24p. diagrs., 
+TESTS OF A HORIZONTAL-TAIL MODEL THROUGH 
+THE TRANSONIC SPEED RANGE BY THE NACA 
+WING-FLOW METHOD. Richard E. Adams and 
+Norman S. SUsby. April 11, 1947. 24p. diagrs., 
 photos., tab. (NACA RM L7C25a) 
 
 FREE-FLIGHT INVESTIGATION OF CONTROL 
@@ -6391,7 +6381,6 @@ SPOILER CHARACTERISTICS OF A WING HAVING
 CIRCULAR-ARC AIRFOIL SECTIONS AT REYNOLDS 
 NUMBERS OF APPROXIMATELY 6.0 x lO^. 
 Stanley H. Spooner and Robert L. Woods. March 10, 
-
 1949. 58p. dlagrs., photos. (NACA RM L9A07) 
 (Declassified from Restricted, 12/14/53) 
 
@@ -6408,7 +6397,6 @@ LATERAL-CONTROL INVESTIGATION AT A
 REYNOLDS NUMBER OF 5,300.000 OF A WING OF 
 ASPECT RATIO 5.8 SWEPTFORWARD 32° AT THE 
 LEADING EDGE. Robert R. Graham. February 7. 
-
 1950. 44p. dia^rs.. photo. (NACA RM L9H18) 
 (Declassified from Restricted, 12/14/53) 
 
@@ -6598,7 +6586,7 @@ diagrs., tab. (NACA TN 3160)
 
 
 Spoilers 
-(1,2. 2.4. 2) 
+(1.2. 2.4. 2) 
 
 
 
@@ -6663,7 +6651,6 @@ SPOILER CHARACTERISTICS OF A WING HAVING
 CIRCULAR-ARC AIRFOIL SECTIONS AT REYNOLDS 
 NUMBERS OF APPROXIMATELY 6.0 X 10°. 
 Stanley H. Spooner and Robert L. Woods. March 10, 
-
 1949. 58p. diagrs., photos. (NACA RM L9A07) 
 (Declassified from Restricted, 12/14/53) 
 
@@ -6671,7 +6658,6 @@ LATERAL-CONTROL INVESTIGATION AT A
 REYNOLDS NUMBER OF 5,300.000 OF A WING OF 
 ASPECT RATIO 5.8 SWEPTFORWARD 32° AT THE 
 LEADING EDGE. Robert R. Graham. February 7, 
-
 1950. 44p, diagrs.. photo. (NACA RM L9H18) 
 (Declassified from Restricted, 12/14/53) 
 
@@ -6731,7 +6717,7 @@ Robert H. Neely and D. William Conner. May 23,
 
 
 AERODYNAMICS 
-WINGS (I. 2) 
+WINGS (1. 2) 
 
 
 
@@ -7600,7 +7586,7 @@ Ralph P. Bielat and Maurice S. Cahn. November 8,
 
 
 AERODYNAMICS 
-WINGS (1,2) 
+WINGS (1.2) 
 
 
 
@@ -7611,7 +7597,7 @@ WINGS (1,2)
 
 
 
-(Cent. 
+(Cont. 
 
 
 
@@ -7724,7 +7710,7 @@ March 1954. 64p. diagrs., photos. (NACA TN 3079)
 
 
 Characteristics 
-{1.2.2.8. 1) 
+(1.2.2.8. 1) 
 
 
 
@@ -7861,7 +7847,7 @@ RM E54B01)
 
 
 THEORY 
-0.3.1) 
+(1.3.1) 
 
 
 
@@ -8300,7 +8286,7 @@ AERODYNAMICS
 
 
 
-Nose Shape - Ducted Bodies (Cent. ) 
+Nose Shape - Ducted Bodies (Cont. ) 
 
 
 
@@ -8506,7 +8492,7 @@ MATCHING. DeMarquis D. Wyatt, September
 
 
 NOSE, CENTRAL 
-(1.4,1.1) 
+(1.4.1.1) 
 
 
 
@@ -8796,7 +8782,7 @@ Scoops
 
 
 
-(I. 4.1. 4.1) 
+(1. 4.1. 4.1) 
 
 
 
@@ -8809,7 +8795,7 @@ RM E53E07)
 
 
 auDmergea 
-(1.4.1,4,2) 
+(1.4.1.4.2) 
 
 
 
@@ -8954,7 +8940,6 @@ PRELIMINARY INVESTIGATION OF A VARIABLE
 MASS-FLOW SUPERSONIC NOSE INLET. Clyde 
 Hayes. December 13, 1949. 15p. diagrs., photos. 
 (NACA RM L9J11) (Declassified from Confidential, 
-
 1/8/54) 
 
 EFFECTS OF INLET WALL CONTOUR ON THE 
@@ -9187,7 +9172,6 @@ B8p. diagrs. (NACA TN 3016)
 ONE -DIMENSIONAL, COMPRESSIBLE, VISCOUS 
 FLOW RELATIONS APPLICABLE TO FLOW IN A 
 DUCTED HELICOPTER BLADE. John R. Henry. 
-
 December 1953. 16p. diagrs. (NACA TN 3089) 
 
 MEASUREMENT OF HEAT -TRANSFER AND FRIC- 
@@ -9216,7 +9200,7 @@ Rinaldo J. Brun and Bemrose Boyd. September
 
 
 EXITS 
-0.4.3) 
+(1.4.3) 
 
 
 
@@ -10003,7 +9987,7 @@ August 5, 1947. 44p. diagrs., photos., tab.
 
 
 AIRPLANES 
-(1.7.0 
+(1.7.1) 
 
 
 
@@ -10017,7 +10001,7 @@ merly TN 2443; TN 2631)
 
 
 COMPONENTS IN COMBINATION 
-(1.7. l.I) 
+(1.7. 1.1) 
 
 
 
@@ -10295,7 +10279,6 @@ DOViNWASH FOR WING-FUSELAGE COMBINA-
 TIONS WITH WINGS OF ARBITRARY PLAN FORM. 
 Martin Zlotnick and Samuel W. Robinson. Jr. 
 January 1954. 38p. diagrs. (NACA TN 3057. 
-
 Formerly RM L52J27a) 
 
 
@@ -11120,7 +11103,7 @@ Amer. October 1953. ii, 52p. diagrs., photos.,
 
 
 STABILITY 
-(l.S.l) 
+(l.8.l) 
 
 
 
@@ -11179,7 +11162,7 @@ McLemore. January 1952. 64p. diagrs. , photo. ,
 tab. (NACA RM L51J05) 
 
 STATIC 
-(1.8. I. 1) 
+(1.8. 1. 1) 
 
 
 
@@ -12051,7 +12034,7 @@ diagrs., photos. (NACA TN 3201)
 
 
 Directional 
-(1,8.1. 1.3) 
+(1.8.1. 1.3) 
 
 
 
@@ -12259,7 +12242,7 @@ diagrs., photos. (NACA TN 3201)
 
 
 DYNAMIC 
-(1.8. 1,2) 
+(1.8. 1.2) 
 
 
 
@@ -13322,7 +13305,6 @@ control and hinge-moment character-
 ishcs of a 20-percent-chord plain 
 ailebon on a 47.7° sweptback wing of 
 aspect ratto 5.1 at a reynolds number of 
-
 6.0 X 106. William M. Hadaway and Reino J. Salmi. 
 October 1951. 31p. diagrs. (NACA RM L51F22) 
 
@@ -13496,7 +13478,7 @@ HINGE MOMENTS
 TESTS OF A HORIZONTAL-TAIL MODEL THROUGH 
 THE TRANSONIC SPEED RANGE BY THE NACA 
 WING-FLOW METHOD. Richard E. Adams and 
-Norman S. SUsby. AprU 11, 1947. 24p. diagrs., 
+Norman S. SUsby. April 11, 1947. 24p. diagrs., 
 photos., tab. (NACA RM L7C25a) 
 
 
@@ -13633,7 +13615,6 @@ SPOILER CHARACTERISTICS OF A WING HAVING
 CIRCULAR-ARC AIRFOIL SECTIONS AT REYNOLDS 
 NUMBERS OF APPROXIMATELY 6.0 x IqB. 
 Stanley H. Spooner and Robert L. Woods. March 10, 
-
 1949. 58p. diagrs., photos. (NACA RM L9A07) 
 (Declassified from Restricted, 12/14/53) 
 
@@ -13650,7 +13631,6 @@ LATERAL-CONTROL INVESTIGATION AT A
 REYNOLDS NUMBER OF 5,300.000 OF A WING OF 
 ASPECT RATIO 5.8 SWEPTFORWARD 32° AT THE 
 LEADING EDGE. Robert R. Graham. February 7, 
-
 1950. 44p. diagrs., photo. (NACA RM L9H18) 
 (Declassified from Restricted, 12/14/53) 
 
@@ -13813,7 +13793,7 @@ FOR AIRCRAFT. William H. Phillips. October
 
 
 SPINNING 
-0.8.3) 
+(1.8.3) 
 
 
 
@@ -14089,7 +14069,7 @@ TN 3080)
 
 FLYING QUALITIES 
 
-(i.s.s) 
+(1.8.5) 
 
 
 
@@ -14214,7 +14194,7 @@ diagrs., photos., 6 tabs. (NACA TN 3084)
 
 AUTOMATIC STABILIZATION 
 
-(i.e. 8) 
+(1.8. 8) 
 
 
 
@@ -14695,7 +14675,7 @@ TURBINES
 
 
 COMPOUND ENGINES 
-(3. 1.2,2) 
+(3. 1.2.2) 
 
 
 
@@ -14716,7 +14696,6 @@ CHARACTERISTICS OF A HOT JET DISCHARGED
 FROM A JET-PROPULSION ENGINE. William A. 
 Fleming. December 27, 1946. 20p. diagrs. 
 (NACA RM E6L27a) (DecUssified from Restricted, 
-
 12/14/53) 
 
 
@@ -14774,7 +14753,6 @@ PREUMINARY RESULTS OF NATURAL ICING OF
 AN AXIAL-FLOW TURBOJET ENGINE. Loren W. 
 Acker. August 6, 1948. 16p. diagrs., photos. 
 (NACA RM ESC 18) (Declassified from Restricted, 
-
 12/14/53) 
 
 NATURAL ICING OF AN AXIAL-FLOW TURBOJET 
@@ -16233,7 +16211,7 @@ RM E53F19)
 
 
 EFFECTS OF FUEL ATOMIZATION 
-(3. 5, 1.4) 
+(3. 5. 1.4) 
 
 
 
@@ -16355,7 +16333,9 @@ COMBUSTION (3. 5)
 
 
 Effect of Engine Operating Condi- 
+
 tions and Combustion Chamber 
+
 Geometry (Cont. ) 
 
 
@@ -16733,11 +16713,7 @@ POUND-THRUST TURBOJET ENGINE BY WATER
 AND ALCOHOL INJECTION AT COMPRESSOR IN- 
 LET. Burnett Baron, Harry W. Dowman and 
 WlUiam C. Dackis. July 8, 1948. 41p. dlagrs.. 
-
-
-
-photos. (NACA RM E7K14) 
-Restricted, 12/14/53) 
+photos. (NACA RM E7K14) Restricted, 12/14/53) 
 
 
 
@@ -16749,7 +16725,6 @@ PRELIMINARY RESULTS OF NATURAL ICING OF
 AN AXUL-FLOW TURBOJET ENGINE. Loren W. 
 Acker. August 6, 1948. 16p. diagrs., photos. 
 (NACA RM E8C18) (Declassified from Restricted, 
-
 12/14/53) 
 
 
@@ -16891,7 +16866,7 @@ Chung -Hua Wu. June 1953. 32p. diagrs. , 2 tabs.
 
 
 RADIAL FLOW 
-(3.6. I. 2) 
+(3.6. 1. 2) 
 
 
 
@@ -17240,7 +17215,7 @@ TN 3013)
 
 
 MIXED FLOW 
-(3. 7. I. 3) 
+(3. 7. 1. 3) 
 
 
 
@@ -17558,8 +17533,7 @@ Cooling (Cont. )
 
 
 EXPERIMENTAL INVESTIGATION OF COOLANT- 
-FLOW ckahacteristics of a sintered porous 
-
+FLOW characteristics of a sintered porous 
 TURBINE BLADE. Edward R. Bartoo, Louis J. 
 SchaXer, Jr. and Hadley T. Richards. February 
 1952. 28p. diagrs., photos. (NACA RM E51K02) 
@@ -17892,7 +17866,8 @@ FRICTION AND LUBRICATION (3. 8)
 
 
 Chemistry of Lubrication - 
-Theory and Experiment (Cent. ) 
+
+Theory and Experiment (Cont. ) 
 
 PRELIKONARY INVESTIGATION OF MOLYBDENUM 
 DISULFIDE - AIR-MIST LUBRICATION FOR 
@@ -18007,7 +17982,7 @@ photos., 2 tabs. (NACA TN 3003)
 
 
 ANTIFRICTION BEARINGS 
-(3,8. 3. 1) 
+(3.8. 3. 1) 
 
 
 
@@ -18532,7 +18507,6 @@ APPLICATION OF BLADE COOUNG TO GAS TUR-
 BINES. Herman H. EUerbrock, Jr. and Louis J. 
 Schafer, Jr. May 31, 1950. 102p. diagrs., photos. 
 (NACA RM E50A04) (Declassified from Restricted, 
-
 12/11/53) 
 
 COMPARISON OF OUTSIDE-SURFACE HEAT- 
@@ -18729,7 +18703,6 @@ APPLICATION OF BLADE COOUNG TO GAS TUR-
 BINES. Herman H. Ellerbrock, Jr. and Louis J. 
 Schafer, Jr. May 31, 1950. 102p. diagrs., photos. 
 (NACA RM E50A04) (Declassified from Restricted, 
-
 12/11/53) 
 
 
@@ -19001,17 +18974,7 @@ PULSE JETS
 
 
 RADIANT HEAT TRANSFER FROM FLAMES IN A 
-
-
-
-oiitvji-ic. 1 UDuijrt.rL 1 urvt&gt;'^u 
-
-
-
-piy .^i-»»*T3riCTi/^D 
-
-
-
+SINGLE TUBULAR TURBOJET COMBUSTOR. 
 Leonard Topper. August 1952. 30p. diagrs. , tab. 
 (NACA RM E52F23) 
 
@@ -19252,11 +19215,7 @@ August 25, 1948. 71p. diagrs., photos., 6 tabs.
 
 PROPULSION 
 
-ACCESSORIES AND ACCESSORY FUNCTIONS (3. 
-
-
-
-12) 
+ACCESSORIES AND ACCESSORY FUNCTIONS (3.12) 
 
 
 
@@ -19609,7 +19568,6 @@ DOWNWASH FOR WING -FUSELAGE COMBINA-
 TIONS WITH WINGS OF ARBITRARY PLAN FORM. 
 Martin Zlotnick and Samuel W. Robinson. Jr. 
 January 1954. 38p. diagrs. (NACA TN 3057. 
-
 Formerly RM L52J27a) 
 
 
@@ -20253,7 +20211,6 @@ DOWNWASH FOR WING-FUSELAGE COMBINA-
 TIONS WITH WINGS OF ARBITRARY PLAN FORM. 
 Martin Zlotnick and Samuel W Robinson. Jr. 
 January 1954. 38p. diagrs. (NACA TN 3057. 
-
 Formerly RM L52J27a) 
 
 IN-v ESTIGATION OF MLTUAL INTERFERENCE 
@@ -20419,16 +20376,11 @@ Water
 
 
 
-(4. 1.2. 1.2) 
-
-GENERALIZED THEORY FOR SEAPLANE IMPACT. 
-Benjamin Milwitzky. 1952. iii, 75p. diagrs., 
-4 tabs. (NACA Rept. 1103) 
 
 
 
 GROUND-RUN 
-(4. 1.2,2) 
+(4. 1.2.2) 
 
 
 
@@ -20444,13 +20396,13 @@ Benjamin Milwitzky. 1952. iii, 75p. diagrs.,
 
 
 
-LOADS AND CONSTRUCTION 141 
+LOADS AND CONSTRUCTION (4) 
 
 
 
 Vibration and Flutter 
 
-I A o\ 
+(4.2) 
 
 
 
@@ -21347,7 +21299,7 @@ STRUCTURES (4.3)
 
 
 
-Riveted - Connections (Cent.) 
+Riveted - Connections (Cont.) 
 
 
 
@@ -21480,7 +21432,6 @@ ELASTIC BUCKUNG UNDER COMBINED STRESSES
 OF FLAT PLATES WITH INTEGRAL WAFFLE - 
 LIKE STIFFENING. Norris F. Dow, L. Ross Levin 
 and John L. Troutman. January 1954. 19p. 
-
 diagrs., photos., tab. (NACA TN 3059) 
 
 DATA ON THE COMPRESSIVE STRENGTH OF 
@@ -21891,7 +21842,7 @@ MATERIAIS
 
 
 
-MATERIALS 151 
+MATERIALS (5) 
 
 
 
@@ -22067,7 +22018,6 @@ THERMAL CONDUCTIVITY OF 14 METALS AND
 ALLOYS UP TO 1100°F. Jerry E. Evans, Jr. 
 March 2, 1951. 15p. diagrs., tab. (NACA 
 RM E50L07) (Declassified from Restricted, 
-
 12/11/53) 
 
 EXPERIMENTAL INVESTIGATION OF AIR-COOLED 
@@ -23050,7 +23000,6 @@ THERMAL CONDUCTIVITY OF 14 METALS AND
 ALLOYS UP TO 1100°F. Jerry E. Evans, Jr. 
 March 2, 1951. 15p. diagrs., tab. (NACA 
 RM E50L07) (Declassified from Restricted, 
-
 12/11/53) 
 
 DEVELOPMENT OF METAL-BONDING ADHESIVE 
@@ -23257,7 +23206,7 @@ METEOROLOGY
 
 
 
-METEOROLOGY 161 
+METEOROLOGY (6) 
 
 
 
@@ -23427,7 +23376,7 @@ Ice Formation
 
 
 
-(6 
+(6 .2)
 
 
 
@@ -23518,7 +23467,7 @@ TN 3147)
 
 OPERATING PROBLEMS 
 
-{7) 
+(7) 
 
 
 
@@ -23585,7 +23534,6 @@ GUST LOADS AND OPERATING AIRSPEEDS OF ONE
 TYPE OF FOUR-ENGINE TRANSPORT AIRPLANE 
 ON THREE ROUTES FROM 1949 TO 1953. Walter. 
 G. Walker. November 1953. 34p. diagrs., 4 tabs. 
-
 (NACA TN 3051) 
 
 TOOTH-TYPE NOISE -SUPPRESSION DEVICES ON 
@@ -23680,7 +23628,6 @@ diagrs. , photos. , 2 tabs. (NACA RM E53C27)
 IMPINGEMENT OF DROPLETS IN 90° ELBOWS 
 WITH POTENTIAL FLOW. Paul T. Hacker, 
 Rinaldo J. Brun and Bemrose Boyd. September 
-
 1953. 58p. diagrs. , 2 tabs. (NACA TN 2999) 
 
 MAXIMUM EVAPORATION RATES OF WATER 
@@ -23710,7 +23657,6 @@ EXPERIMENTAL INVESTIGATION OF SUBLIMA-
 TION OF ICE AT SUBSONIC AND SUPERSONIC 
 SPEEDS AND ITS RELATION TO HEAT TRANSFER. 
 Willard D. Coles and Robert S. Ruggeri. March 
-
 1954. 29p. diagrs., photo. (NACA TN 3104) 
 
 IMPINGEMENT OF WATER DROPLETS ON AN 
@@ -23754,7 +23700,6 @@ PREUMINARY RESULTS OF NATURAL ICING OF
 AN AXIAL-FLOW TURBOJET ENGINE. Loren W. 
 Acker. August 6, 1948. 16p. diagrs., photos. 
 (NACA RM E8C18) (Declassified from Restricted, 
-
 12/14/53) 
 
 
@@ -23983,7 +23928,6 @@ PREUMINARY RESULTS OF NATURAL ICING OF
 AN AXLAL-FLOW TURBOJET ENGINE. Loren W. 
 Acker. August 6, 1948. 16p. diagrs., photos. 
 (NACA RM ESC 18) (Declassified (rom Restricted, 
-
 12/14/53) 
 
 NATURAL ICING OF AN AXIAL -FLOW TURBOJET 
@@ -24394,7 +24338,7 @@ Herman H. Lowell. October 1953. 56p. diagrs.
 
 RESEARCH EQUIPMENT AND TECHNIQUES 
 
-(') 
+(9) 
 
 
 
@@ -24408,7 +24352,7 @@ I
 
 RESEARCH EQUIPMENT AND TECHNIQUES 
 
-(') 
+(9) 
 
 
 
@@ -24840,7 +24784,6 @@ INVESTIGATION OF WING CHARACTERISTICS AT A
 MACH NUMBER OF 1.S3. I - TRIANGULAR WINGS 
 OF ASPECT RATIO 2. Walter G. Vlncentl, Jack N. 
 Nielsen and Frederick H. Matteson. December 19, 
-
 1947. 83p. dlagrs., photos., tab. (NACA RM A7I10) 
 (Declassified from Conlidential, 10/5/53) 
 
@@ -24848,7 +24791,6 @@ PRESSURE DISTRIBUTION OVER A SHARP-NOSE
 BODY OF REVOLUTION AT TRANSONIC SPEEDS 
 BY THE NACA WING-FLOW METHOD. Edvard 
 C. B. Danforth and J. Ford Johnston. March 5, 
-
 1948. 25p. diagrs., photos. (NACA RM LTK12) 
 (Declassified from Confidential, 1/8/54) 
 
@@ -25365,7 +25307,7 @@ WALL OF FINITE AMPLITUDE. Carl Kaplan.
 February 1954. 26p. diagrs., 2 tabs. (NACA 
 TN 3069) 
 
-
+(10)
 
 BIBLIOGRAPHIES AND INDEXES 
 
@@ -25381,7 +25323,7 @@ I
 
 BIBLIOGRAPHIES AND INDEXES 
 
-(") 
+(11) 
 
 
 

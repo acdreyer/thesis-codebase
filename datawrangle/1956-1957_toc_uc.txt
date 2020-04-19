@@ -87,7 +87,7 @@ INITIAL FLUTTER TESTS IN THE LANG LEY TRAN-
 SONIC BLOWDOWN TUNNEL AND COMPARISON 
 WITH FREE -FLIGHT FLUTTER RESULTS. WiUiam 
 J. Bur snail. January 1953. 19p. diagrs., photos., 
-tabs. (NACARML52K14) 
+tabs. (NACA RM L52K14) 
 
 
 
@@ -516,7 +516,7 @@ Robinson. March 1954. 34p. diagrs., tab.
 TRANSONIC FLOW PAST CONE CYLINDERS. 
 George E. Solomon, California Institute of Technol- 
 ogy. 1955. U, 16p. dlagrs., photos. (NACA 
-Rapt. 1242. Supersedes TN 3213) 
+Rept. 1242. Supersedes TN 3213) 
 
 
 
@@ -825,7 +825,6 @@ TN 3373; TN 3240)
 
 ON BOATTAIL BODIES OF REVOLUTION HAVING 
 MINIMUM WAVE DRAG. Keith C. Harder and 
-
 Conrad Rennemann, Jr. 1956. ii, 9p. diagrs., tabs. 
 (NACA Rept. 1271. Supersedes TN 3478) 
 
@@ -867,7 +866,7 @@ Records of the Moscow State University, v. 154,
 Mechanics no.4, 1951, with appendix condensed from 
 a document ''Modern Problems of Mechanics, " 
 Govt. Pub. House of Tech. Theor. Literature, 
-(Moscow, Leningrad) 1952.) 
+(Moscow, Leningrad) 1952. 
 
 
 
@@ -1012,7 +1011,7 @@ Paul F. Brinich and Norman Sands. May 1957.
 
 
 
-(1.L3) 
+(1.1.3) 
 VISCOUS FLOW 
 
 
@@ -1334,7 +1333,7 @@ BOUNDARY-LAYER TRANSITION AT MACH 3.12
 AS AFFECTED BY COOLING AND NOSE BLUNTING. 
 N. S. Diaconis, John R. Jack, andRithardJ, 
 Wisniewski. January 1957. 17p. diagrs., photos. 
-(^ACA TN 3928) 
+(NACA TN 3928) 
 
 
 
@@ -1519,7 +1518,6 @@ TURBULENT CONVECTIVE HEAT -TRANSFER
 COEFFICIENTS MEASURED FROM FUGHT TESTS 
 OF FOUR RESEARCH MODELS (NACA RM-10) AT 
 MACH NUMBERS FROM 1.0 TO 3,6. Leo T. 
-
 Chauvin and Joseph P. Maloney. March 1955. 30p. 
 diagrs., photo., tabs. (NACA RM L54L15) 
 
@@ -1631,7 +1629,7 @@ BOUNDARY-LAYER TRANSITION AT MACH 3.12
 AS AFFECTED BY COOLING AND NOSE BLUNTING. 
 N. S. Diaconis, John R. Jack, and Richard J. 
 Wisniewski. January 1957. 17p. diagrs., photos. 
-^NACA TN 3928) 
+(NACA TN 3928) 
 
 
 
@@ -1883,7 +1881,7 @@ BOUNDARY-LAYER TRANSITION AT MACH 3.12
 AS AFFECTED BY COOLING AND NOSE BLUNTING. 
 N. S. Diaconis, John R. Jack, and Richard J, 
 Wisniewski. January 1957. 17p. diagrs., photos. 
-(fJACA TN 3928) 
+(NACA TN 3928) 
 
 
 
@@ -2099,7 +2097,7 @@ BOUNDARY-LAYER TRANSITION AT MACH 3.12
 AS AFFECTED BY COOLING AND NOSE BLUNTING. 
 N. S. Diaconis, John R. Jack, and Richard J. 
 Wisnlewski. January 1957. 17p. diagrs., photos. 
-(^ACA TN 3928) 
+(NACA TN 3928) 
 
 
 
@@ -2585,7 +2583,7 @@ USE OF TRUNCATED FLAPPED AIRFOILS FOR
 IMPINGEMENT AND ICING TESTS OF FULL-SCALE 
 LEADING-EDGE SECTIONS. Uwe H. von Glahn. 
 July 1956. 29p. diagrs., photos., tabs. 
-(NACA RME56E11) 
+(NACA RM E56E11) 
 
 
 
@@ -2709,7 +2707,6 @@ Wilsted and W. D. Stemples. February 18, 1948.
 
 ESTIMATION OF INCREMENTAL PITCHING MO- 
 MENTS DUE TO TRAIUNG-EDGE FLAPS ON 
-
 SWEPT AND TRIANGULAR WINGS. Harry A. 
 James and Lynn W. Hunton. June 1955. 31p. 
 diagrs., tab. (NACA RM A55D07) 
@@ -3332,7 +3329,7 @@ INrrUL FLUTTER TESTS IN THE LANGLEY TRAN-
 SONIC BLOWDOV^'N TUN^iEL AxNT) COMPARISON 
 WITH FREE-FLIGHT FLUTTER RESULTS. WilUam 
 J. Bursnall. January 1953. 19p, diagrs.. photos., 
-tabs. (NACARM L52K14) -* . *- 
+tabs. (NACA RM L52K14) -* . *- 
 
 
 
@@ -3429,7 +3426,7 @@ Donald E. Coletti. June 1955. 32p. diagrs.
 THE PROPER COMBINATION OF UFT LOADINGS 
 FOR LEAST DRAG ON A SUPERSONIC WING . 
 Frederick C. Grant. 1956. ii, 9p. diagrs., tab. 
-(NACA Kept. 1275. Supersedes TN 3533) 
+(NACA Rept. 1275. Supersedes TN 3533) 
 
 
 
@@ -3472,7 +3469,7 @@ Records of the Moscow State University, v.l54,
 Mechanics no.4, 1951, with appendix condensed from 
 a document « Modern Problems of Mechanics, » 
 Govt. Pub. House of Tech. Theor. Literature, 
-(Moscow, Leningrad) 1952.) 
+(Moscow, Leningrad) 1952. 
 
 CALCULATION AND COMPILATION OF THE 
 UNSTEADY-LIFT FUNCTIONS FOR A RIGH) WING 
@@ -4163,7 +4160,7 @@ Schneider. July 1955. 6Sp. diagrs.
 
 
 
-(1.2-2.2.2) 
+(1.2.2.2.2) 
 
 Aspect Ratio 
 
@@ -4990,7 +4987,6 @@ SOME LOW -SPEED WIND-TUNNEL EXPERIMENTS
 PERTAINING TO THE LONGITUDINAL STABILITY 
 CHARACTERISTICS OF A 35° SWEPT-WING MODEL 
 AND AN UNSWEPT-WING MODEL. Byron M, 
-
 laquet. Ortober 1953 43p. diagrs., photos., tab. 
 (NACA RM L53H31) 
 
@@ -5108,7 +5104,6 @@ A WIND-TUNNEL INVESTIGATION AT HIGH SUB-
 SONIC SPEEDS OF THE LATERAL CONTROL 
 CHARACTERISTICS OF VARIOUS PLAIN SPOILER 
 CONFIGURATIONS ON A 3-PERCEN"r -THICK 60° 
-
 DELTA WING. Harleth G. Wiley . May 1954. 45p. 
 diagrs., tabs. (NACA RM L54D01) 
 
@@ -5236,7 +5231,6 @@ LOW -SPEED WIND-TUNNEL INVESTIGATION OF
 LEADING-EDGE POROUS SUCTION ON A 4- 
 PERCENT-THICK 60° DELTA WING. E. Carson 
 Yates, Jr. March 1955. 73p. diagrs., photo., tabs. 
-
 (NACA RM L54L21) 
 
 
@@ -5263,7 +5257,6 @@ diagrs., photo. (NACARM L55D22)
 SOME FACTORS AFFECTING THE VARIATION OF 
 PITCHING MOMENT WITH SIDESLIP OF AIRCRAFT 
 CONFIGURATIONS. Edward C. Polhamus. July 
-
 1955. 29p. diagrs. (NACARM L55E20b) 
 
 EXPERIMENTAL INVESTIGATION AT HIGH SUB- 
@@ -5294,7 +5287,6 @@ THE USE OF LEADING-EDGE AREA SUCTION FOR
 THE PURPOSE OF INCREASING THE MAXIMUM 
 LIFT COEFFICIENT OF A 35° SWEPT-WING AIR- 
 PLANE, Curt A. Holzhauser and Richard S. Bray. 
-
 1956. ii, 24p. diagrs., photos., tabs. (NACA Rept. 
 1276. Supersedes RM A52G17; RM A55C07) 
 
@@ -5721,7 +5713,6 @@ diagrs., tab. (NACA RM A55D07)
 FULL-SCALE WIND TUNNEL TESTS OF A 35° 
 SWEPTBACK WING AIRPLANE WITH HIGH- 
 VELOCITY BLOWING OVER THE TRAILING-EDGE 
-
 FLAPS. MarkW. Kelly and William H. Tolhurst, 
 Jr. November 1955. 49p. diagrs., photos., tab. 
 (NACA RM A55I09) 
@@ -6033,7 +6024,6 @@ diagrs., photo., tabs. (NACA RM L54B03)
 THE USE OF AREA SUCTION TO INCREASE THE 
 EFFECTIVENESS OF A TRAILING-EDGE FLAP ON 
 A TRIANGULAR WING OF ASPECT RATIO 2. Mark 
-
 W. Kelly and William H. Tolhurst, Jr. April 1954. 
 44p. diagrs., photos. (NACA RM A54A25) 
 
@@ -6214,7 +6204,7 @@ diagrs. (NACA TN 3917)
 
 
 
-(i.2.2.3.Z) 
+(1.2.2.3.2) 
 Slots and Slats 
 
 
@@ -6573,7 +6563,7 @@ H. Berman. July 1956. 46p. diagrs.
 
 
 
-(i. 2.2.4.1) 
+(1. 2.2.4.1) 
 
 Flap Type 
 
@@ -7181,7 +7171,7 @@ SURFACES. Vernon J. Rossow. March 1956. u,
 
 
 
-{1.2.2.5) 
+(1.2.2.5) 
 REYNOLDS NUMBER EFFECTS 
 
 
@@ -7473,7 +7463,7 @@ diagrs., photos,, tab. (NACA RM A53C20)
 
 
 
-{ 1 ) AERODYNAMICS 
+(1) AERODYNAMICS 
 
 
 
@@ -8129,7 +8119,7 @@ INITIAL FLUTTER TESTS IN THE LANGLEY TRAN-
 SONIC SLOWDOWN TUNNEL AND COMPARISON 
 WITH FREE-FLIGHT FLUTTER RESULTS. WilUam 
 J. Bursnall. January 1953. 19p. diagrs., photos., 
-tabs. (NACARML52K14) 
+tabs. (NACA RM L52K14) 
 
 
 
@@ -8399,7 +8389,6 @@ FREE-FLIGHT MEASUREMENTS OF THE ROLLING
 EFFECTIVENESS AND DRAG OF TRAILING-EDGE 
 SPOILERS ON A TAPERED SWEPTBACK WING AT 
 MACH NUMBERS BETWEEN 0.6 AND 1.4. Eugene 
-
 D. Schult and £. M. Fields. February 1954. 14p. 
 diagrs., photos. (NACA RM L53L14a) 
 
@@ -8424,7 +8413,6 @@ AND SIZE ON THE SUBSONIC LONGITUDINAL
 AERODYNAMIC CHARACTERISTICS OF AN AIR- 
 PLANE MODEL HAVING A TRIANGULAR WING OF 
 ASPECT RATIO 3. Bruce E. TinUng and Armando 
-
 E. Lopez. March 1954. 85p. diagrs., photo., tabs. 
 (NACARM A53L15) 
 
@@ -8643,7 +8631,7 @@ K. R. Czamecki and Douglas R. Lord. May 1955.
 
 AN INVESTIGATION OF LOADS ON AILERONS AT 
 TRANSONIC SPEEDS. Jack F. Runckel and W. H. 
-Gray. May 1955. 8|&gt;. diagrs. (NACA RM L55E13) 
+Gray. May 1955. 8&gt;. diagrs. (NACA RM L55E13) 
 
 
 
@@ -9002,7 +8990,6 @@ A CORRELATION OF AIRFOIL SECTION DATA
 WITH THE AERODYNAMIC LOADS MEASURED ON 
 A 45° SWEPTBACK WING MODEL AT SUBSONIC 
 MACH NUMBERS . Harold J . Walker and William C . 
-
 Maillard. May 1955. 78p. diagrs., photo., tabs. 
 (NACA RM A55C08) 
 
@@ -9661,7 +9648,6 @@ EFFECT OF VARIATIONS IN REYNOLDS NUMBER
 ON THE AERODYNAMIC CHARACTERISTICS OF 
 THREE BOMB OR STORE SHAPES AT A MACH 
 NUMBER OF 1.62 WITH AND WITHOUT FINS. 
-
 Robert W. Rainey. June 1953. 40p. diagrs., 
 photos., tab. (NACA RM L53D27) 
 
@@ -9857,7 +9843,7 @@ photos., tab. (NACARM L53K10)
 EXPERIMENTAL DRAG COEFFICIENTS OF ROUND 
 NOSES WITH CONICAL WINDSHIELDS AT MACH 
 NUMBER 2.72. Jim J. Jones. June 1955. 18p. 
-diagrs., photos. (NACARM L55E10) 
+diagrs., photos. (NACA RM L55E10) 
 
 
 
@@ -10676,7 +10662,6 @@ INTER FEROMETRIC OBSERVATION OF FLOW
 ABOUT AN ISENTROPIC (REVERSE PRANDTL- 
 MEYER STREAMLINE) COMPRESSION WEDGE AT 
 MACH 3.0. James F. Connors, Richard R. Woollett, 
-
 and Robert E. Blue. March 1955. 12p. diagrs., 
 photos. (NACA RM E55A28) 
 
@@ -10806,7 +10791,7 @@ Harold R. Mull and John C . Erickson, Jr. April
 
 
 
-(K4. 2. 3) 
+(1.4. 2. 3) 
 PIPES 
 
 
@@ -11047,12 +11032,10 @@ Ub. (NACA RM L52L17)
 COMPARISON OF LOW-SPEED ROTOR AND 
 CASCADE PERFORMANCE FOR MEDIUM- 
 CAMBER NACA 65-(Cj Aio)10 COMPRESSOR- 
-
-o 
 BLADE SECTIONS OVER A WIDE RANGE OF 
 ROTOR BLADE -SETTING ANGLES AT SOLXDITIES 
 OF 1.0 AND 0.5. George C. Ashby, Jr. December 
-1954. 40p. dlagrs., photo. (NACA RM L54I13) 
+1954. 40p. diagrs., photo. (NACA RM L54I13) 
 
 
 
@@ -11173,9 +11156,6 @@ FANS
 COMPARISON OF LOW -SPEED ROTOR AND 
 CASCADE PERFORMANCE FOR MEDIUM- 
 CAMBER NACA 65-(C A^QJIO COMPRESSOR- 
-
-
-
 DISTRIBUTION OF LOSSES BEHIND A COMPRES- 
 SOR ROTOR AS MEASURED BY A ROTATING 
 RAKE. William R. Godwin. January 1956. 66p. 
@@ -11639,7 +11619,7 @@ diagrs., photo. (NACA RM L56C27)
 
 
 
-(1.5. Z. 8) 
+(1.5. 2. 8) 
 INTERFERENCE OF BODIES 
 
 
@@ -11862,7 +11842,10 @@ RM A53A30a)
 
 
 (1.5.7) 
-PROPELLER - SPINNER - COWL 
+PROPELLER - 
+
+SPINNER - COWL 
+
 COMBINATIONS 
 
 
@@ -13064,7 +13047,6 @@ GENERAL THEORY OF WAVE-DRAG REDUCTION
 FOR COMBINATIONS EMPLOYING QUASI- 
 CYLINDRICAL BODIES WITH AN APPLICATION TO 
 SWEPT -WING AND BODY COMBINATIONS. Jack N. 
-
 Nielsen and William C. Pitts. September 1956. 79p. 
 diagrs. (NACA TN 3722. Supersedes RM A55B07) 
 
@@ -13374,23 +13356,11 @@ STATIC LATERAL STABIUTY CHARACTERISTICS
 OF AN AIRPLANE MODEL HAVING A 47.7^ 
 SWEPTBACK WING OF ASPECT RATIO 6 AND THE 
 CONTRIBUTION OF VARIOUS MODEL COMPO- 
-
-
-
-NENTS AT A REYNOLDS NUMBER OF 4.45 x 10' 
-
-
-
-.6 
-
-
-
-Roland F. Griner. September 1953. 
+NENTS AT A REYNOLDS NUMBER OF 4.45 x 10'.6 
+Roland F. Griner. September 1953. 83p. diagrs., 
 photos., tabs. (NACA RM L53G09) 
 
 
-
-83p. diagrs., 
 
 
 
@@ -13561,9 +13531,8 @@ Donald A. Buell and Bruce E . Tinllng. July 1955.
 
 SOME FACTOP-S AFFECTING THE VAJUATION OF 
 PITCHING MOMENT WITH SIDESLIP OF AIRCRAFT 
-CONFIGURATIONS . E dward C . Polhamus . July 
+CONFIGURATIONS . Edward C. Polhamus . July 1955. 29p. diagrs. (NACA RM L55E20b) 
 
-1955. 29p. diagrs. (NACA RM L55E20b) 
 
 FLIGHT MEASUREMENTS OF THE VERTICAL-TAIL 
 LOADS ON THE CONVAIR XF-9?A DELTA-WING 
@@ -13908,13 +13877,12 @@ diagrs. (NACA TN 3938)
 
 ^COMPRESSIBLE FLUTTER CHARACTERISTICS 
 OF REPRESENTATIVE AIRCRAFT WINGS. C. H. 
-
 Wilts, California Institute of Technology. April 
 1957. 121p. diagrs., tabs. (NACA TN 3780) 
 
 
 
-(1-7.1.2) 
+(1.7.1.2) 
 SPECIFIC AIRPLANES 
 
 
@@ -14733,7 +14701,6 @@ Si^ersedes RM A55B16)
 
 
 THEORY OF WING -BODY DRAG AT SUPERSONIC 
-
 SPEEDS. Robert T. Jones. 1956. il, 7p. diagrs. 
 (NACA Rept. 1284. Supersedes RM A53Hl8a) 
 
@@ -15470,7 +15437,7 @@ AUTOGIROS
 CHARTS FOR ESTIMATING PERFORMANCE OF 
 HIGH-PERFORMANCE HELICOPTERS. Alfred 
 Gessow and Robert J. Tapscott. 1956. ii, 33p. 
-diagrs, (NACA Kept 1266. Supersedes TN 3323; 
+diagrs, (NACA Rept. 1266. Supersedes TN 3323; 
 TN 3482) 
 
 
@@ -17011,7 +16978,6 @@ GROUND EFFECTS ON THE LONGITUDINAL
 CHARACTERISTICS OF TWO MODELS WITH WINGS 
 HAVING LOW ASPECT RATIO AND POINTED TIPS. 
 Donald A. Buell and Bruce E. Tinling. July 1955. 
-
 48p. diagrs., photos., tabs. • (NACA RM A55E04) 
 
 
@@ -19117,7 +19083,7 @@ DERIVATIVES OF TWO WING-FUSELAGE COMBI-
 NATIONS HAVING TRIANGULAR WINGS, INCLUD- 
 ING A SEMIEMPIRICAL METHOD OF ESTIMATING 
 THE ROLLING DERIVATIVES. James W. Wiggins. 
-February 1954. 32p. diagrs. (NT^CA RM L53L18a) 
+February 1954. 32p. diagrs. (NACA RM L53L18a) 
 
 
 
@@ -20706,7 +20672,7 @@ TERISTICS OF A HALF -DELTA TIP CONTROL ON
 A 590 SWEPTBACK DELTA WING BETWEEN MACH 
 NUMBERS OF 0.55 AND 1.43. C. WUlUm MarU, 
 James D. Church, and John W. Goslee. October 
-1952. 53p. dlagrs.| photos.| tab. 
+1952. 53p. dlagrs. photos. tab. 
 (NACA RM L52H06) 
 
 
@@ -21655,7 +21621,7 @@ WITH A YAW DAMPER, WITH SPECIAL REFER-
 ENCE TO THE EFFECT OF YAW-DAMPER RATE- 
 GYRO SPIN-AXIS ORIENTATION. Ordway B. Gates, 
 Jr., Albert A. Schy, and C. H. Woodling. March 
-1953. 36p. diagrb., tabo. (T^ACA RM L52K14a) 
+1953. 36p. diagrb., tabo. (NACA RM L52K14a) 
 
 
 
@@ -21928,7 +21894,6 @@ FLIGHT INVESTIGATION OF AN AILERON AND A
 SPOILER ON A WING OF THE X-3 AIRPLANE 
 PLAN FORM AT MACH NUMBERS FROM 0.5 TO 
 1,6. Roland D. English. June 1954. 16p. diagrs., 
-
 photos. (NACA RM L54D26a) 
 
 
@@ -21972,7 +21937,6 @@ Schneider. March 1955. 50p. diagrs., photo., tabs,
 EXPERIMENTAL FLUTTER INVESTIGATION OF A 
 THIN UNSWEPT WING AT TRANSONIC SPEEDS. 
 George L, Pratt. April 1955. 24p, diagrs., tabs. 
-
 (NACA RM L55A18) 
 
 THE EFFECTS OF FLEXIBIUTY ON THE LONGI- 
@@ -22082,7 +22046,7 @@ John M. Hedgepeth and Paul G. Waner, Jr. April
 
 
 
-(UO) 
+(1.10) 
 Parochutes 
 
 
@@ -22277,7 +22241,6 @@ COMPARISON OF EXPERIMENTAL HYDRODYNAM-
 IC IMPACT LOADS AND MOTIONS FOR A V-STEP 
 AND A TRANSVERSE-STEP HYDRO-SKI. Robert W. 
 Miller. February 1954. 14p. diagrs., tabs. 
-
 (NACA RM L53K20a) 
 
 
@@ -22541,7 +22504,6 @@ October 1952. 71p. diagrs. (NACA RM L52H15)
 COMPARISON OF EXPERIMENTAL HYDRODYNAM- 
 IC IMPACT LOADS AND MOTIONS FOR A V-STEP 
 AND A TRANSVERSE-STEP HYDRO-SKI. Robert W. 
-
 Miller. February 1954. Up. diagrs., tabs. 
 (NACA RM L53K20a) 
 
@@ -22719,7 +22681,7 @@ Wilsted and W. D. Stemples. February 18, 1948.
 
 
 
-(3.U) 
+(3.1.1) 
 RECIPROCATING ENGINES 
 
 
@@ -22738,7 +22700,7 @@ Dugald O. Black. December 1956. 18p. diagrs.
 
 
 
-(3.L3) 
+(3.1.3) 
 TURBOJET ENGINES 
 
 
@@ -23158,7 +23120,6 @@ March 1955. 45p. diagrs. (NACA RM E54L20)
 
 
 EFFECT OF FLIGHT SPEED ON DYNAMICS OF A 
-
 TURBOPROP ENGINE. S. Nakanishi, R. T. Craig, 
 and D. B. Wile. AprU 1955. 40p. diagrs., photo., 
 tabs. (NACA RM E55A05) 
@@ -23646,7 +23607,6 @@ TN 3336)
 
 
 STEADY NUCLEAR COMBUSTION IN ROCKETS. 
-
 (Stationare Kemverbrennung In Raketen) . 
 E.Sanger. April 1957. 39p. diagrs., tab. 
 (NACA TM 1405. Translation from Astronautica 
@@ -24525,7 +24485,6 @@ tab. (NACA RM E54L27a)
 CORRELATION OF TURBOJET COMBUSTOR CAR- 
 BON FORMATION WITH SMOKE-VOLATILITY 
 INDEX, SMOKE POINT, AND NACA K FACTOR. 
-
 Edmund R. Jonash, Helmut F. Butze, and William P. 
 Cook. June 1955. 28p. diagrs., photos,, tabs. 
 (NACA RM E55D28) 
@@ -24929,7 +24888,6 @@ THEORETICAL PERFORMANCE OF UQUID
 AMMONIA AND LIQUID FLUORINE AS A ROCKET 
 PROPELLANT, Sanford Gordon and Vearl N. Huff. 
 BAarch 1953. 25p. diagrs., tabs. 
-
 (NACARME53A26) 
 
 
@@ -25310,7 +25268,6 @@ EFFECTS OF FUEL ATOMIZATION
 
 ALTITUDE OPERATION OF GAS-TLRBINE ENGINE 
 WITH VARIABLE-AREA FUEL-NOZZLE SYSTEM. 
-
 H, Gold and S. Rosenzweig. April 2, 1951. 41p. 
 diagrs., photos. (NACA RM E51A04) 
 
@@ -25429,7 +25386,6 @@ IGNITION OF GASES
 
 PRELIMINARY RESULTS OF TURBOJET-ENGINE 
 ALTITUDE -STARTING INVESTIGATION. H. D. 
-
 Wilsted and J. C. Armstrong. November 1951. 
 25p. diagrs. (NACA RM E51H30) 
 
@@ -25458,7 +25414,9 @@ diagrs., photos., tab. (NACA TN 3935)
 
 (3.5.2) 
 EFFECT OF ENGINE OPERATING 
+
 CONDITIONS AND COMBUSTION 
+
 CHAMBER GEOMETRY 
 
 
@@ -25788,8 +25746,13 @@ diagrs., tabs. (NACA RM E8I17a)
 
 
 
-EXPERIMENTAL INVESTIGATION OF LIQUID 
-DIBORANE - LIQUID OXYGEN PROPELLANT 
+EXPERIMENTAL INVESTIGATION 
+
+OF LIQUID 
+
+DIBORANE - LIQUID 
+
+OXYGEN PROPELLANT 
 
 COMBINATION IN 100-POUND-THRUST ROCKET 
 ENGINE. William H. Rowe, Paul M. Ordin, and 
@@ -25874,7 +25837,6 @@ THEORETICAL PERFORMANCE OF UQUID HY-
 DROGEN AND UQUID FLUORINE AS A ROCKET 
 PROPELLANT. Sanford Gordon and Vearl N. Huff. 
 February 1953. 28p. diagrs., Ubs. 
-
 (NACARME52L11) 
 
 
@@ -26052,7 +26014,6 @@ tabs. (NACA TN 3831)
 
 INVESTIGATION OF ROTATING STALL IN A 
 SINGLE-STAGE AXIAL COMPRESSOR. S. R. 
-
 Montgomery and J. J. Braun, Massachusetts 
 Institute of Technology. January 1957. 28p. 
 diagrs., photos. (NACA TN 3823) 
@@ -26144,8 +26105,6 @@ Costilow. August 1954. 27p. diagrs., photos.
 COMPARISON OF LOW -SPEED ROTOR AND 
 CASCADE PERFORMANCE FOR MEDIUM- 
 CAMBER NACA 65-(Cj Aiq)10 COMPRESSOR- 
-
-o 
 BLADE SECTIONS OVER A WIDE RANGE OF 
 ROTOR BLADE-SETTING ANGLES AT SOUDITIES 
 OF 1.0 AND 0.5, George C. Aahby, Jr. December 
@@ -26651,6 +26610,12 @@ THEORY AND EXPERIMENT
 
 
 HIGH-TEMPERATURE LUBRICANTS AND BEAR- 
+INGS FOR AIRCRAFT TURBINE ENGINES. F. W. 
+Wellons. July 1954. (i), lOlp. diagrs., photos., 
+tabs. (NACA RM E54D27) 
+
+
+HIGH-TEMPERATURE LUBRICANTS AND BEAR- 
 INGS FOR AIRCRAFT TURBINE ENGINES. NACA 
 Subcommittee on Lubrication and Wear. APPENDIX 
 A: HIGH-SPEED AIRCRAFT MISSIONS. C. M. 
@@ -26673,7 +26638,6 @@ Johnson and E. E. Bisson. APPENDIX G: HIGH-
 TEMPERATURE BEARING PROBLEMS. F. W. 
 Wellons. July 1954. (i), lOlp. diagrs., photos., 
 tabs. (NACA RM E54D27) 
-
 
 
 (3.8,1.2) 
@@ -27143,7 +27107,6 @@ HEAT EXCHANGERS
 
 RAPID DETERMINATION OF CORE DIMENSIONS OF 
 CROSSFLOW GAS-TO-GAS HEAT EXCHANGERS. 
-
 Anthony J. Diaguila and John N, B. Livingood. 
 December 1956. 19p. diagrs., tabs. 
 (NACA TN 3891) 
@@ -27484,7 +27447,7 @@ TN 2349)
 
 
 
-(3J2.2) 
+(3.12.2) 
 IGNITION SYSTEMS 
 
 
@@ -27526,7 +27489,6 @@ STARTING SYSTEMS
 
 PRELIMINARY RESULTS OF TURBOJET-ENGINE 
 ALTITUDE -STARTING INVESTIGATION. H. D. 
-
 Wilsted and J. C. Armstrong. November 1951. 
 25p. diagrs. (NACA RM E51H30) 
 
@@ -27952,7 +27914,7 @@ ON THE KERNEL FUNCTION OF THE INTECSIAL
 EQUATION RELATING LIFT AND DOWNWASH DIS- 
 TRIBUTIONS OF OSCILLATING WINGS IN SUPER- 
 SONIC FLOW. Charles E. WatUns and Julian H. 
-Berman. 1056. ii, 18p. dlagrs. (NACA Rept 
+Berman. 1056. ii, 18p. dlagrs. (NACA Rept. 
 1257. Supersedes TN 3438) 
 
 
@@ -28067,11 +28029,8 @@ diagrs., photo., tab. (NACA RM L52G17)
 
 
 
-STATIC AEROELASTIC PHENOMENA OF M-, W-, 
-
-AND A -WINGS. Franklin W. Diederich and Kenneth 
-A. Foss. February 1953. il, 11 Ip. diagrs., tabs. 
-(NACA RM L52J21) 
+STATIC AEROELASTIC PHENOMENA OF M-, W-, AND A -WINGS. Franklin W. Diederich and Kenneth 
+A. Foss. February 1953. il, 11 Ip. diagrs., tabs. (NACA RM L52J21) 
 
 
 
@@ -28191,7 +28150,6 @@ tab. (NACARM A55C23)
 
 ESTIMATION OF INCREMENTAL "PITCHING MO- 
 MENTS DUE TO TRAIUNG-EDGE FLAPS ON 
-
 SWEPT AND TRIANGULAR WINGS. Harry A. 
 James and Lynn W. Hunton. June 1955. 31p, 
 diagrs., tab. (NACA RM A55D07) 
@@ -29304,7 +29262,6 @@ Kenneth L. Wadlin and John A. Ramsen. June 12,
 
 COMPARISON OF EXPERIMENTAL HYDRODYNAM- 
 IC IMPACT LOADS AND MOTIONS FOR A V-STEP 
-
 AND A TRANSVERSE-STEP HYDRO-SKI. Robert'W. 
 Miller. February 1954. Up. diagrs., tabs. 
 (NACA RM L53K20a) 
@@ -29363,9 +29320,7 @@ Emanuel Schnitzer. October 1956. 27p. diagrs,
 
 MEASUREMENTS OF RUNWAY ROUGHNESS OF 
 FOUR COMMERCIAL AIRPORTS. Dexter M. Potter. 
-
-January 1957. 86p. diagrs., tabs, 
-(NACA RM L56I26) 
+January 1957. 86p. diagrs., tabs, (NACA RM L56I26) 
 
 
 
@@ -29692,7 +29647,7 @@ Records of the Moscow State University, v. 154,
 Mechanics n6.4, 1951, with appendix condensed from 
 a document "Modern Problems of Mechanics, 
 Govt. Pub. House of Tech. Theor. Literature, 
-(Moscow, Leningrad) 1952.) 
+(Moscow, Leningrad) 1952. 
 
 
 
@@ -29751,7 +29706,6 @@ James H. Parks and Alan B. Kehlet. December
 
 
 SAFEGUARDS AGAINST FLUTTER OF AIRPLANES. 
-
 (Precautions a prendre pour eviter les vibrations 
 a^rodynamiques des avlons. I - Voilure. II - 
 Empennages). Gerhard-De Vries. August 1956. 
@@ -29767,7 +29721,6 @@ ELEVATORS AND RUDDERS
 
 
 SAFEGUARDS AGAINST FLUTTER OF AIRPLANES. 
-
 (Precautions a prendre pour eviter les vibrations 
 a^rodynamiques des avlons. I - Voilure. II - 
 Empennages). Gerhard-De Vries. August 1956. 
@@ -31483,7 +31436,6 @@ EFFECTS OF A STRAIGHTENING OPERATION ON
 PERFORMANCE OF INCONEL 550 BUCKETS. 
 C. A. Gyorgak, J, R. Johnston, and J. W. Weeton. 
 February 1956. 24p. diagrs., photos., tabs. 
-
 (NACA RM E55L06) 
 
 
@@ -31998,7 +31950,7 @@ Schlechte. May 1957. 23p. diagrs.
 
 
 
-(5:2.4) 
+(5.2.4) 
 STRESS-RUPTURE 
 
 
@@ -32242,7 +32194,6 @@ NATE TO STEEL. John R. Davidson. December
 
 AN INVESTIGATION OF HIGH -TEMPERATURE 
 VACUUM AND HYDROGEN FURNACE BRAZING. 
-
 Walter E. Russell and John P . Wisner. March 
 1957. 29p. dlagrs., photos., tabs. 
 (NACA TN 3932) 
@@ -32717,7 +32668,7 @@ tab. (NACARM 1-57A11)
 
 
 
-(6. 1.2. I) 
+(6. 1.2. 1) 
 STRUCTURE 
 
 
@@ -32806,7 +32757,7 @@ diagrs., tabs. (NACA TN 3954)
 
 
 
-(6„ 1.2.4) 
+(6.1.2.4) 
 ALLEVIATION 
 
 
@@ -33096,10 +33047,10 @@ photos., tabs. (NACA TN 3839)
 (7.3.1) 
 ENGINE INDUCTION SYSTEMS 
 
+
 IMPINGEMENT OF DROPLETS IN 60° ELBOWS 
 WITH POTENTIAL FLOW. Paul T. Hacker, Paul G. 
 Saper, and Charles F. Kadow. October 1956. 
-
 54p. diagrs-, tabs. (NACA TN 3770) 
 
 
@@ -33154,7 +33105,7 @@ THE NEAR NOISE FIELD OF STATIC JETS AND
 SOME MODEL STUDIES OF DEVICES FOR NOISE 
 REDUCTION. Leslie W. Lassiter and Harvey H. 
 Hubbard. 1956. i, 12p. diagrs., photos. 
-(NACA Kept. 1261. Supersedes TN 3187) 
+(NACA Rept. 1261. Supersedes TN 3187) 
 
 
 
@@ -33842,7 +33793,6 @@ E. Angle and Reginald R. Lundstrom. November 30,
 LONGITUDINAL TRIM AND DRAG CHARACTER- 
 ISTICS OF ROCKET -PROPELLED MODELS REPRE- 
 SENTING TWO AIRPLANE CONFIGURATIONS. 
-
 James H. Parks and Jesse L. Mitchell. February 6, 
 1950. 25p. diagrs., photos., tab. 
 (NACA RM L9L22) 
@@ -33949,8 +33899,7 @@ Brussels, Belgium, August 27-31, 1956). August
 FREE-JET TESTS OF A 1.1-lNCH-DIAMETER 
 StJPERSONIC RAM-JET ENGINE. Joseph H. Judd 
 and Otto F. Trout, Jr. February 1957. 24p. 
-diagrs., photos., tabs. (NACA TN 3906. Super- 
-sedes RM L51L18) 
+diagrs., photos., tabs. (NACA TN 3906. Supersedes RM L51L18) 
 
 
 
@@ -34457,7 +34406,6 @@ photo., tabs. (NACA TN 3766)
 
 THE MOTIONS OF ROLLING SYMMETRICAL MIS- 
 SILES REFERRED TO A BODY-AXIS SYSTEM. 
-
 Robert L. Nelson. November 1956. 51p. diagrs. 
 (NACA TN 3737) 
 
@@ -34558,7 +34506,6 @@ EXPERIMENTALLY DETERMINED NATURAL VI-
 BRATION MODES OF SOME CANTILEVER- WING 
 FLUTTER MODELS BY USING AN ACCELERATION 
 METHOD. Perry W. Hanson and W. J. Tuovila. 
-
 April 1957. 46p. diagrs., photo., tab. 
 (NACA TN 4010) 
 
@@ -34742,7 +34689,6 @@ and Carl R. Huss. December 1956. 17p. diagrs.
 
 ON THE USE OF THE HARMONIC LINEARIZATION 
 METHOD IN THE AUTOMATIC CONTROL THEORY. 
-
 (K voprosu o primenenii metoda harmonicheskoi 
 linearlzatsii v teoril regulirovaniya) . E. P. Popov. 
 January 1957. 6p. (NACA TM 1406. TransIaUon 
@@ -34808,7 +34754,7 @@ NOMENCLATURE
 
 
 239 
-{ 1 0) NOMENCLATURE 
+(10) NOMENCLATURE 
 
 
 

@@ -34,7 +34,8 @@
       <el-main>
         <el-row>
           <el-col :span="24">
-            <selectorOne />
+           <selectorOne />
+          <!-- <selectorOne /> -->
           </el-col>
         </el-row>
       </el-main>
@@ -43,9 +44,9 @@
         <div class="demo-container"></div>
 
         <div class="block">
-        <el-row>
-          <img src="../assets/test2png.png">
-        </el-row>
+          <el-row>
+            <img src="../assets/test2png.png" />
+          </el-row>
         </div>
 
         <el-row>
@@ -67,12 +68,14 @@
 </template>
 
 
+
 <script>
 // import 'element-ui/lib/theme-default/myStyles.css';
 import Logo from "~/components/Logo.vue";
 import selectorOne from "~/components/selectorOne.vue";
 import * as d3 from "d3";
-
+import myJson from "~/static/naca_data.json"
+console.log(myJson[0])
 // d3.select('.demo-container');
 
 export default {
@@ -80,23 +83,31 @@ export default {
   components: {
     Logo,
     selectorOne
-  }//,
-  // data() {
-  //   return {
-  //     loadData: {}
-  //   };
-  // },
-  // mounted() {
-  //   console.log("App loaded");
-  //   this.fetchData();
-  // },
-  // methods: {
-  //   async fetchData() {
-  //     let data = await d3.json("./datawrangle/naca_data.json");
-  //   }
-  // }
+  },
+  data() {
+  	return {
+      myArr: [],
+      myJson
+    };
+  },
+  mounted() {
+    d3.csv('testplot.csv', (data) => {
+      // console.log(data)
+      this.myArr = data.columns;
+    })
+
+  }
 };
 </script>
+
+
+
+
+
+
+
+
+
 
 
 <style>

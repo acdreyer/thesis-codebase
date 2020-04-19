@@ -90,8 +90,8 @@ Betz, A.: The "Magnus Effect," the
 Principle of the Flettner Rotor. 
 TM 310, April 1925. 
 
-Fick, Roderich: Relation of "Lilienthal 
-Effect" to Dynamic Soaring Flight. 
+Fick, Roderich: Relation of Lilienthal 
+Effect to Dynamic Soaring Flight. 
 TM 324, July 1925. 
 
 Lippisch, Alexander: Tneory of Flapping 
@@ -142,12 +142,7 @@ TM 585, Oct. 1930.
 
 
 
-Toilmien, 
-lence. 
-
-
-
-W.: The Production of Turbu- 
+Toilmien, W.: The Production of Turbulence. 
 TM 609, March 1931. 
 
 
@@ -565,11 +560,7 @@ Application. TN 750, Feb. 1940.
 
 
 Prandtl, L.: 
-Theory. 
-
-
-
-Recent Work on Airfoil 
+Recent Work on Airfoil Theory. 
 TM 962, Dec. 1940. 
 
 
@@ -766,7 +757,6 @@ Chaplygin Differential Equation. Rept.
 790, 1944. 
 
 Theodorsen, Theodore and Regier, 
-
 Arthur: Experiments on Drag of Re- 
 volving Disks, Cylinders and Stream- 
 line Rods at High Speeds. Rept. 793, 
@@ -932,7 +922,7 @@ Flow Theory. TN 1716, Oct. 1948.
 
 
 AERODYNAMICS 
-FUNDAMENTAL (1.1] 
+FUNDAMENTAL (1.1) 
 
 
 
@@ -2074,12 +2064,7 @@ at Supersonic Speeds. RM L7L04, July
 
 
 
-Burcher, Marie A. 
-Tables for Air. 
-
-
-
-Compressible Flow 
+Burcher, Marie A. Compressible Flow Tables for Air. 
 TN 1592, Aug. 1948. 
 
 
@@ -2284,8 +2269,8 @@ Prandtl, L. and Tietjens, O.: Kineto-
 graphic Flow Pictures. TM 364, 
 May 1926. 
 
-Prandtl, L.: Application of the "Magnus 
-Effect" to the Wind Propulsion of 
+Prandtl, L.: Application of the Magnus 
+Effect to the Wind Propulsion of 
 Ships. TM 367, June 1926. 
 
 Schrenk, Oskar: Experiments witli a 
@@ -3009,12 +2994,7 @@ Mixing Processes. TM 1096, Oct.
 
 
 
-Shelkin, K. I.: 
-lent Flow. 
-
-
-
-On Combustion in a Turbu- 
+Shelkin, K. I.: On Combustion in a Turbu-lent Flow. 
 TM 1110, Feb. 1947. 
 
 
@@ -3974,12 +3954,7 @@ Along a Wing Section. TM 679, Aug.
 
 
 
-Betz, A. and Lotz, J. 
-Lift by the Drag. 
-
-
-
-Reduction of Wing 
+Betz, A. and Lotz, J.: Reduction of Wing Lift by the Drag.
 TM 681, Aug. 1932. 
 
 
@@ -4985,12 +4960,7 @@ Variable-Density Wind Tunnel. Rept.
 
 
 
-Lindsey, W. F. 
-pie Shapes. 
-
-
-
-Drag of Cylinders of Sim- 
+Lindsey, W. F.: Drag of Cylinders of Simple Shapes. 
 Rept. 619, 1938. 
 
 
@@ -5177,7 +5147,6 @@ Flow Past Thick Airfoil Sections. TN
 1657, July 1948. 
 
 Lindsey, W. F.; Stevenson, D. B. and 
-
 Daley, Bernard N.: Aerodynamic Char- 
 acteristics of 24 NACA 16-Series Air- 
 foils at Mach Numbers Between 0.3 
@@ -5252,12 +5221,7 @@ Variable Density Wind Tunnel. Series
 
 
 
-Lindsey, W. F. 
-pie Shapes. 
-
-
-
-Drag of Cylinders of Sim- 
+Lindsey, W. F.: Drag of Cylinders of Simple Shapes. 
 Rept. 619, 1938. 
 
 
@@ -5541,12 +5505,7 @@ an Airplane in Flight. TM 428, Sept.
 
 
 
-Schrenk, O.: 
-Airfoils. 
-
-
-
-Effects of Roughness on 
+Schrenk, O.: Effects of Roughness on Airfoils.
 TM 430, Sept. 1927. 
 
 
@@ -9907,7 +9866,6 @@ Compressible Flow Past Elliptic
 Cylinders. Rept. 624, 1938. 
 
 Stack, John; Lindsey, W. F. and Littell, 
-
 Robert E.: The Compressibility Burble 
 and the Effect of Compressibility on 
 Pressures and Forces Acting on an 
@@ -11511,12 +11469,11 @@ TN 25, April 1922.
 
 
 
-Margoulis, W.: 
-April 1922. 
+Margoulis, W.: Joukowski Wings. TM 78, April 1922. 
 
 
 
-Joukowski Wings. TM 78, 
+ 
 
 
 
@@ -13706,7 +13663,7 @@ Retractable Ailerons and a Full-Span
 Slotted Flap. TN 1872, April 1949. 
 
 Flaps 
-(TX2.3.1) 
+(1.2.2.3.1) 
 
 Norton, F. H.: The Factors That Deter- 
 mine the Minimum Speed of an Air- 
@@ -22941,12 +22898,12 @@ L4L21a (WR L-514), Jan. 1945.
 
 
 
-Ribner, Herbert S.: 
+Ribner, Herbert S.: Propellers in Yaw. 
 Rept. 820, 1945. 
 
 
 
-Propellers in Yaw. 
+
 
 
 
@@ -24610,12 +24567,7 @@ THEORY
 
 
 
-Warner, E. 
-copter. 
-
-
-
-P.: The Problem of the Heli- 
+Warner, E.P. The Problem of the Helicopter. 
 TN 4, May 1920. 
 
 
@@ -24804,12 +24756,7 @@ Flight Conditions. TN 1595, June 1948.
 
 
 
-Gessow, Alfred: 
-Helicopters. 
-
-
-
-Standard Symbols for 
+Gessow, Alfred: Standard Symbols for Helicopters. 
 TN 1604, June 1948. 
 
 
@@ -25096,12 +25043,12 @@ TM 201, April 1923.
 
 
 
-Moreno-Caracciolo, M. 
+Moreno-Caracciolo, M.: The "Autogiro." 
 TM 218, July 1923. 
 
 
 
-The "Autogiro." 
+
 
 
 
@@ -25284,7 +25231,7 @@ October 4, 1924. TM 289, Nov. 1924.
 Weyl, A. R.: The Cells of Giant Air- 
 planes. TM 478, Sept. 1928. 
 
-Tbpfer, Carl: Airplane Drag. TM 544, 
+Topfer, Carl: Airplane Drag. TM 544, 
 Dec. 1929. 
 
 
@@ -25549,7 +25496,7 @@ Kempf, Giinther: Moments of Cambered
 Round Bodies. TM 1227, Aug. 1949. 
 
 Wing-Fuselage 
-(1.771.1.1.) 
+(1.7.1.1.1.) 
 
 Prandtl, L.: Effects of Varying the Rela- 
 tive Vertical Position of Wing and 
@@ -25719,12 +25666,7 @@ Airfoils. CB (WR L-660), Nov. 1942.
 
 
 
-Multhropp, H. 
-Fuselage. 
-
-
-
-Aerodynamics of the 
+Multhropp, H.: Aerodynamics of the Fuselage.
 TM 1036, Dec. 1942. 
 
 
@@ -25886,7 +25828,7 @@ binations at Subsonic, Transonic, and
 Supersonic Speeds. TN 1897, June 1949. 
 
 Wing-Nacelle 
-(1.7 "1.1.2.) 
+(1.7 .1.1.2.) 
 
 Jacobs, Eastman N.: The Drag and Inter- 
 ference of a Nacelle in the Presence of 
@@ -25897,7 +25839,6 @@ a Wing. TN 320, Oct. 1929.
 Wood, Donald H.: Tests of Nacelle- Pro- 
 peller Combinations in Various 
 Positions with Reference to Wings - 
-
 I - Thick Wing - NACA Cowled 
 Nacelle - Tractor Propeller. Rept. 415, 
 1932. 
@@ -25905,7 +25846,6 @@ Nacelle - Tractor Propeller. Rept. 415,
 Wood, Donald H.: Tests of Nacelle- 
 Propeller Combinations in Various 
 Positions with Reference to Wings. 
-
 II - Thick Wing - Various Radial - 
 Engine Cowlings - Tractor Propeller. 
 Rept. 436, 1932. 
@@ -25918,7 +25858,6 @@ Tractor Monoplanes. TN 420, May
 Wood, Donald H.: Tests of Nacelle- 
 Propeller Combinations in Various 
 Positions with Reference to Wings. 
-
 III - Clark Y Wing - Various Radial- 
 Engine Cowlings - Tractor Propeller. 
 Rept. 462, 1933. 
@@ -25926,7 +25865,6 @@ Rept. 462, 1933.
 McHugh, James G.: Tests of Nacelle- 
 Propeller Combinations in Various 
 Positions with Reference to Wings. 
-
 IV - Thick Wing - Various Radial - 
 Engine Cowlings - Tandem Propellers. 
 Rept. 505, 1934. 
@@ -25934,7 +25872,6 @@ Rept. 505, 1934.
 Valentine, E. Floyd: Test of Nacelle- 
 Propeller Combinations in Various 
 Positions with Reference to Wings. 
-
 V - Clark Y Biplane Cellule - NACA 
 Cowled Nacelle - Tractor Propeller. 
 Rept. 506, 1934. 
@@ -26103,7 +26040,7 @@ Wing with Jet Engine Nacelle. TM
 1226, July 1949. 
 
 Tail -Wing and Fuselage 
-(1.7.1.1.3!) 
+(1.7.1.1.3) 
 
 Norton, F. H. and Brown, W. G.: The 
 Pressure Distribution over the Hori- 
@@ -26299,7 +26236,7 @@ from Free-Spinning-Tunnel Tests.
 TN 1779, Dec. 1948. 
 
 Propeller a nd Jet Interference 
-(1.7fl.l.4) 
+(1.7.l.l.4) 
 
 Green, Maurice, W.: Determination of the 
 Lift and Drag Characteristics of an 
@@ -27053,14 +26990,12 @@ Airplane. RM L8K30, March 1949.
 
 
 
-Fairchild 
-
-The Fairchild "All-Purpose' 
-plane. AC 58, Oct. 1927. 
+Fairchild : The Fairchild "All-Purpose' Cabin Monoplane. 
+AC 58, Oct. 1927. 
 
 
 
-Cabin Mono- 
+
 
 
 
@@ -28745,7 +28680,6 @@ Building of Low-Powered Airplanes.
 TM 246, Jan. 1924. 
 
 Warner, Edward P.: Specializing for 
-
 Record-Breaking. TM 248, Feb. 1924. 
 
 Munk, Max M. and Warner, Edward P.: 
@@ -28912,12 +28846,12 @@ TN 311, July 1929.
 
 
 
-Tb'pfer, Carl: 
-Dec. 1929. 
+Topfer, Carl: Airplane Drag.
+TM 544, Dec. 1929. 
 
 
 
-Airplane Drag. TM 544, 
+
 
 
 
@@ -29484,12 +29418,12 @@ TM
 
 
 
-Wilson, Edwin Bidwell: 
+Wilson, Edwin Bidwell: Bomb Trajectories.
 Rept. 79, 1920. 
 
 
 
-Bomb Trajectories. 
+ 
 
 
 
@@ -30957,12 +30891,7 @@ for F-5-L Seaplane. TN 85, Feb. 1922.
 
 
 
-Eteve, Albert: 
-Airplanes. 
-
-
-
-Longitudinal Balancing of 
+Eteve, Albert: Longitudinal Balancing of Airplanes. 
 TM 190, Feb. 1923. 
 
 
@@ -31095,7 +31024,7 @@ and Angles of Sweep. TN 1703, Oct.
 1948. 
 
 Longitudinal Static Stability 
-(1.871.1.1) — 
+(1.8.1.1.1) — 
 
 Warner, Edward P.: Statical Longitudinal 
 Stability of Airplanes. Rept. 96, 1920. 
@@ -33556,7 +33485,7 @@ an Automatic Pilot. TN 1901, June
 1949. 
 
 Longitudinal Dynamic Stability 
-(1.6?1.2.1) 
+(1.6.1.2.1) 
 
 Hunsaker, J. C: Report on Behavior of 
 Aeroplanes in Gusts. Part I - Experi- 
@@ -35117,7 +35046,6 @@ Control Systems. TM 966, Feb. 1941.
 
 Sears, Richard I.: Wind- Tunnel Investiga- 
 tion of Control-Surface Characteristics. 
-
 I - Effect of Gap on the Aerodynamic 
 Characteristics of an NACA 0009 Air- 
 foil with a 30-Percent-Chord Plain 
@@ -35126,7 +35054,6 @@ Flap. ARR (WR L-377), June 1941.
 Sears, Richard I. and Hoggard, H. Page, 
 Jr.: Wind- Tunnel Investigation of 
 Control -Surface Characteristics. 
-
 II - A Large Aerodynamic Balance of 
 Various Nose Shapes with a 30- 
 Percent-Chord Flap on an NACA 0009 
@@ -36349,11 +36276,7 @@ with Slotted Wings. TM 282, Oct. 1924.
 
 
 
-Everling, E 
-
-
-
-Slotted-Wing Airplanes. 
+Everling, E.: Slotted-Wing Airplanes. 
 TM 432. Oct. 1927. 
 
 
@@ -40643,7 +40566,7 @@ Airfoil Section. TN 1923, Aug. 1949.
 
 FLYING QUALITIES 
 
-0.8.5) 
+(1.8.5) 
 
 Norton, F. H. and Allen, E. T.: Control in 
 Circling Flight. Rept. 112, 1921. 
@@ -41333,7 +41256,6 @@ Crane, H. L.; Talmage, D. B. and Gray,
 W. E., Jr.: Measurement of Flying 
 Qualities of a DeHavilland Mosquito 
 F-8 Airplane (AAF No. 43-334960). 
-
 I - Lateral and Directional Stability 
 and Control Characteristics. MR 
 L5D19 (WR L-593), May 1945. 
@@ -41342,7 +41264,6 @@ Crane, H. L.; Talmage, D. B. and Gray,
 W. E., Jr.: Measurement of Flying 
 Qualities of a DeHavilland Mosquito 
 F-8 Airplane (AAF No. 43-334960). 
-
 II - Longitudinal Stability and Control 
 Characteristics. MR L5G11 (WR 
 L-614), July 1945. 
@@ -45294,7 +45215,7 @@ TN 1524, Feb. 1948.
 
 LENGTH-BEAM RATIO 
 
-(2.3J) 
+(2.3.1) 
 
 Shoemaker, James M. and Parkinson, 
 John B.: Tank Tests of a Family 
@@ -47340,12 +47261,7 @@ Aug. 1947.
 
 
 
-Benscoter, Stanley U.: 
-Seaplane Landing. 
-
-
-
-Impact Theory for 
+Benscoter, Stanley U.: Impact Theory for Seaplane Landing. 
 TN 1437, Oct. 1947. 
 
 
@@ -50031,13 +49947,8 @@ tion of Aviation Engines. MP-3, April
 
 
 
-Buckingham, Edgar: 
-Airplanes. Rept. 
-
-
-
-Jet Propulsion for 
-159, Oct. 1923. 
+Buckingham, Edgar: Jet Propulsion for Airplanes. 
+Rept. 159, Oct. 1923. 
 
 
 
@@ -50627,12 +50538,10 @@ Influenced by Mixture Distribution.
 ARR E4I05 (WR E-87), Sept. 1944. 
 
 Nielsen, Jack N.: High-Altitude Cooling. 
-
 III - Radiators. ARR L4Illb (WR 
 L-773), Sept. 1944. 
 
 Rubert, K. F.: High -Altitude Cooling. 
-
 IV - Intercoolers. ARR L4Illc (WR 
 L-774), Sept. 1944. 
 
@@ -50739,13 +50648,11 @@ Lyons, Richard E. and Coles, Willard D.:
 Laboratory Investigation of Icing in the 
 Carburetor and Supercharger Inlet 
 Elbow of the Lockheed P-38J Airplane. 
-
 III - Heated Air as a Means of De -Icing 
 the Carburetor and Inlet Elbow. MR 
 E5L19 (WR E-172), Dec. 1945. 
 
 Chapman, G. E. and Zlotowski, E. D.: 
-
 Laboratory Investigation of Icing in the 
 Carburetor and Supercharger Inlet 
 Elbow of the Lockheed P-38J Airplane. 
@@ -51071,7 +50978,6 @@ teristics of a High Speed Fuel Injection
 System. TN 213, Feb. 1925. 
 
 Kuehn, R.: Atomization of Liquid Fuels. 
-
 I - Relation Between Atomization and 
 Combustion. Methods Employed for 
 Determining the Size of Particles and 
@@ -51079,14 +50985,12 @@ Small Drops. Choice of Experimental
 Method. TM 329, Sept. 1925. 
 
 Kuehn, R.: Atomization of Liquid Fuels. 
-
 II - Description of Apparatus; Fuels 
 Tested; Atomization Experiments; 
 Discharge Measurements; Atomization. 
 TM 330, Sept. 1925. 
 
 Kuehn, R.: Atomization of Liquid Fuels. 
-
 III - Critical Discussion of Experimen- 
 tal Results. Mixing the Atomized Fuel 
 with Air. TM 331, Sept. 1925. 
@@ -52635,16 +52539,13 @@ tane Methylenecyclobutane and 2-
 Methyl-1-Butene. TN 1160, Oct. 1946. 
 
 Lamberti, J. M.; Reynolds, T. W. and 
-
 Chanan, H. H.: The Synthesis and Pur- 
 ification of Aromatic Hydrocarbons. 
-
 IV - 1,2,3-Trimethylbenzene. TN 1163, 
 Nov. 1946. 
 
 Ebersole, Earl R.: The Synthesis and Pur- 
 ification of Aromatic Hydrocarbons. 
-
 V - l-Ethyl-3-Methylbenzene. TN 
 1164, Nov. 1946. 
 
@@ -52693,7 +52594,6 @@ of Heat Energy Lighter than Gasoline?
 TN 136, April 1923. 
 
 Kuehn, R.: Atomization of Liquid Fuels - 
-
 I - Relation Between Atomization and 
 Combustion. Methods Employed for 
 Determining the Size of Particles and 
@@ -52701,7 +52601,6 @@ Small Drops. Choice of Experimental
 Method. TM 329, Sept. 1925. 
 
 Kuehn, R.: Atomization of Liquid Fuels - 
-
 II - Description of Apparatus Fuels 
 Tested - Atomization Experiments - 
 Discharge Measurements - Atomiza- 
@@ -52720,7 +52619,6 @@ Richter, Ludwig: On the Knocking of Gaso-
 line Engines. TM 371, July 1926. 
 
 Schey, Oscar W. and Young, Alfred W.: 
-
 Performance of a Fuel-Injection Spark- 
 Ignition Engine Using a Hydrogenated 
 Safety Fuel. Rept. 471, 1933. 
@@ -56004,7 +55902,6 @@ Roots Type Aircraft Engine Super-
 charger. Rept. 263, 1927. 
 
 Ware, Marsden and Wilson, Ernest E.: 
-
 The Comparative Performance of Roots 
 Type Aircraft Engine Superchargers as 
 Affected by Change in Impeller Speed 
@@ -57238,13 +57135,11 @@ pin. ARR E5H04 (WR E-26), Oct. 1945.
 
 Shaw, Milton C. and Macks, E. Fred: In- 
 Line Aircraft- Engine Bearing Loads. 
-
 I - Crankpin-Bearing Loads. ARR 
 E5H10a (WR E-67), Oct. 1945. 
 
 Shaw, Milton C. and Macks, E. Fred: In- 
 Line Aircraft- Engine Bearing Loads. 
-
 II - Blade-Bearing Loads. ARR 
 E5H10b (WR E-46), Oct. 1945. 
 
@@ -57260,7 +57155,6 @@ Bearing. Rept. 866, 1947.
 
 Shaw, Milton C. and Macks, E. Fred: In- 
 Line Aircraft Engine Bearing Loads. 
-
 III - Main-Bearing Loads. TN 1206, 
 Feb. 1947. 
 
@@ -61185,12 +61079,7 @@ Sept. 1930.
 
 
 
-Schwencke, D. 
-struction. 
-
-
-
-: English Airplane Con- 
+Schwencke, D.: English Airplane Construction.
 TM 595, Dec. 1930. 
 
 
@@ -61693,7 +61582,6 @@ and Direct Stress. ARR 3K13 (WR
 L-340), Nov. 1943. 
 
 Kroll, W. D.: Tables of Stiffness and 
-
 Carry-Over Factor for Flat Rectangu- 
 lar Plates Under Compression. ARR 
 3K27 (WR L-398), Nov. 1943. 
@@ -61707,7 +61595,6 @@ Combination of Compression and
 Shear. TN 918, Dec. 1943. 
 
 Heimerl, George J. and Roy, J. Albert: 
-
 Column and Plate Compressive Strength 
 of Extruded XB75S-T Aluminum Alloy. 
 RB L4E26, May 1944. 
@@ -61878,7 +61765,6 @@ Design of Multiweb Wings in Bending.
 TN 1323, June 1947. 
 
 Libove, Charles; Ferdman, Saul and 
-
 Reusch, John J.: Elastic Buckling of a 
 Simply Supported Plate Under a Com- 
 pressive Stress that Varies Linearly 
@@ -61909,7 +61795,6 @@ Combinations. TN 455, March 1933.
 
 
 Schiissler, Karl: The Behavior Under 
-
 Shearing Stress of Duralumin Strip with 
 Round, Flanged Holes. TM 756, Oct. 
 1934. 
@@ -62370,7 +62255,6 @@ Unloaded Edges. RB 3107 (WR L-253),
 Oct. 1946. 
 
 Batdorf, S. B.; Stein, Manuel and 
-
 Schildcrout, Murry: Critical Shear 
 Stress of Curved Rectangular Panels. 
 TN 1348, May 1947. 
@@ -62384,7 +62268,6 @@ Equilibrium Equation. TN 1342, June
 
 
 Batdorf, S. B.; Schildcrout, Murry and 
-
 Stein, Manuel: Critical Shear Stress of 
 Long Plates with Transverse Curva- 
 ture. TN 1346, June 1947. 
@@ -63133,14 +63016,8 @@ Monocoque Box. TN 872, Nov. 1942.
 
 
 
-McPherson, Albert E.; 
-and Levy, Samuel: 
-a Monocoque Box. 
-
-
-
-Ramberg, Walter 
-Bending Tests of 
+McPherson, Albert E.; Levy, Samuel and
+Ramberg, Walter : Bending Tests of a Monocoque Box. 
 TN 873, Nov. 1942. 
 
 
@@ -63503,7 +63380,6 @@ Forces in Cylindrical and Conical
 Stressed Skins. TM 847, Jan. 1938. 
 
 Schapitz, E. and Krumling, G.: Load 
-
 Tests on a Stiffened Circular Cylindri- 
 cal Shell. TM 864, May 1938. 
 
@@ -63553,7 +63429,7 @@ Guggenheim Aeronautical Laboratory,
 California Institute of Technology: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-H - Preliminary Tests of Wire-Braced 
+II - Preliminary Tests of Wire-Braced 
 Specimens and Theoretical Studies. 
 TN 906, July 1943. 
 
@@ -63561,7 +63437,6 @@ Guggenheim Aeronautical Laboratory,
 California Institute of Technology: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 III - Continuation of Tests of Wire- 
 Braced Specimens and Preliminary 
 Tests of Sheet-Covered Specimens. 
@@ -63571,7 +63446,6 @@ Guggenheim Aeronautical Laboratory,
 California Institute of Technology: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 IV - Continuation of Tests of Sheet- 
 Covered Specimens and Studies of the 
 Buckling Phenomena of Unstiffened 
@@ -63582,7 +63456,6 @@ Guggenheim Aeronautical Laboratory,
 California Institute of Technology: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 V - Stiffened Metal Cylinders Subjected 
 to Pure Bending. TN 909, Aug. 1943. 
 
@@ -63595,7 +63468,6 @@ Guggenheim Aeronautical Laboratory,
 California Institute of Technology: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 VI - Stiffened Metal Cylinders Subjected 
 to Combined Bending and Transverse 
 Shear. TN 910, Sept. 1943. 
@@ -63736,7 +63608,6 @@ forced Circular Cylinders Under
 Lateral Loads. TN 1310, May 1947. 
 
 Batdorf, S. B.; Stein, Manuel and 
-
 Schildcrout, Murry: Critical Shear 
 Stress of Curved Rectangular Panels. 
 TN 1348, May 1947. 
@@ -63776,18 +63647,14 @@ Thin-Walled Cylinders in Axial Com-
 pression. TN 1343, June 1947. 
 
 Batdorf, S. B.; Stein, Manuel and 
-
 Schildcrout, Murry: Critical Stress of 
-Thin-Walled Cylinders in Torsion. TN 
-
-1344, June 1947. 
+Thin-Walled Cylinders in Torsion. 
+TN 1344, June 1947. 
 
 Batdorf, S. B.; Stein, Manuel and 
-
 Schildcrout, Murry: Critical Combi- 
 nations of Torsion and Direct Axial 
 Stress for Thin-Walled Cylinders. TN 
-
 1345, June 1947. 
 
 Dunn, Louis G.: Some Investigations of the 
@@ -63816,7 +63683,6 @@ Cylinders with Side Cutout. TN 1264,
 Feb. 1948. 
 
 Hoff, N. J.; Klein, Bertram and Boley, 
-
 Bruno A.: Stresses in and General In- 
 stability of Monocoque Cylinders with 
 Cutouts. VI - Calculation of the 
@@ -63959,7 +63825,6 @@ Oct. 1944.
 
 
 Kuhn, Paul and Moggio, Edwin M.: 
-
 Stresses Around Large Cut-Outs in 
 Torsion Boxes. TN 1066, May 1946. 
 
@@ -64622,7 +64487,6 @@ Load. OCR Progress Report No. 14,
 Oct. 1943. 
 
 Russell, H. W.: Fatigue Strength and 
-
 Related Characteristics of Spot-Welded 
 Joints in 24S-T Alclad Sheet. ARR 
 3L01 (WR W-61), Dec. 1943. 
@@ -64652,7 +64516,6 @@ OCR Progress Report No. 15, Aug.
 1944. 
 
 McMaster, R. C; Manildi, J. F. and 
-
 Woolsey, C. C: Nondestructive Test 
 Methods for Spot Welds in Aluminum 
 Alloys. TN 945, Nov. 1944. 
@@ -64807,7 +64670,6 @@ Baumann, A.: Strength Calculations on
 Airplanes. TM 341, Dec. 1925. 
 
 Supplement to "Bulletin de la Chambre 
-
 Syndicale des Industries Aeronautiques": 
 Permanent Commission of Aeronauti- 
 cal Studies. Report No. 4. TM 402, 
@@ -64863,7 +64725,6 @@ Airplane Construction. TM 755, Oct.
 
 
 Silverstein, Abe and Gulick, B. G.: 
-
 Ground-Handling Forces on a 1/40- 
 Scale Model of the U.S. Airship 
 "Akron." Rept. 566, 1936. 
@@ -64894,7 +64755,6 @@ lation in Rotating Disks. TM 1064,
 Sept. 1944. 
 
 Shaw, Milton C. and Macks, E. Fred: 
-
 Radial Aircraft-Engine Bearing Loads. 
 I - Crankpin-Bearing Loads for En- 
 gines Having Nine Cylinders Per 
@@ -64902,16 +64762,12 @@ Crankpin. ARR E5H04 (WR E-26),
 Oct. 1945. 
 
 Shaw, Milton C. and Macks, E. Fred: 
-
 In-Line Aircraft-Engine Bearing Loads. 
-
 I - Crankpin-Bearing Loads. ARR 
 E5H10a (WR E-67), Oct. 1945. 
 
 Shaw, Milton C. and Macks, E. Fred: 
-
 In-Line Aircraft-Engine Bearing Loads. 
-
 II - Blade-Bearing Loads. ARR 
 E5H10b (WR E-46), Oct. 1945. 
 
@@ -64919,9 +64775,7 @@ Bock, G.: Airscrew Gyroscopic Moments.
 TM 1099, Sept. 1946. 
 
 Shaw, Milton C. and Macks, E. Fred: 
-
 In-Line Aircraft Engine Bearing Loads. 
-
 III - Main-Bearing Loads. TN 1206, 
 Feb. 1947. 
 
@@ -65014,7 +64868,6 @@ Alloy Rivets. Rept. 724, 1941.
 
 
 Templin, R. L.; Howell, F. M. and 
-
 Hartmann, E. C: The Compressive 
 Yield Strength of Extruded Shapes of 
 24 -ST Aluminum Alloy. TN 793, Jan. 
@@ -65037,7 +64890,6 @@ Some Wrought Aluminum Alloys. RB
 (WR W-83), June 1942. 
 
 Hartmann, E. C. and Stickley, G. W.: 
-
 Summary of Results of Tests Made by 
 Aluminum Research Laboratories of 
 Spot-Welded Joints and Structural 
@@ -65244,7 +65096,6 @@ and Bending Stresses. Index Values.
 TM 500, Feb. 1929. 
 
 Schroeder, August: Buckling Tests of 
-
 Light-Metal Tubes. TM 525, Aug. 1929. 
 
 Newlin, J. A. and Trayer, Geo. W.: A 
@@ -65517,7 +65368,6 @@ Plates with Large Deflections. Rept.
 737, 1942. 
 
 Levy, Samuel: Bending of Rectangular 
-
 Plates with Large Deflections. TN 846, 
 May 1942. 
 
@@ -65675,7 +65525,6 @@ Critical Load for Circular Cylindrical
 Grids. RB 3J28, Oct. 1943. 
 
 Kroll, W. D.; Fisher, Gordon P. and 
-
 Heimerl, George J.: Charts for Calcu- 
 lation of the Critical Stress for Local 
 Instability of Columns with I-, Z-, 
@@ -65747,7 +65596,6 @@ Stiffeners. ARR 4B03 (WR L-499),
 Feb. 1944. 
 
 Lundquist, Eugene E. and Kroll, W. D.: 
-
 Extended Tables of Stiffness and Carry- 
 over Factor for Structural Members 
 Under Axial Load. ARR 4B24 (WR L- 
@@ -65826,7 +65674,6 @@ Bending and Compression. TN 939, Oct.
 1944. 
 
 Levy, Samuel; Goldenberg, Daniel and 
-
 Zibritosky, George: Simply Supported Long 
 Rectangular Plate Under Combined Axial 
 Load and Normal Pressure. TN 949, Oct. 
@@ -66142,7 +65989,6 @@ Rectangular Plates. TN 1425, March
 1948. 
 
 Budiansky, Bernard; Seide, Paul and 
-
 Weinberger, Robert A.: The Buckling 
 of a Column on Equally Spaced Deflec- 
 tional and Rotational Springs. TN 1519, 
@@ -66271,7 +66117,6 @@ Strengths at Elevated Temperatures.
 TN 1806, Feb. 1949. 
 
 Seide, Paul and Stowell, Elbridge Z.: 
-
 Elastic and Plastic Buckling of Simply 
 Supported Metalite Type Sandwich 
 Plates in Compression. TN 1822, 
@@ -66358,7 +66203,6 @@ Shaped Cross -Sections for Airplane
 Wing Spars. TM 148, Oct. 1922. 
 
 Ballenstedt, L.: Influence of Ribs on 
-
 Strength of Spars. TN 139, May 1923. 
 
 Pagon, W. Watters: General Theory of 
@@ -66410,12 +66254,12 @@ Strength of Propellers. TN 238, June
 
 
 
-Haddon, J. D.: 
-June 1926. 
+Haddon, J. D.: Metal Spars. 
+TM 368, June 1926. 
 
 
 
-Metal Spars. TM 368, 
+ 
 
 
 
@@ -66802,7 +66646,6 @@ Bending (Con t . )
 Guggenheim Aeronautical Laboratory- CIT: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 IV - Continuation of Tests of Sheet- 
 Covered Specimens and Studies of the 
 Buckling Phenomena of Unstiffened 
@@ -66812,7 +66655,6 @@ Circular Cylinders. TN 908, Aug.
 Guggenheim Aeronautical Laboratory- CIT: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 V - Stiffened Metal Cylinders Subjected 
 to Pure Bending. TN 909, Aug. 1943. 
 
@@ -66824,7 +66666,6 @@ TN 904, Sept. 1943.
 Guggenheim Aeronautical Laboratory- CIT: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 VI - Stiffened Metal Cylinders Subjected 
 to Combined Bending and Transverse 
 Shear. TN 910, Sept. 1943. 
@@ -66839,7 +66680,6 @@ Sept. 1943.
 Guggenheim Aeronautical Laboratory- CIT: 
 Some Investigations of the General In- 
 stability of Stiffened Metal Cylinders. 
-
 VII - Stiffened Metal Cylinders Subjected 
 to Combined Bending and Torsion. TN 
 911, Nov. 1943. 
@@ -67227,7 +67067,6 @@ Theory and Practice. TM 838, Sept.
 1937. 
 
 Lazzarino, Lucio: Twisting of Thin 
-
 Walled Columns Perfectly Restrained 
 atOne End. TM 854, March 1938. 
 
@@ -67275,7 +67114,6 @@ LOADS AND STRESSES (4.7)
 Torsi on (Con t . ) 
 
 Lundquist, Eugene E. and Stowell, 
-
 Elbridge Z.: Strength Tests of Thin- 
 Walled Elliptic Duralumin Cylinders 
 in Pure Bending and in Combined 
@@ -67410,7 +67248,6 @@ Influenced by Bulkhead Flexibility.
 ARR L5G18 (WR L-2), Aug. 1945. 
 
 Kuhn, Paul and Moggio, Edwin M.: 
-
 Stresses Around Large Cut-Outs in 
 Torsion Boxes. TN 1066, May 1946. 
 
@@ -67460,7 +67297,6 @@ Equilibrium Equation. TN 1342,
 June 1947. 
 
 Batdorf, S. B.; Stein, Manuel and 
-
 Schildcrout, Murry: Critical Stress 
 of Thin-Walled Cylinders in Torsion. 
 TN 1344, June 1947. 
@@ -67606,7 +67442,6 @@ las for Beams Having Thin Webs in
 Diagonal Tension. TN 469, Aug. 1933. 
 
 Schtissler, Karl: The Behavior Under 
-
 Shearing Stress of Duralumin Strip with 
 Round, Flanged Holes. TM 756, Oct. 
 1934. 
@@ -67956,7 +67791,6 @@ with Inspection Cut-Outs. ARR
 L5C01a (WR L-192), March 1945. 
 
 Hoff, N. J. and Klein, Bertram: The 
-
 Inward Bulge Type Buckling of Mono- 
 coque Cylinders. Ill - Revised Theory 
 Which Considers the Shear Strain 
@@ -68540,12 +68374,8 @@ RM L7H28. Oct. 1947.
 
 
 
-Benscoter, Stanley U.: 
+Benscoter, Stanley U.: Impact Theory for 
 Seaplane Landing. 
-
-
-
-Impact Theory for 
 TN 1437, Oct. 1947. 
 
 
@@ -68672,11 +68502,7 @@ mal Pressure. TN 853, July 1942.
 
 
 
-Rafel, Norman: 
-
-
-
-Effect of Normal Pressure 
+Rafel, Norman: Effect of Normal Pressure 
 oh the Critical Compressive Stress of 
 Curved Sheet. RB (WR L-258), Nov. 
 1942. 
@@ -68748,7 +68574,6 @@ Load and Normal Pressure. TN 1047,
 June 1946. 
 
 McPherson, A. E.; Levy, Samuel and 
-
 Zibritosky, George: Effect of Normal 
 Pressure on Strength of Axially Loaded 
 Sheet-Stringer Panels. TN 1041, July 
@@ -68829,12 +68654,12 @@ Alloys. Rept. 34, 1919.
 
 
 
-Unger, E. and Schmidt, 
+Unger, E. and Schmidt, E.: Duralumin. 
 TN 8, July 1920. 
 
 
 
-E.: Duralumin. 
+
 
 
 
@@ -68934,7 +68759,6 @@ sion Resistant Aluminum Product. TN
 259, Aug. 1927. 
 
 Anon.: Metal Aircraft Construction at 
-
 Vickers - Some Interesting New Forms 
 Developed. TM 440, Dec. 1927. 
 
@@ -69011,7 +68835,6 @@ Airplane Construction. TM 524, Aug.
 1929. 
 
 Brombacher, W. G. and Melton, E. R.: 
-
 Temperature Coefficient of the Modulus 
 of Rigidity of Aircraft Instrument Dia- 
 phragm and Spring Materials. Rept. 
@@ -69026,7 +68849,6 @@ of Thin Curved Sheets of Alclad. TN
 343, June 1930. 
 
 Schrenk, Martin: Structural Details of 
-
 German Light Airplanes. TM 579, Aug. 
 1930. 
 
@@ -69156,7 +68978,6 @@ of Aluminum -Alloy Channel Sections.
 TN 726, Sept. 1939. 
 
 Mutchler, Willard and Galvin, W. G.: 
-
 Tidewater and Weather- Exposure Tests 
 on Metals Used in Aircraft. TN 736, 
 Nov. 1939. 
@@ -69180,7 +69001,6 @@ Alloys in the American Aircraft Indus-
 try. OCR Rept. 2, Dec. 1940. 
 
 Paul, D. A. and Moore, R. L.: Cyclic 
-
 Stress-Strain Studies of Metals in Tor- 
 sion. TN 790, Dec. 1940. 
 
@@ -69261,7 +69081,6 @@ Airplane Manufacturers. RB (WR
 W-79), Feb. 1942. 
 
 Aitchison. C. S. and Miller, James A.: 
-
 Tensile and Pack Compressive Tests of 
 Some Sheets of Aluminum Alloy, 1025 
 Carbon Steel, and Chromium -Nickel 
@@ -69533,7 +69352,6 @@ Joints in 24S-T Alclad Sheet. ARR
 3L01 (WR W-61), Dec. 1943. 
 
 Hess, W. F. and Nippes, E. F., Jr.: A 
-
 Method for Welding Sheet Aluminum to 
 SAE 4140 Steel. ARR 4A01 (WR 
 W-102), Jan. 1944. 
@@ -69572,7 +69390,6 @@ in 24S-T Alclad Sheet. ARR 4E30 (WR
 W-63), May 1944. 
 
 Heimerl, George J. and Roy, J. Albert: 
-
 Column and Plate Compressive Strength 
 of Extruded XB75S-T Aluminum Alloy. 
 RB L4E26, May 1944. 
@@ -69611,7 +69428,6 @@ TYPES (5.1)
 Aluminum (Cont.) 
 
 Ramberg, Walter; Levy, Samuel and 
-
 Fienup, Kenneth L.: Effect of Curva- 
 ture on Strength of Axially Loaded 
 Sheet-Stringer Panels. TN 944, Aug. 
@@ -69814,13 +69630,11 @@ chine Countersunk Riveted Joints in
 Sheet. TN 1036, May 1946. 
 
 Heimerl, George J. and Woods, Walter: 
-
 Effect of Brake Forming on the Strength 
 of 24S-T Aluminum-Alloy Sheet. TN 
 1072, May 1946. 
 
 McPherson, A. E.; Levy, Samuel and 
-
 Zibritosky, George: Effect of Normal 
 Pressure on Strength of Axially Loaded 
 Sheet-Stringer Panels. TN 1041, July 
@@ -69855,7 +69669,6 @@ Fatigue Strength of Riveted Joints of
 1125, Sept. 1946. 
 
 Schuette, Evan H.; Barab, Saul and 
-
 McCracken, Howard L.: Compressive 
 Strength of 24S-T Aluminum- Alloy 
 Flat Panels with Longitudinal Formed 
@@ -70067,7 +69880,6 @@ TYPES (5.1)
 Aluminum (Cont . ) 
 
 Dow, Norris F.; Hubka, Ralph E. and 
-
 Roberts, William M.: Direct- Reading 
 Design Charts for 24S-T Aluminum- 
 Alloy Flat Compression Panels Having 
@@ -70104,20 +69916,16 @@ with Longitudinal Extruded Z-Section
 Stiffeners. TN 1829, March 1949. 
 
 Dana, A. W.; Aul, E. L. and Sachs, G.: 
-
 Tension Properties of Aluminum Alloys 
 in the Presence of Stress-Raisers. 
-
 I - Effects of Triaxial Stress States on 
 the Fracturing Characteristics of 
 24S-T Aluminum Alloy. TN 1830, 
 March 1949. 
 
 Aul, E. L.; Dana, A. W. and Sachs, G.: 
-
 Tension Properties of Aluminum Alloys 
 in the Presence of Stress-Raisers. 
-
 II - Comparison of Notch Strength 
 Properties of 24S-T, 75S-T, and 
 24S-T86 Aluminum Alloys. TN 1831, 
@@ -70197,7 +70005,6 @@ TN
 
 
 Paul, D. A. and Moore, R. L.: Cyclic 
-
 Stress-Strain Studies of Metals in Tor- 
 sion. TN 790, Dec. 1940. 
 
@@ -70312,17 +70119,17 @@ on Diaphragm Metals. TN 261, Aug.
 
 Wolff, E. B. and Van Ewijk, L. J. G.: Me- 
 chanical Properties of Some Materials 
-Used in Airplane Construction. TM 
-448, Jan. 1928. 
+Used in Airplane Construction. 
+TM 448, Jan. 1928. 
 
 
 
-Martin, Brian L. 
-April 1928. 
+Martin, Brian L.: Steel Spars. 
+TM 458, April 1928. 
 
 
 
-Steel Spars. TM 458, 
+
 
 
 
@@ -70419,13 +70226,8 @@ num Alloy (24ST). TN 560, March
 
 
 
-Brueggeman, W. C. 
-Aircraft Joints. 
-
-
-
-Strength of Welded 
-Rept. 584, 1937. 
+Brueggeman, W. C.:Strength of Welded 
+Aircraft Joints. Rept. 584, 1937. 
 
 
 
@@ -70438,7 +70240,6 @@ Tubes Elastically Restrained Against
 Rotation at the Ends. Rept. 615, 1938. 
 
 Osgood, William R.: The Crinkling 
-
 Strength and the Bending Strength of 
 Round Aircraft Tubing. Rept. 632, 
 1938. 
@@ -70477,29 +70278,25 @@ Stainless Steel Wing Panel by Hydro-
 static Loading. TN 786, Nov. 1940. 
 
 Paul, D. A. and Moore, R. L.: Cyclic 
-
 Stress-Strain Studies of Metals in Tor- 
 sion. TN 790, Dec. 1940. 
 
 
 
-The 
+
 
 
 
 Mebs, R. W. and McAdams, D. J., Jr.: 
-Tensile Elastic Properties at Low 
-Temperatures of 18:8 Cr-Ni Steel as 
-Affected by Heat Treatment and Slight 
-Plastic Deformation. TN 818, July 
-1941. 
+The Tensile Elastic Properties of 18:8 Cr-Ni Steel 
+at Low Temperatures as Affected by Heat Treatment and Slight 
+Plastic Deformation. TN 818, July 1941. 
 
 Bollenrath, F.: Factors Influencing the 
 Fatigue Strength of Materials. TM 
 987, Sept. 1941. 
 
 Pollard, R. E. and Reinhart, Fred M.: 
-
 Relief of Residual Stress in Streamline 
 Tie Rods by Heat Treatment. TN 832, 
 Nov. 1941. 
@@ -70821,7 +70618,6 @@ Two Large Discs of CSA Alloy. TN
 1533, Sept. 1948. 
 
 Moore, D. G.; Richmond, J. C. and 
-
 Harrison, W. N.: High- Temperature 
 Attack of Various Compounds on Four 
 Heat-Resisting Alloys. TN 1731, Oct. 
@@ -70917,7 +70713,6 @@ Aviation Spark Plugs. OCR Report 3,
 Jan. 1941. 
 
 Conway, H. M.: The Possible Use of 
-
 Ceramic Materials in Aircraft Propul- 
 sion Systems. CB 4D10, April 1944. 
 
@@ -70939,7 +70734,6 @@ at Elevated Temperatures. TN 1165,
 Nov. 1946. 
 
 Harrison, W. N.; Moore, D. G. and 
-
 Richmond, J. C: Review of an Investi- 
 gation of Ceramic Coatings for Metallic 
 Turbine Parts and Other High-Temper- 
@@ -70961,7 +70755,6 @@ Chamber for Gas- Turbine Use. RM
 E7H20, April 1948. 
 
 Moore, D. G.; Richmond, J. C. and 
-
 Harrison, W. N.: High- Temperature 
 Attack of Various Compounds on Four 
 Heat-Resisting Alloys. TN 1731, Oct. 
@@ -71299,7 +71092,6 @@ H., Jr.: The Lateral Failure of Spars.
 TN 232, March 1926. 
 
 From "Zeitschrift fur Flugtechnik und 
-
 Motorluftschiffahrt," July 14, 1926: Di- 
 gest of Some of the Speeches Made at 
 the Fifteenth Regular Meeting of the 
@@ -71323,12 +71115,10 @@ Design. TN 296, Oct. 1928.
 
 Trayer, George W.: The Design of Plywood 
 Webs for Airplane Wing Beams. Rept. 
-
 344, 1930. 
 
 Newlin, J. A. and Trayer, Geo. W.: The 
 Design of Airplane Wing Ribs. Rept. 
-
 345, 1930. 
 
 Markwardt, L. J.: Aircraft Woods: Their 
@@ -71601,7 +71391,6 @@ Tests on Stainless Steel Sheet. TN
 1095, Feb. 1947. 
 
 Harrison, W. N.; Moore, D. G. and 
-
 Richmond, J. C: Review of an Investi- 
 gation of Ceramic Coatings for Metallic 
 Turbine Parts and Other High-Temper- 
@@ -71620,17 +71409,9 @@ for High- Temperature Protection of
 Molybdenum. TN 1626, July 1948. 
 
 Moore, D. G.; Richmond, J. C. and 
-
 Harrison, W. N.: High- Temperature 
 Attack of Various Compounds on Four 
-
-
-
-Heat- Resisting Alloys. 
-1948. 
-
-
-
+Heat- Resisting Alloys. 1948. 
 TN 1731, Oct. 
 
 
@@ -71745,13 +71526,8 @@ Cloth. TN 393, Sept. 1931.
 
 
 
-Schraivogel, Karl: 
-plane Fabrics. 
-
-
-
-The Testing of Air- 
-TM 693, Nov. 1932. 
+Schraivogel, Karl: The Testing of Air- 
+plane Fabrics. TM 693, Nov. 1932. 
 
 
 
@@ -71886,7 +71662,6 @@ Stretching of Sandwich- Type Shells.
 TN 1832, March 1949. 
 
 Hildebrand, F. B.; Reissner, E. and 
-
 Thomas, G. B.: Notes on the Founda- 
 tions of the Theory of Small Displace- 
 ments of Orthotropic Shells. TN 1833, 
@@ -72007,7 +71782,6 @@ Structure of Ground Metal Crystals.
 TM 1072, Aug. 1944. 
 
 Turner, Philip S.; Doran, Jewel and 
-
 Reinhart, Frank W.: Fairing Composi- 
 tions for Aircraft Surfaces. TN 958, 
 Nov. 1944. 
@@ -72020,7 +71794,6 @@ Steel Cylinders. ACR E4K02 (WR
 E-29), Nov. 1944. 
 
 Mebs, R. W. and McAdam, D. J., Jr.: 
-
 Shear Elastic Properties of Some High 
 Strength Nonferrous Metals as Affected 
 by Plastic Deformation and by Heat 
@@ -72087,13 +71860,8 @@ Properties
 
 
 
-Merica, Paul D.: 
-Alloys. Rept, 
-
-
-
-Aluminum and Its Light 
-34. 1919. 
+Merica, Paul D.: Aluminum and Its Light 
+Alloys. Rept. 34. 1919. 
 
 
 
@@ -72389,7 +72157,6 @@ PROPERTIES (5.2)
 
 
 Turner, Philip S.; Doran, Jewel and 
-
 Reinhart, Frank W.: Fairing Composi- 
 tions for Aircraft Surfaces. TN 958, 
 Nov. 1944. 
@@ -72565,12 +72332,9 @@ The Testing of Balloon Fabrics. Rept.
 
 
 
-Unger, E. and Schmidt, E.: 
+Unger, E. and Schmidt, E.: Duralumin. 
 TN 8, July 1920. 
 
-
-
-Duralumin. 
 
 
 
@@ -72615,15 +72379,8 @@ Corrosion. TN 284, April 1928.
 
 Rawdon, Henry S.: Corrosion Embrittle- 
 ment of Duralumin. IV. The Use of 
-
-
-
 Protective Coatings. 
-1928. 
-
-
-
-TN 285, April 
+TN 285, April 1928. 
 
 
 
@@ -72785,7 +72542,6 @@ Alloy 24S-T Under Static Load. OCR
 3J21, Oct. 1943. 
 
 Aitchison, C. S. and Miller, James A.: 
-
 Tensile and Compressive Tests of Mag- 
 nesium Alloy J-l Sheet. TN 913, Dec. 
 1943. 
@@ -72849,7 +72605,6 @@ Welding of Multiple Thicknesses of
 Sept. 1945. 
 
 Freeman, J. W. and Cross, H. C: A 
-
 Metallurgical Investigation of a Large 
 Forged Disc of Low-Carbon N-155 
 Alloy. ARR 5K20 (WR W-103), Dec. 
@@ -72917,7 +72672,6 @@ Previous Deformation and Heat Treat-
 ment. TN 1100, March 1947. 
 
 Harrison, W. N.; Moore, D. G. and 
-
 Richmond, J. C: Review of an Investi- 
 gation of Ceramic Coatings for Metallic 
 Turbine Parts and Other High-Temper- 
@@ -73037,7 +72791,6 @@ PROPERTIES (5.2)
 Tensile (Cont.) 
 
 Dana, A. W.; Aul, E. L. and Sachs, G.: 
-
 Tension Properties of Aluminum Alloys 
 in the Presence of Stress-Raisers. 
 I - Effects of Triaxial Stress States on 
@@ -73369,12 +73122,7 @@ July 1948.
 
 
 
-Moore, R. L.: 
-and Plate. 
-
-
-
-Bearing Tests of 14S Sheet 
+Moore, R. L.: Bearing Tests of 14S Sheet and Plate.
 TN 1502, Aug. 1948. 
 
 
@@ -73914,7 +73662,6 @@ the Aluminum Alloy Alclad 24S-T.
 OCR Progress Rept. 15, Aug. 1944. 
 
 Bennett, John A.: Early Detection of 
-
 Cracks Resulting from Fatigue Stress- 
 ing. RB 4115 (WR W-78), Sept. 1944. 
 
@@ -74113,7 +73860,6 @@ for High-Temperature Protection of
 Molybdenum. TN 1626, July 1948. 
 
 Moore, D. G.; Richmond, J. C. and 
-
 Harrison, W. N.: High-Temperature 
 Attack of Various Compounds on Four 
 Heat-Resisting Alloys. TN 1731, Oct. 
@@ -74233,12 +73979,8 @@ Design. TN 206, Nov. 1924.
 
 
 
-Constantin, L. 
-1926. 
-
-
-
-Tail Planes. TM 373, Aug. 
+Constantin, L.: Tail Planes. 
+TM 373, Aug. 1926.
 
 
 
@@ -74563,13 +74305,11 @@ Oct. 1945.
 
 Shaw, Milton C. and Macks, E. Fred: In- 
 Line Aircraft-Engine Bearing Loads. 
-
 I - Crankpin-Bearing Loads. ARR 
 E5H10a (WR E-67), Oct. 1945. 
 
 Shaw, Milton C. and Macks, E. Fred: In- 
 Line Aircraft-Engine Bearing Loads. 
-
 II - Blade-Bearing Loads. ARR 
 E5H10b (WR E-46), Oct. 1945. 
 
@@ -75654,7 +75394,6 @@ Lyons, Richard E. and Coles, Willard D.:
 Laboratory Investigation of Icing in the 
 Carburetor and Supercharger Inlet El- 
 bow of the Lockheed P-38J Airplane. 
-
 III - Heated Air as a Means of De- 
 icing the Carburetor and Inlet Elbow. 
 MR E5L19 (WR E-172), Dec. 1945. 
@@ -75676,18 +75415,15 @@ ARR's 5A03, 5A03a, b, c, 5C20, 5D06,
 5G20). Rept. 862, 1946. 
 
 Chapman, G. E. and Zlotowski, E. D.: 
-
 Laboratory Investigation of Icing in the 
 Carburetor and Supercharger Inlet El- 
 bow of the Lockheed P-38J Airplane. 
-
 IV - Effect of Throttle Designs and 
 Method of Throttle Operation on Induc- 
 tion-System Icing Characteristics. 
 MR E5L27 (WR E-173), Jan. 1946. 
 
 Mulholland, Donald R. and Chapman, 
-
 Gilbert E.: Laboratory Investigations 
 of Icing in the Carburetor and Super- 
 charger Inlet Elbow of the Lockheed 
@@ -75855,12 +75591,12 @@ March 1922.
 
 
 
-Warner, Edward P.: 
-May 1922. 
+Warner, Edward P.: Night Flying. 
+TM 97, May 1922. 
 
 
 
-Night Flying. TM 97, 
+ 
 
 
 
@@ -76469,12 +76205,12 @@ Navigation
 
 
 
-Friedensburg, Walter: 
+Friedensburg, Walter: Distant-Compass. 
 TM 28, June 1921. 
 
 
 
-Distant-Compass. 
+
 
 
 
@@ -76511,12 +76247,12 @@ March 1922.
 
 
 
-Warner, Edward P. 
-May 1922. 
+Warner, Edward P. Night Flying. 
+TM 97, May 1922. 
 
 
 
-Night Flying. TM 97, 
+
 
 
 
@@ -76695,7 +76431,6 @@ of Longitudinally Finned Tubes. ARR
 (WR W-98), Oct. 1942. 
 
 Martinelli, R. C; Morrin, E. H. and 
-
 Boelter, L. M. K.: An Investigation of 
 Aircraft Heaters. V - Theory and Use 
 of Heat Meters for the Measurements 
@@ -76704,7 +76439,6 @@ Independent of Time. ARR (WR W-ll),
 Dec. 1942. 
 
 Martinelli, R. C; Morrin, E. H. and 
-
 Boelter, L. M. K.: An Investigation of 
 Aircraft Heaters. VI - Heat Transfer 
 Equations for the Single Pass Longitu- 
@@ -76712,7 +76446,6 @@ dinal Exchanger. ARR (WR W-10),
 Dec. 1942. 
 
 Martinelli, R. C; Morrin, E. H. and 
-
 Boelter, L. M. K.: An Investigation of 
 Aircraft Heaters. VII - Thermal Radi- 
 ation from Athermanous Exhaust 
@@ -77717,25 +77450,20 @@ Properties of Gases. ARR (WR W-9)
 Oct. 1942. 
 
 Martinelli, R. C; Weinberg, E. B.; 
-
 Morrin, E. H. and Boelter, L. M. K.: 
 An Investigation of Aircraft Heaters. 
-
 III - Measured and Predicted Perform- 
 ance of Double Tube Heat Exchangers. 
 ARR (WR W-12), Oct. 1942. 
 
 Martinelli, R. C; Weinberg, E. B.; 
-
 Morrin, E. H. and Boelter, L. M. K.: 
 An Investigation of Aircraft Heaters. 
-
 IV - Measured and Predicted Perform- 
 ance of Longitudinally Finned Tubes. 
 ARR (WR W-98), Oct. 1942. 
 
 Martinelli, R. C; Morrin, E. H. and 
-
 Boelter, L. M. K.: An Investigation of 
 Aircraft Heaters. V - Theory and Use 
 of Heat Meters for the Measurements 
@@ -77744,7 +77472,6 @@ dependent of Time. ARR (WR W-ll),
 Dec. 1942. 
 
 Martinelli, R. C; Morrin, E. H. and 
-
 Boelter, L. M. K. An Investigation of 
 Aircraft Heaters. VI - Heat Transfer 
 Equations for the Single Pass Longi- 
@@ -77752,7 +77479,6 @@ tudinal Exchanger. ARR (WR W-10),
 Dec. 1942. 
 
 Martinelli, R. C; Morrin, E. H. and 
-
 Boelter, L. M. K.: An Investigation of 
 Aircraft Heaters. VII - Thermal 
 Radiation from Athermanous Exhaust 
@@ -77779,7 +77505,6 @@ Air Heat Exchangers. ARR (WR W-20),
 March 1943. 
 
 Boelter, L. M. K.; Dennison, H. G.; 
-
 Guibert, A. G. and Morrin, E. H.: An 
 Investigation of Aircraft Heaters. X - 
 Measured and Predicted Performance 
@@ -77796,7 +77521,6 @@ Heat Exchanger. ARR 3D16 (WR W-15),
 April 1943. 
 
 Boelter, L. M. K.; Dennison, H. G.; 
-
 Guibert, A. G. and Morrin, E. H.: An 
 Investigation of Aircraft Heaters. XII - 
 Performance of a Formed-Plate Cross- 
@@ -77901,7 +77625,6 @@ ARR 5A10(WRW- 27), April 1945.
 Boelter, L. M. K.; Guibert, A. G.; Rade- 
 macher, J. M. and Romie, F. E.: An 
 Investigation of Aircraft Heaters. 
-
 XXII - Measured and Predicted Per- 
 formance of a Fluted-Type Exhaust 
 Gas and Air Heat Exchanger. ARR 
@@ -77910,7 +77633,6 @@ Gas and Air Heat Exchanger. ARR
 Boelter, L. M. K.; Guibert, A. G.; Rade- 
 . macher, J. M. and Sanders, V. D.: An 
 Investigation of Aircraft Heaters. 
-
 XXIII - Measured and Predicted Per- 
 formance of a Flat-Plate Type Exhaust 
 Gas and Air Heat Exchanger. ARR 
@@ -78815,13 +78537,7 @@ II. Rept. 156, 1922.
 
 
 
-Wieselsberger, C. 
-ing Air Speed. 
-
-
-
-Manometer for Record- 
-TM 66, Feb. 1922. 
+Wieselsberger, C.: Manometer for Recording Air Speed. TM 66, Feb. 1922. 
 
 
 
@@ -78832,18 +78548,12 @@ Instrument Design. TN 90, May 1922.
 
 
 
-Norton, F. H. 
-Recorder. 
-
-
-
-NACA Control Position 
+Norton, F. H.: NACA Control Position Recorder. 
 TN 97, May 1922. 
 
 
 
-Warner, Edward P.: Mechanical Aids to 
-Flight. TM 98, May 1922. 
+Warner, Edward P.: Mechanical Aids to Flight. TM 98, May 1922. 
 
 
 
@@ -79892,12 +79602,7 @@ Test Results. TN 454, March 1933.
 
 
 
-Wieselsberger, C: 
-Tunnel Balance, 
-
-
-
-The Aachen Wind- 
+Wieselsberger, C: The Aachen Wind-Tunnel Balance, 
 TM 757, Nov. 1934. 
 
 
@@ -79955,13 +79660,13 @@ Gages. TN 744, Jan. 1940.
 
 
 
-The 
 
 
 
-London, Albert: Principles, Practice, and 
-Progress of Noise Reduction in Air- 
-planes. TN 748, Jan. 1940. 
+
+London, Albert: The  Principles, Practice, and 
+Progress of Noise Reduction in Airplanes. 
+TN 748, Jan. 1940. 
 
 Miiller, W.: New Equipment for Testing 
 the Fatigue Strength of Riveted and 
@@ -79979,11 +79684,11 @@ Diaphragms. TM 964, Dec. 1940.
 
 Aitchison, C. S.: Extension of Pack 
 Method for Compressive Tests. 
-789, Dec. 1940. 
+TN 789, Dec. 1940. 
 
 
 
-TN 
+
 
 
 
@@ -80659,7 +80364,9 @@ TN 1622, June 1948.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
 
 (9) 
 
@@ -80951,8 +80658,7 @@ dynamical Laboratory. MP 15, Aug.
 
 
 Reid, Elliott G.: 
-NACA No. 1 
-1924. 
+NACA No. 1 1924. 
 
 
 
@@ -81607,8 +81313,7 @@ Drag at High Subsonic Speeds. TM
 
 Cooper, George E. and Rathert, George 
 A., Jr.: Visual Observations of the- 
-Shock Wave in Flight. RM A8C25, May 
-1948. 
+Shock Wave in Flight. RM A8C25, May 1948. 
 
 Huston, Wilber B.: Accuracy of Airspeed 
 Measurements and Flight Calibration 
@@ -81631,6 +81336,7 @@ Factors Conducive to Aircraft Icing.
 RM A9C09, April 1949. 
 
 TOWING TANKS AND 
+
 IMPACT BASINS 
 
 (9.1.3) 
@@ -81734,7 +81440,9 @@ RM L7C04, April 1947.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
 
 EQUIPMENT (9.1) 
 
@@ -81745,6 +81453,7 @@ EQUIPMENT (9.1)
 
 
 PROPULSION 
+
 RESEARCH EQUIPMENT 
 
 (9.1.4) 
@@ -81888,7 +81597,10 @@ for Studying Piston Friction. ARR
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 570 EQUIPMENT (9.1) 
 
 
@@ -82038,7 +81750,10 @@ and Compressor Mach Number. TN
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 EQUIPMENT (9.1) 
 
 
@@ -82194,7 +81909,10 @@ nautic Instruments. Rept. 165, 1923.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 572 EQUIPMENT (9.1) 
 
 
@@ -82342,7 +82060,9 @@ Strain Conditions. TM 824, April 1937.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
 
 EQUIPMENT (9.1) 
 
@@ -82490,7 +82210,9 @@ TN 1656, July 1948.
 
 
 
-574 RESEARCH EQUIPMENT AND TECHNIQUES 
+574 RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
 
 
 
@@ -82627,7 +82349,9 @@ sene. TN 1243, April 1947.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
 
 TECHNIQUES (9.2) 
 
@@ -82669,12 +82393,7 @@ CORRECTIONS
 
 
 
-Prandtl, L. 
-Part I. 
-
-
-
-Theory of Lifting Surfaces. 
+Prandtl, L.: Theory of Lifting Surfaces. Part I. 
 TN 9, July 1920. 
 
 
@@ -82789,7 +82508,10 @@ tors. TN 506, Oct. 1934.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 576 TECHNIQUES (9.2) 
 
 
@@ -83104,7 +82826,10 @@ Airplanes. TN 1892, June 1949.
 
 
 
-RESEAKCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 578 TECHNIQUES (9.2) 
 
 
@@ -83256,7 +82981,10 @@ tion. TN 230, Jan. 1926.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 TECHNIQUES (9.2) 
 
 
@@ -83412,7 +83140,10 @@ in Wind Tunnels. TM 726, Oct. 1933.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 580 TECHNIQUES (9.2) 
 
 
@@ -83563,7 +83294,9 @@ tion Instruments. TM 969, March 1941.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
 
 TECHNIQUES (9.2) 
 
@@ -83724,7 +83457,10 @@ April 1945.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 582 TECHNIQUES (9.2) 
 
 
@@ -83872,7 +83608,10 @@ Mach Numbers. TM 1168, July 1947.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 TECHNIQUES (9.2) 
 
 
@@ -83900,15 +83639,12 @@ Transfer. TN 1577, April 1948.
 
 Cooper, George E. and Rathert, George 
 A., Jr.: Visual Observations of the 
-
-
-
 Shock Wave in Flight. 
-May 1948. 
+RM A8C25, May 1948. 
 
 
 
-RM A8C25, 
+ 
 
 
 
@@ -84033,7 +83769,10 @@ and Their Tank Models. RB, Feb.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
+
 584 TECHNIQUES (9.2) 
 
 
@@ -84107,12 +83846,7 @@ posed Standard Specifications. TN
 
 
 
-Ford, James B. 
-Equipment. 
-
-
-
-The Nichols Wing Cutting 
+Ford, James B.: The Nichols Wing Cutting Equipment. 
 TN 172, Dec. 1923. 
 
 
@@ -84191,7 +83925,9 @@ Nov. 1940.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT
+
+ AND TECHNIQUES 
 
 TECHNIQUES (9.2) 
 
@@ -84356,7 +84092,10 @@ May 1945.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT
+
+ AND TECHNIQUES 
+
 586 TECHNIQUES (9.2) 
 
 
@@ -84508,7 +84247,9 @@ Test Results. TN 454, March 1933.
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT 
+
+AND TECHNIQUES 
 
 TECHNIQUES (9.2) 
 
@@ -84670,7 +84411,10 @@ Journal Bearings. TN 1280, May
 
 
 
-RESEARCH EQUIPMENT AND TECHNIQUES 
+RESEARCH EQUIPMENT
+
+ AND TECHNIQUES 
+
 588 TECHNIQUES (9.2) 
 
 
@@ -84743,11 +84487,10 @@ Cloud. TN 1397, Aug. 1947.
 
 
 
-BIBLIOGRAPHIES AND INDEXES (11) 589 
 
 
 
-?! 
+
 
 
 
@@ -84820,7 +84563,7 @@ Aircraft Turbines. TN 1508, March
 1949. 
 
 
-
+BIBLIOGRAPHIES AND INDEXES (11) 589 
 BIBLIOGRAPHIES AND INDEXES 
 (11) 
 

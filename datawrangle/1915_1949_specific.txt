@@ -1,0 +1,2885 @@
+SPECIFIC AIRPLANES - AMERICAN 
+(1.7.1.2) 
+
+Bell 
+
+Ames, Milton B., Jr. and Hoggard, H. 
+Page, Jr.: Wind-Tunnel Investigation 
+of a Section of the Horizontal Tail 
+Surface for the Bell XP-63 Airplane. 
+MR (WR L-573), Aug. 1941. 
+
+Nissen, James M. and Gadeberg, Burnett 
+L.: Effect of Mach and Reynolds 
+Number on the Power -Off Maximum 
+Lift Coefficient Obtainable on a P-39N-1 
+Airplane as Determined in Flight. 
+ACR 4F28, June 1944. 
+
+Clousing, Lawrence A.; Turner, William 
+N. and Rolls, L. Stewart: Measure- 
+ments in Flight of the Pressure Dis- 
+tribution on the Right Wing of a 
+P 39N-1 Airplane at Several Values of 
+Mach Number. ARR 4K09 (WR A-13), 
+April 1945. 
+
+Gasich, Welko and Clousing, Lawrence A.: 
+Flight Investigation of the Variation of 
+Drag Coefficient with Mach Number 
+for the Bell P-39N-1 Airplane. ACR 
+5D04, May 1945. 
+
+Preston, G. Merritt; Black, Fred O. Jr. 
+and Jagger, James M.: Altitude Wind 
+Tunnel Tests of the Bell YP-59A 
+Power Plant Installation. MR E5L17 
+(WR E-274), Feb. 1946. 
+
+
+
+Spreiter, John R. and Galster, George M.: 
+Observations of Aileron Flutter on the 
+Bell P-63A-6 Airplane in Flight at 
+High Mach Numbers. ACR 6B08, 
+April 1946. 
+
+Sjoberg, S. A. and Reeder, J. P.: Flight 
+Measurements of the Lateral and Di- 
+rectional Stability and Control Char- 
+acteristics of an Airplane Having a 
+35° Sweptback Wing with 40-Percent- 
+Span Slots and a Comparison with 
+Wind-Tunnel Data. TN 1511, Jan. 1948. 
+
+Sjoberg, S. A. and Reeder, J. P.: Flight 
+Measurements of the Longitudinal 
+Stability, Stalling, and Lift Character- 
+istics of an Airplane Having a 35° 
+Sweptback Wing Without Slots and with 
+40-Percent-Span Slots and a Com- 
+parison with Wind-Tunnel Data. TN 
+1679, Aug. 1948. 
+
+Boeing 
+
+The Boeing Mail Airplane. AC 52, Aug. 
+1927. 
+
+Loeser, Oscar E., Jr.: Pressure Distribu- 
+tion Tests on PW-9 Wing Models from 
+-18 Through 90 Degrees Angle of 
+Attack. Rept. 296, 1929. 
+
+Rhode, Richard V.: Pressure Distribution 
+on the Tail Surfaces of a PW-9 Pur- 
+suit Airplane in Flight. TN 337, 
+April 1930. 
+
+Rhode, Richard V. and Lundquist, Eugene 
+E.: Pressure Distribution over the 
+Fuselage of a PW-9 Pursuit Airplane 
+in Flight. Rept. 380, 1931. 
+
+Scudder, N. F. and Seidman, Oscar: A 
+Flight Investigation of the Spinning of 
+the F4B-2 Biplane with Various Loads 
+and Tail Surfaces. Rept. 529, 1935. 
+
+Bamber, M. J. and Zimmerman, C. H.: 
+The Aerodynamic Forces and 
+Moments on a Spinning Model of the 
+F4B-2 Airplane as Measured by the 
+Spinning Balance. TN 517, Feb. 1935. 
+
+Barnes, Robert H.: High-Speed Aero- 
+dynamic Characteristics of the XB-29 
+Airplane as Determined from Tests of 
+a 0.075-Scale Model. MR (WR A-82), 
+Jan. 1944. 
+
+Monroe, Louis L. and Saari, Martin J.: 
+An Investigation of Cowl Inlets for the 
+Boeing B-29 Power Plant Installation. 
+MR E5K30 (WR E-205), Jan. 1946. 
+
+Peiser, A. M. and Walker, W. G.: An 
+Analysis of the Airspeeds and Normal 
+Accelerations of Boeing S-307 Air- 
+planes in Commercial Transport Op- 
+eration. TN 1141, Sept. 1946. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 
+
+
+
+177 
+
+
+
+Specific Types -American Airplanes (Cont.) 
+
+Brewster 
+
+Clousing, Lawrence A.; Gadeberg, Burnett 
+L. and Kauffman, William M.: Calcu- 
+lated and Measured Turning Perform- 
+ance of a Navy F2A-3 Airplane as Af- 
+fected by the Use of Flaps. ACR 3130, 
+Sept. 1943. 
+
+Wetmore, Joseph W. and Sawyer, Richard 
+H.: Flight Tests of F2A-2 Airplane 
+with Full-Span Slotted Flaps and 
+Trailing-Edge and Slot-Lip Ailerons. 
+ARR 3L07 (WR L-272), Dec. 1943. 
+
+Phillips, William H.: Effect of Spring and 
+Gravity Moments in the Control System 
+on the Longitudinal Stability of the 
+Brewster XSBA-1 Airplane. ARR 
+(WR L-263), April 1942. 
+
+Phillips, W. H. and Nissen, J. M.: Flight 
+Tests of Various Tail Modifications on 
+the Brewster XSBA-1 Airplane. I - 
+Measurements of the Flying Qualities 
+with Original Tail Surfaces. ARR 3F07 
+(WR L-412), June 1943. 
+
+Phillips, W. H. and Crane, H. L.: Flight 
+Tests of Various Tail Modifications on 
+the Brewster XSBA-1 Airplane. II - 
+Measurements of Flying Qualities with 
+Tail Configuration Number Two. 
+MR (WR L-598), Dec. 1943. 
+
+Crane, H. L. and Reeder, J. P.: Flight 
+Tests of Various Tail Modifications on 
+the Brewster XSBA-1 Airplane. HI - 
+Measurements of Flying Qualities with 
+Tail Configuration 3. MR (WR L-599), 
+July 1944. 
+
+Chance -V ought (and Sikorsky) 
+
+Norton, F. H. and Brown, W. G.: Complete 
+Study of the Longitudinal Oscillation of 
+a VE-7 Airplane. Rept. 162, 1923. 
+
+Lesley, E. P.: Report on Tests of Metal 
+Model Propellers in Combination with 
+a Model VE-7 Airplane. TN 245, Aug. 
+1926. 
+
+Crowley, J. W., Jr.: Pressure Distribution 
+over a Wing and Tail Rib of a VE -7 and 
+of a TS Airplane in Flight. Rept. 257, 
+1927. 
+
+Lesley, E. P. and Reid, Elliott G.: Tests 
+of Five Metal Model Propellers with 
+Various Pitch Distributions in a Free 
+Wind Stream and in Combination with a 
+Model VE-7 Fuselage. Rept. 326, 1928. 
+
+Rhode, R. V.: Pressure Distribution on 
+Wing Ribs of the VE-7 and TS Air- 
+planes in Flight, Part II: Pull-ups. 
+TN 277, Jan. 1928. 
+
+
+
+The Sikorsky Twin-Engined Amphibian 
+Type S-38 Model 1928. AC 79, Aug. 
+1928. 
+
+Weick, Fred E.: Full Scale Tests of Wood 
+Propellers on a VE-7 Airplane in the 
+Propeller Research Tunnel. Rept. 301, 
+1929. 
+
+Thompson, F. L. and Kirschbaum, H. W.: 
+Maneuverability Investigation of an 
+03U-1 Observation Airplane. Rept. 
+457, 1933. 
+
+Liddell, Robert B.: The Aerodynamic 
+Tests of Three Edo Floats for the 
+SB2U-3, OS2U-2 and XSB2C-2 Sea- 
+planes, NACA Models 106-K, 107 -K 
+and 125-AH. MR (WR L-722), March 
+1942. 
+
+Clousing, Lawrence A. and McAvoy, 
+William H.: Flight Measurements of 
+the Lateral Control Characteristics of 
+a Vought -Sikorsky OS2U-2 Airplane 
+(Navy No. 2189). MR (WR A -68), Sept. 
+1942. 
+
+Graham, Robert R. and Ashworth, C. 
+
+Dixon: Tests in the 19 -Foot Pressure 
+Tunnel of a 1/2.75 -Scale Model of the 
+F4U-1 Airplane with Several Balanced 
+Elevators Full- Span Flaps, and Drop- 
+able Gas Tank. ACR, Oct. 1942. 
+
+Spahr, J. Richard and Christophersen, Don 
+R.: Measurements in Flight of the Lat- 
+eral Control Characteristics of a Navy 
+OS2U-2 Airplane (No. 3075) Equipped 
+with Full -Span Zap Flaps and Simple 
+Circular Arc Ailerons. MR (WR A -32), 
+Sept. 1944. 
+
+
+
+Consolidated -Vultee 
+
+Scudder, Nathan F.: A Flight Investigation 
+of the Spinning of the NY-1 Airplane 
+with Varied Mass Distribution and 
+Other Modifications, and an Analysis 
+Based on Wind Tunnel Tests. Rept. 
+441, 1932. 
+
+Bamber, M. J. and Zimmerman, C H.: 
+The Aerodynamic Forces and Moments 
+Exerted on a Spinning Model of the 
+NY-1 Airplane as Measured by the 
+Spinning Balance. Rept. 456, 1933. 
+
+Scudder, N. F.: A Flight Investigation of 
+the Effect of Mass Distribution and 
+Control Setting on the Spinning of the 
+XN2Y-1 Airplane. Rept. 484, 1934. 
+
+Scudder, N. F.: The Forces and Moments 
+Acting on Parts of the XN2Y-1 Air- 
+plane During Spins. Rept. 559, 1936. 
+
+
+
+AERODYNAMICS 
+178 AIRCRAFT (1.7) 
+
+
+
+Specific Types - American Airplanes (Cont.) 
+
+Bamber, M. J. and House, R. O.: Spinning 
+Characteristics of the XN2Y-1 Airplane 
+Obtained from the Spinning Balance and 
+Compared with Results from the Spin- 
+ning Tunnel and from Flight Tests. 
+Rept. 607, 1937. 
+
+Curtiss-Wright 
+
+Bacon, D. L.: Preliminary Experiments to 
+Determine Scale and Slip Stream Ef- 
+fects on a l/24th Size Model of the 
+JN4H Biplane. Rept. 122, 1921. 
+
+Norton, F. H.: The Measurement of the 
+Damping in Roll on a JN4H in Flight. 
+Rept. 167, 1923. 
+
+Crowley, J. W., Jr.: Pressure Distribution 
+over a Wing and Tail Rib of a VE-7 
+Vought and of a TS Curtiss Airplane in 
+Flight. Rept. 257, 1927. 
+
+Rhode, R. V.: Pressure Distribution on 
+Wing Ribs of the VE-7 and TS Air- 
+planes, in Flight. Part II: Pull-Ups. 
+TN 277, Jan. 1928. 
+
+Dearborn, C. H. and Kirschbaum, H. W.: 
+Maneuverability Investigation of the 
+F6C-3 Airplane with Special Flight In- 
+struments. Rept. 369, 1930. 
+
+Gough, Melvin N.: Effect of the Angular 
+Position of the Section of a Ring Cowl- 
+ing on the High Speed of an XF7C-1 
+Airplane. TN 355, Nov. 1930. 
+
+Stickle, George W.: Flight Tests of NACA 
+Nose-Slot Cowlings on the BFC-1 Air- 
+plane. TN 720, Aug. 1939. 
+
+Liddell, Robert B.: The Aerodynamic 
+Tests of Three Edo Floats for the 
+SB2U-3, OS2U-2 and XSB2C-2 Sea- 
+planes, NACA Models 106-K, 107-K, 
+and 125-AH. MR (WR L-722), March 
+1942. 
+
+Bailey, F. J., Jr.; Johnston, J. Ford and 
+Voglewede, T. J.: Flight Investigation 
+of the Performance and Cooling Char- 
+acteristics of a Long-Nose High-Inlet- 
+Velocity Cowling on the XP-42 Air- 
+plane. ARR(WR L-356), April 1942. 
+
+Gilruth, R. R.: Flight Tests of Internally 
+Balanced, Sealed Ailerons on the Cur- 
+tiss XP-60 Airplane. CB, July 1942. 
+
+Phillips, William H.: Comparison of 
+
+Aileron Control Characteristics as De- 
+termined in Flight Tests of P-36, P-40, 
+Spitfire and Hurricane Pursuit Air- 
+planes. CB, Aug. 1942. 
+
+
+
+Rogallo, F. M. and Lowry, John G.: Wind- 
+Tunnel Development of Ailerons for the 
+Curtiss XP-60 Airplane. ACR, Sept. 
+1942. 
+
+Johnson, Harold I. and Vensel, Joseph R.: 
+Flight Measurements of the Rudder 
+Control and Sideslip Characteristics 
+of Four Vertical Tail Arrangements on 
+the P-40 Series Airplanes. MR (WR 
+L-547), Oct. 1942. 
+
+Johnston, J. Ford: Review of Flight Tests 
+of NACA C and D Cowlings on the 
+XP-42 Airplane. Rept. 771, 1943. 
+
+Bailey, F. J., Jr. and Johnston, J. Ford: 
+Flight Investigation of NACA Ds Cowl- 
+ings on the XP-42 Airplane. I - High- 
+Inlet-Velocity Cowling with Propeller 
+Cuffs Tested in High Speed Level 
+Flight. ARR (WR L-383), Jan. 1943. 
+
+Johnston, J. Ford and Voglewede, T. J.: 
+Flight Investigation of NACA Ds Cowl- 
+ings on the XP-42 Airplane. U. - Low- 
+Inlet- Velocity Cowling with Axial- Flow 
+Fan and Propeller Cuffs. ARR (WR 
+L-243), Jan. 1943. 
+
+Johnston, J. Ford and Voglewede, T. J.: 
+Flight Investigation of NACA Ds Cowl- 
+ings on the XP-42 Airplane. Ill - Low- 
+Inlet-Velocity Cowling Without Fan or 
+Propeller Cuffs, with Axial Fan Alone, 
+and with Two Different Sets of Propel- 
+ler Cuffs. ARR (WR L-508), Jan. 1943. 
+
+Johnston, J. Ford and Voglewede, T. J.: 
+Flight Investigation of NACA Ds Cowl- 
+ings on the XP-42 Airplane. IV - High- 
+Inlet-Velocity Cowling Tested in Climb 
+with and Without Propeller Cuffs and in 
+High Speed Level Flight Without Pro- 
+peller Cuffs. ARR (WR L-285), Jan. 
+1943. 
+
+Dingeldein, Richard C: Full-Scale Tunnel 
+Measurements of the Pressures on the 
+Elevator and Fuselage of the Curtiss 
+XP-55 Airplane. MR (WR L-630), June 
+1943. 
+
+Nichols, Mark R.: An Experimental Inves- 
+tigation of the Intercooler and Charge - 
+Air Duct Systems of the P-60A Air- 
+plane. ACR 3J14, Oct. 1943. 
+
+Recant, I. G. and Wallace, A. R.: Effect of 
+Single- and Dual-Rotating Propellers 
+on Longitudinal Stability Characteris- 
+tics of a 1/9 -Scale Model of XP-62 
+Airplane with Flaps Retracted. ACR 
+3J29, Oct. 1943. 
+
+Phillips, W. H.; Williams, W. C. and 
+
+Hoover, H. H.: Measurements of Fly- 
+ing Qualities of a Curtiss SB2C-1 Air- 
+plane (No. 00014). MR (WR L-571), 
+March 1944. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 
+
+
+
+179 
+
+
+
+Specific Types - American Airplanes (Cont.) 
+
+Lowry, John G.; Turner, Thomas R. and 
+Liddell, Robert B.: Aerodynamic 
+Characteristics of Several Modifica- 
+tions of a 0.45 -Scale Model of the Ver- 
+tical Tail of the Curtiss XP-62 Air- 
+plane. MR L6F27 (WR L-736), July 
+1946. 
+
+Kleckner, Harold F.: Flight Tests of an 
+All -Movable Horizontal Tail with 
+Geared Unbalancing Tabs on the Cur- 
+tiss XP-42 Airplane. TN 1139, Oct. 
+1946. 
+
+
+
+Douglas 
+
+Pearson, H. A.: Pressure-Distribution 
+Measurements on an 0-2H Airplane in 
+Flight. Rept. 590, 1937. 
+
+Root, L. E.: The Development of Satisfac- 
+tory Flying Qualities on the Douglas 
+Dive Bomber, Model SBD-1 Through 
+Flight Testing Successive Modifications 
+in Control-Surface Area, Hinge-Line 
+Location, and Aerodynamic -Balance 
+Nose Shape. ACR (WR W-81), May 
+1942. 
+
+Johnson, Harold I.: Determination of 
+Flight Paths of an SBD-1 Airplane in 
+Simulated Diving Attacks. ACR, March 
+1943. 
+
+Ashworth, C. Dixon: Pressure-Distribu- 
+tion Measurements on Various Surfaces 
+of a 0.2375-Scale Model of the Douglas 
+XA-26 Airplane in the 19-Foot Pressure 
+Tunnel. MR (WR L-553), Oct. 1943. 
+
+Teplitz, Jerome: Effects of Sweep and Di- 
+hedral on Stalling and Lateral Charac- 
+teristics of the Wing-Fuselage Combi- 
+nation of a Model of the XA-26 Airplane 
+with Partial- and Full-Span Flaps. 
+Rept. 800, 1944. 
+
+Stevens, Victor I.; Douglass, William M. 
+and Dods, Jules B., Jr.: Wind Tunnel 
+Investigation of a 1/20-Scale Powered 
+Model of the Douglas C-74 Airplane. 
+MR (WR A-94), May 1944. 
+
+Nichols, Mark R.; Keith, Arvid L., Jr. and 
+Boswinkle, Robert W., Jr.: A Wind 
+Tunnel Investigation of Carburetor Air 
+Scoops Designed for the Douglas 
+XTB2D-1 Airplane. MR (WR L-751), 
+June 1944. 
+
+Hall, Charles F. and Mannes, Robert L.: 
+Longitudinal Characteristics and 
+Aileron Effectiveness of the XB-42 
+Airplane from High-Speed Wind-Tunnel 
+Tests. CMR (WR A-84), Sept. 1944. 
+
+
+
+Ashworth, C. Dixon; Spooner, Stanley H. 
+and Russell, Robert T.: Tests of a 
+0.30-Scale Semispan Model of the 
+Douglas XTB2D-1 Airplane Wing and 
+Fuselage Combination in the NACA 19- 
+Foot Pressure Tunnel. I- Full Span 
+Flap and Air-Brake Investigation. MR 
+(WR L-563), Sept. 1944. 
+
+Spooner, Stanley H.; Ashworth, C. Dixon 
+and Russell, Robert T.: Tests of a 
+0.30 Scale Semispan Model of the 
+Douglas XTB2D-1 Airplane Wing and 
+Fuselage Combination in the NACA 19- 
+Foot Pressure Tunnel. H - Roll- Flap 
+Positioning and Lateral Control Inves- 
+tigation. MR (WR L-564), Sept. 1944. 
+
+Bartlett, Walter A., Jr. and Marino, Alfred 
+A.: An Investigation of the Mutual 
+Interference Effects of a Tail-Surface 
+and Stern- Propeller Installation on a 
+Model Simulating the Douglas XB-42 
+Empennage. MR L4K09 (WR L-625), 
+Nov. 1944. 
+
+Sjoberg, S. A.; Crane, H. L. and Hoover, 
+H. H.: Measurement of Flying Quali- 
+ties of a Douglas A-26B Airplane (AAF 
+No. 41-39120). Ill - Stalling Charac- 
+teristics. MR L5A04a (WR L-607), 
+Jan. 1945. 
+
+Nuber, Robert J. and Rice, Fred J., Jr.: 
+Lift Tests of a 0.1536c Thick Douglas 
+Airfoil Section of NACA 7 -Series Type 
+Equipped with a Lateral-Control Device 
+for Use with a Full-Span Double-Slotted 
+Flap on the C-74 Airplane. MR 
+L5C24a (WR L-641), March 1945. 
+
+Crane, Harold L. and Sjoberg, Sigurd A.: 
+Comparison of Predicted and Actual 
+Control-Fixed Stability and Control 
+Characteristics of a Douglas A-26B 
+Airplane. MR L5D06 (WR L-608), 
+April 1945. 
+
+Schueler, Carl F. and Korycinski, Peter 
+F.: Effect of Fabric Deflections at 
+High Speeds on the Aerodynamic Char- 
+acteristics of the Horizontal Tail Sur- 
+face of an SB2D-1 Airplane. ARR 
+L5F01a (WR L-170), June 1945. 
+
+Kayten, Gerald G. and Koven, William: 
+Comparison of Wind-Tunnel and Flight 
+Measurements of Stability and Control 
+Characteristics of a Douglas A-26 Air- 
+plane. ARR L5Hlla (WR L-99), 
+March 1946. 
+
+Kuenzig, John K. and Palter, Herman: 
+Aerodynamics of the Carburetor Air 
+Scoop and the Engine Cowling of the 
+XTB2D-1 Airplane. MR E6E27 (WR 
+E-280), June 1946. 
+
+
+
+AERODYNAMICS 
+180 AIRCRAFT (1.7) 
+
+
+
+Speci fie Types - American Airplanes (Cont . ) 
+
+Peiser, A. M.: An Analysis of the Air- 
+speeds and Normal Accelerations of 
+Douglas DC -3 Airplanes in Commer- 
+cial Transport Operation. TN 1142, 
+Sept. 1946. 
+
+Talmage, Donald B. and Reeder, John P.: 
+The Effects of Friction in the Control 
+System on the Handling Qualities of a 
+C-54D Airplane. RM L8G30a, Nov. 
+1948. 
+
+Talmage, Donald B. and Reeder, John P.: 
+Lateral and Directional Stability and 
+Control Characteristics of a C-54D 
+Airplane. RM L8K30, March 1949. 
+
+
+
+Fairchild : The Fairchild "All-Purpose' Cabin Monoplane. 
+AC 58, Oct. 1927. 
+
+
+
+
+
+
+
+Herrnstein, William H., Jr.: Full Scale 
+Drag Tests on Various Parts of the 
+Fairchild (FC-2W2) Cabin Monoplane. 
+TN 340, May 1930. 
+
+Dearborn, C. H. and Soule, H. A.: Full- 
+Scale Wind-Tunnel and Flight Tests of 
+a Fairchild 22 Airplane Equipped with 
+a Fowler Flap. TN 578, Aug. 1936. 
+
+Dearborn, C. H. and Soule, H. A.: Full- 
+Scale Wind-Tunnel and Flight Tests of 
+a Fairchild 22 Airplane Equipped with 
+a Zap Flap and Zap Ailerons. TN 596, 
+March 1937. 
+
+Reed, Warren D. and Clay, William C: 
+Full -Scale Wind -Tunnel and Flight 
+Tests of a Fairchild 22 Airplane 
+Equipped with External-Airfoil Flaps. 
+TN 604, July 1937. 
+
+Clousing, L. A.; Lehr, Robert R. and 
+O'Sullivan, William J.: Full-Scale 
+Wind-Tunnel and Flight Tests of a 
+Fairchild XR2K-1 Airplane with a Zap 
+Flap and Upper -Surface Aileron- Wing 
+Installation. ARR (WR L-437), March 
+1942. 
+
+Kleckner, Harold F.: Flight Tests of an 
+All-Movable Vertical Tail on the Fair- 
+child XR2K-1 Airplane. ACR 3F26 
+(WR L-397), June 1943. 
+
+
+
+Fleetwings 
+
+Ellerbrock, Herman H., Jr. and Wilson, 
+Herbert A., Jr.: Cowling and Cooling 
+Tests of a Fleetwings Model 33 Air- 
+plane in Flight. MR (WR L-632), May 
+1944. 
+
+
+
+Gliders 
+
+Stone, Ralph W., Jr. and Daughtridge, Lee 
+T, Jr.: Free-Spinning, Longitudinal 
+Trim and Tumbling Tests of 1/17.8- 
+Scale Models of the Cornelius XFG-I 
+Glider. MR L5K21 (WR L-738), Jan. 
+1946. 
+
+Grumman 
+
+Kleckner, Harold F.: Flight Measurements 
+of the Aileron Characteristics of a 
+Grumman F4F-3 Airplane. ACR, Sept. 
+1942. 
+
+McKee, John W. and Liddell, Robert B.: 
+Wind-Tunnel Investigation of a Revised 
+Horizontal Tail Surface for the Grum- 
+man TBF-1 Airplane. MR (WR L-702), 
+Feb. 1943. 
+
+Lowry, John G.; Maloney, James A. and 
+Garner, I. Elizabeth: Wind Tunnel In- 
+vestigation of Shielded Horn Balances 
+and Tabs on a 0.7 -Scale Model of the 
+XF6F Vertical Tail Surface. ACR 4C11 
+(WR L-516), March 1944. 
+
+Becker, John V. and Korycinski, Peter F.: 
+Aerodynamic Tests of a Full-Scale 
+TBF-1 Aileron Installation in the 
+Langley 16- Foot High-Speed Tunnel. 
+ARR L4K22 (WR L-31), Dec. 1944. 
+
+Williams, Walter C: Flight Tests of the 
+Lateral Control Characteristics of an 
+F6F-3 Airplane Equipped with Spring- 
+Tab Ailerons. ARR L5C23 (WR 
+L-149), April 1945. 
+
+Turner, Howard L.: Buffeting of External 
+Fuel Tanks at High-Speeds on a 
+Grumman F7F-3 Airplane. RM A7A07, 
+Jan. 1947. 
+
+Cocke, Bennie W., Jr. and Czarnecki, K. 
+R.: Canopy Loads Investigation for the 
+F6F-3 Airplane. RM L6L23a, April 
+1947. 
+
+Matheny, Cloyce E. and Huston, Wilber B.: 
+Flight Investigation of Loads on a Bub- 
+ble-Type Canopy. RM L8C30, Oct. 
+1948. 
+
+Hughes 
+
+Fullmer, Felicien F., Jr.: Tests of a 1/40 
+Scale Wing-Hull Model and a 1/10- 
+Scale Float-Strut Model of the Hughes- 
+Kaiser Cargo Airplane in the Two -Di- 
+mensional Low -Turbulence Pressure 
+Tunnel. MR (WR L-633), Sept. 1943. 
+
+Olson, Roland E.; Posner, Jack and 
+
+Woodward, David R.: Resistance Tests 
+of a 1/16-Size Model of the Hughes- 
+Kaiser Flying Boat, NACA Model 183. 
+MR (WR L-683), June 1944. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 
+
+
+
+181 
+
+
+
+Speci fie Types - American Airplanes (Cont . ) 
+
+Underwood, William J. and Fullmer, 
+Felicien F., Jr.: Two -Dimensional 
+Wind-Tunnel Investigation of Spoiler 
+Aileron Flap Model for the Hughes 
+XF-U Airplane. MR L5C29 (WR 
+L-644), April 1945. 
+
+Lockheed 
+
+Lockheed "Vega" Airplane. A Commer- 
+cial Cabin Monoplane. AC 61, Nov. 
+1927. 
+
+Erickson, Albert L.: Investigation of Div- 
+ing Moments of the Lockheed P-38 Air- 
+plane in the 16 -Foot Wind Tunnel at 
+Ames Aeronautical Laboratory. MR 
+(WR A-65), Oct. 1942. 
+
+Stevens, Victor I., Jr. and McCullough, 
+George B.: Flying Qualities of the 
+PV-1 as Estimated from Wind-Tunnel 
+Tests. MR (WR A-93), Sept. 1943. 
+
+Fullmer, Felicien F., Jr.: Two-Dimen- 
+sional Wind Tunnel Investigation of Six 
+Airfoil Sections for the Wing of the 
+Vega XP2V-1 Airplane TED No. NACA 
+231. MR L5I21 (WR L-681), Oct. 1945. 
+
+Brown, Harvey H. and Clousing, Lawrence 
+A.: Wing Pressure Distribution 
+Measurements up to 0.866 Mach Num- 
+ber in Flight on a Jet- Propelled Air- 
+plane. TN 1181, March 1947. 
+
+Steiner, Roy: An Analysis of Airspeeds 
+and Mach Numbers Attained by Lock- 
+heed Constellation Airplanes in Trans- 
+continental Operations During the 
+Early Summer of 1946. RM L7C06, 
+Oct. 1947. 
+
+Steiner, Roy: Supplementary Data on Air- 
+speeds and Mach Numbers Attained by 
+Lockheed Constellation Airplanes in 
+Transcontinental Operations. RM 
+L7F25, Oct. 1947. 
+
+Martin 
+
+De France, Smith J.: Results of Drag Tests 
+on P3M-1 Nacelle. ACR, April 1932. 
+
+Donely, Philip and Pearson, Henry A.: 
+Flight and Wind- Tunnel Tests of an 
+XBM-1 Dive Bomber. TN 644, April 
+1938. 
+
+Donely, Philip and Shufflebarger, CO.: 
+Tests in the Gust Tunnel of a Model of 
+the XBM-1 Airplane. TN 731, Oct. 
+1939. 
+
+Pearson, Henry A. and Smull, Leland K.: 
+Control Motion Studies of the PBM-3 
+Flying Boat in Abrupt Pull-Ups. MR 
+(WR L-577), Nov. 1942. 
+
+
+
+Nelson, William J. and Ebert, John W., Jr.: 
+An Investigation of the Airflow Around 
+a Martin PBM-3 Flying Boat by Means 
+of Tufts. MR (WR L-674), April 1943. 
+
+Gustafson, F. B. and O 'Sullivan, William 
+J., Jr.: The Effect of High Wing Loading 
+on Landing Technique and Distance, 
+with Experimental Data for the B-26 
+Airplane. ARR L4K07 (WR L-160), 
+Jan. 1945. 
+
+Pierson, J. D.: JRM-1 Landing Impact 
+Characteristics from Model Tests. 
+ARR 5L03 (WR W-106), Feb. 1946. 
+
+Lewis, James P.: Wind Tunnel Investiga- 
+tion of Icing of a PBM-3D Cooling Fan 
+Installation. RM E6L03, Dec. 1946. 
+
+Navy 
+
+The Aeronautics Staff, Construction De- 
+partment, Navy Yard, Washington, 
+D. C: Air Force and Three Moments 
+for F-5-L Seaplane. TN 85, Feb. 
+1922. 
+
+Diehl, Lieut. W. S., Bureau of Aeronau- 
+tics, USN: F-5-L Boat Seaplane - 
+Performance Characteristics. TN 118, 
+Oct. 1922. 
+
+Smith, R. H.: Air Force and Moment for 
+N-20 Wing with Certain Cut-Outs. 
+Rept. 266, 1927. 
+
+North American 
+
+Delany, Noel K.: Effects of Direction of 
+Propeller Rotation on the Longitudinal 
+Stability of the 1/10-Scale Model of the 
+North American XB-28 Airplane with 
+Flaps Neutral. ACR, June 1942. 
+
+Holtzclaw, Ralph W. and Erickson, Myles 
+D.: Wind- Tunnel Investigation of Flap, 
+Aileron and Exterior Bomb Installa- 
+tions on a 24-Inch Constant-Chord 
+North American XB-28 Wing Model. 
+ARR, July 1942. 
+
+Zalovcik, John A.: A Profile-Drag Investi- 
+gation in Flight on an Experimental 
+Fighter-Type Airplane - the North 
+American XP-51 (Air Corps Serial No. 
+41-38). ACR, Nov. 1942. 
+
+Abbott, Frank T., Jr. and Underwood, 
+
+William J.: Wind-Tunnel Investigation 
+of Profile Drag and Lift of an Inter- 
+mediate Wing Section of the XP-51 
+Airplane with Beveled Trailing-Edge 
+and Contour. MR (WR L-615), Jan. 
+1943. 
+
+Laitone, Edmund V.: Investigation of the 
+Longitudinal Stability at High Speeds of 
+a Northrop XP-56 1/5-Scale Model. 
+MR (WR A-77), March 1943. 
+
+
+
+AERODYNAMICS 
+182 AIRCRAFT (1.7) 
+
+
+
+Specific Types - American Airplanes (Cont.) 
+
+Matthews, Howard F.: Elimination of Rum- 
+ble from the Cooling Ducts of a Single- 
+Engine- Pursuit Airplane. RMR (WR 
+A-70), Aug. 1943. 
+
+Nissen, James M.; Gadeberg, Burnett L. 
+and Hamilton, William T.: Correlation 
+of the Drag Characteristics of a P-51B 
+Airplane Obtained from High-Speed 
+Wind Tunnel and Flight Tests. ACR 
+4K02, Feb. 1945. 
+
+Beeler, De D. and Williams, Walter C: 
+Flight Tests of Dive-Recovery Flaps on 
+an XP-51 Airplane. ACR L5D20a, May 
+1945. 
+
+Beeler, De E.: Air-Flow Behavior over the 
+Wing of an XP-51 Airplane as Indicated 
+by Wing-Surface Tufts at Subcritical 
+and Supercritical Speeds. RM L6L03, 
+April 1947. 
+
+Pitcairn 
+
+The Pitcairn "Mailwing" PA -5. A Single - 
+Seat Commercial Biplane. AC 62, Nov. 
+1927. 
+
+
+
+Republic 
+
+Theodorsen, Theodore and Regier, Arthur 
+A.: Vibration Surveys of the P-47-B 
+Rudder and Fin-Rudder Assembly. MR 
+(WR L-653), April 1943. 
+
+Dingledein, Richard C: Full-Scale Tunnel 
+Investigation of the Pressure Distribu- 
+tion over the Tail of the P-47B Air- 
+plane. ARR 3E25 (WR L-439), May 
+1943. 
+
+Gilruth, R. R. and Liddell, C. J.: Effect of 
+Altitude on Elevator Control Character- 
+istics in Turning Flight as Measured 
+for P-47B and P-47C Airplanes. ACR 
+3L17, Dec. 1943. 
+
+Vogeley, A. W.: Climb and High-Speed 
+Tests of a Curtiss No. 714-1C2-12 
+Four -Blade Propeller on the Republic 
+P-47C Airplane. ACR L4L07 (WR 
+L-177), Dec. 1944. 
+
+Hamilton, William T. and Boddy, Lee E.: 
+High-Speed Wind- Tunnel Tests of 
+Dive-Recovery Flaps on a 0.3 -Scale 
+Model of the P-47D Airplane. ACR 
+5D19, May 1945. 
+
+Hamilton, William T. and Boddy, Lee E.: 
+High Speed Wind Tunnel Tests of a 
+0.3-Scale Model of the P-47D Airplane. 
+ACR 5D20, May 1945. 
+
+
+
+Gardner, John J.: Effect of Blade Loading 
+on the Climb and High-Speed Perform- 
+ance of a Three -Blade Hamilton Stand- 
+ard No. 6507A-2 Propeller on a 
+Republic P-47D Airplane. MR L5G09a 
+(WR L-594), July 1945. 
+
+Zalovcik, John A.: Flight Investigation of 
+Boundary Layer and Profile Drag Char- 
+acteristics of Smooth Wing Sections of 
+a P-47D Airplane. ACR L5Hlla (WR 
+L-86), Oct. 1945. 
+
+Cahill, Jones F.: Aerodynamic Data for a 
+Wing Section of the Republic XF-12 
+Airplane Equipped with a Double Slotted 
+Flap. MR L6A08a (WR L-544), Jan. 
+1946. 
+
+Zalovcik, John A. and Daum, Fred L.: 
+Flight Investigation at High Speeds of 
+Profile Drag of Wing of a P-47D Air- 
+plane Having Production Surfaces 
+Covered with Camouflage Paint. ACR 
+L6B21 (WR L-98), March 1946. 
+
+Ryan 
+
+Hall, Donald A.: Technical Preparation of 
+the Airplane "Spirit of St. Louis." TN 
+257, July 1927. 
+
+
+
+Munk, Max M. and Diehl, Walter S.: The 
+Air Forces on a Model of the Sperry 
+Messenger Airplane Without Propeller. 
+Rept. 225, 1925. 
+
+Shoemaker, James M.: Air Force Tests of 
+Sperry Messenger Model with Six Sets 
+of Wings. Rept. 269, 1927. 
+
+Stinson Commercial Airplane - Type 
+S M-l. A Semicantilever Monoplane. 
+AC 60, Oct. 1927. 
+
+Weick, Fred E.: Full Scale Drag Tests on 
+Various Parts of Sperry Messenger 
+Airplane. TN 271, Jan. 1928. 
+
+Weick, Fred E.: The Effect of the Sperry 
+Messenger Fuselage on the Air Flow 
+at the Propeller Plane. TN 274, Jan. 
+1928. 
+
+
+
+Norton, F. H.: Pressure Distribution over 
+the Wings of an MB-3 Airplane in 
+Flight. Rept. 193, 1924. 
+
+"Travel Air" Commercial Airplane - Type 
+5000. AC 55, Sept. 1927. 
+
+BRITISH 
+(1.7.1.2) 
+
+Flight Test of the Handley Page Torpedo- 
+Carrying Airplane - Editorial from 
+"The Aeroplane," March 8, 1922. TM 
+82, April 1922. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 183 
+
+
+
+Specific Types - British Airplanes (Cont.) 
+
+Norton, F. H. and Carroll, T.: The Verti- 
+cal, Longitudinal, and Lateral Acceler- 
+ations Experienced by an S.E.5A Air- 
+plane While Maneuvering. Rept. 163, 
+1923. 
+
+Miller, Roy G. and Brown, D. T.: The 
+"Turkey Buzzard" Glider. TM 214, 
+June 1923. 
+
+Light Airplanes Which Participated in 
+Contest at Lympne, England, October, 
+1923. TM 261, May 1924. 
+
+Buchanan, J. S.: Royal Aero Club Light 
+Aeroplane Competition. TM 297, Jan. 
+1925. 
+
+The Pander Light Biplane. A School Two- 
+Seater with 45 HP Anzani Engine. AC 
+2, April 1926. 
+
+The Vickers "Vendace." A Land or Sea 
+Training Biplane. AC 3, May 1926. 
+
+The Short S.7 "Mussel." A Training Sea- 
+plane with 65 HP. "Cirrus" Engine. 
+AC 5, May 1926. 
+
+Two "Gloster" Airplanes. "Grouse II," - 
+Two -Seat Training Airplane. The 
+"Grebe n," - Single-Seat Fighter. 
+AC 7, June 1926. 
+
+Serryer, J.: Wibault Two-Seat Monoplane 
+8C2 - An All-Metal Pursuit and Obser- 
+vation Airplane. AC 9, June 1926. 
+
+A New De Havilland Commercial Airplane- 
+The D.H.66 with Three Bristol 
+"Jupiter" Engines. AC 10, July 1926. 
+
+The Blackburn "Sprat." A Training Air- 
+plane Convertible into Landplane or 
+Seaplane. AC 11, July 1926. 
+
+The Armstrong-Whitworth "Argosy." The 
+Latest Three -Engined Commercial 
+Airplahe. AC 14, Aug. 1926. 
+
+The Avro "Avian" Airplane. 65 HP. 
+Armstrong-Siddeley "Genet" Engine. 
+AC 17, Oct. 1926. 
+
+The De Havilland "Moth." AC 18, Oct. 
+1926. 
+
+The Bristol "Badminton" Airplane. AC 19, 
+Oct. 1926. 
+
+The Handley Page "Hamlet." AC 20, Nov. 
+1926. 
+
+The A.N.E.C. IV "Missel Thrush" Light 
+Airplane. AC 21, Nov. 1926. 
+
+Serryer, J.: Avia Pursuit Airplane B.H.21. 
+AC 22, Nov. 1926. 
+
+
+
+The Super marine "Southampton" Seaplane. 
+(Observation or Bomber). AC 25, Dec. 
+1926. 
+
+The Boulton and Paul "Bugle" Airplane. 
+(Day Bomber). AC 26, Dec. 1926. 
+
+Training Airplane "Avia B.H. 11." AC 40, 
+May 1927. 
+
+The Blackburn "Bluebird." Two-Seat 
+Training and Sport Airplane. AC 45, 
+June 1927. 
+
+The Gloster "Gambet" Airplane. A Deck- 
+Landing Ship's Fighter Fitted with a 420 
+HP. Bristol Jupiter VI Engine. AC 48, 
+July 1927. 
+
+The Avro "Gosport," 504 R. A New Train- 
+ing Airplane. AC 49, July 1927. 
+
+The Westland "Widgeon HI," "Cirrus H" or 
+"Genet II" Engine from "Flight," July 
+28, 1927. AC 53, Aug. 1927. 
+
+The De Havilland "Tiger Moth." A Low 
+Wing Monoplane from "Flight," Sep- 
+tember 22, 1927. AC 57, Oct. 1927. 
+
+Higgins, George J.; Diehl, W. S. and DeFoe, 
+George L.: Tests on Models of Three 
+British Airplanes in the Variable Den- 
+sity Wind Tunnel. Rept. 279, 1928. 
+
+The De Havilland 61 "Canberra" (British). 
+A 6-8 Passenger Airplane. AC 65, Jan. 
+1928. 
+
+Supermarine S.5 Seaplane (British). Winner 
+of the 1927 Schneider Cup Race. AC 
+67, March 1928. 
+
+The Short "Calcutta." First British All- 
+Metal Commercial Seaplane. AC 68, 
+March 1928. 
+
+The "Gloster IV" Seaplane (British). AC 
+69, March 1928. 
+
+The Avro "Avian III" Airplane (British). 
+AC 70, April 1928. 
+
+The Boulton and Paul "Side strand I" 
+Bomber Airplane (British). AC 71, 
+April 1928. 
+
+The Par nail "Imp." A New British Light 
+Airplane. AC 72, May 1928. 
+
+Westland "Wapiti" (British). AC 81, Sept. 
+1928. 
+
+The Armstrong Whitworth "Starling" (Brit- 
+ish) (Single-Seat Fighter). AC 82, Sept. 
+1928. 
+
+The Vickers "Vellore" (British) Freight 
+Carrier. AC 83, Oct. 1928. 
+
+
+
+AERODYNAMICS 
+184 AIRCRAFT (1.7) 
+
+
+
+Specific Types - British Airplanes (Cont.) 
+
+The Gloster "Goldfinch" (British) Single- 
+Seat Fighter. AC 85, Nov. 1928. 
+
+The Boulton and Paul "Partridge" (British) 
+All-Metal Single-Seat Fighter. AC 90, 
+Feb. 1929. 
+
+The De Havilland D. H. 75 "Hawk Moth" 
+(British) Cabin Monoplane. AC 91, 
+March 1929. 
+
+The Blackburn "Bluebird" Mark IV (Brit- 
+ish) All-Metal Biplane. AC 94, April 
+1929. 
+
+The Westland IV Commercial Monoplane 
+(British) Three "Cirrus III" Engines. 
+AC 95, April 1929. 
+
+The Parnall "Pipit" (British) a Single -Seat 
+Ship's Fighter. AC 99, Aug. 1929. 
+
+The A.B.C. "Robin" (British) a Single-Seat 
+Cabin Monoplane. AC 101, Sept. 1929. 
+
+The Fairey III. F (British) a General-Pur- 
+pose Biplane. AC 102, Sept. 1929. 
+
+The Bristol "Bulldog" (British) a Single- 
+Seat All-Steel Fighter. AC 103, Oct. 
+1929. 
+
+The Saunders "Cutty Sark" Commercial 
+Seaplane (British) a High-Wing Mono- 
+plane Flying Boat. AC 105, Nov. 1929. 
+
+The Comper C(LA)7 "Swift" Airplane 
+(English) a High-Wing Single-Seat 
+Monoplane. AC 108, Feb. 1930. 
+
+The De Havilland "Moth Three" Airplane 
+(British) a High-Wing Commercial 
+Monoplane. AC 117, May 1930. 
+
+The "Avro Trainer" Airplane (British) a 
+Training Biplane. AC 119, June 1930. 
+
+The Cierva "Autogiro" Mark III (British) 
+Armstrong-Siddeley "Genet Major" 
+Engine. AC 120, June 1930. 
+
+The Short "Valetta" Commercial Seaplane 
+(British) a High-Wing All-Metal Twin- 
+Float Monoplane. AC 125, Aug. 1930. 
+
+The Henderson "Hendy" 302 Cabin Airplane 
+(British) a Two-Seat Low- Wing Canti- 
+lever Monoplane. AC 126, Sept. 1930. 
+
+Westland "Wessex" Commercial Airplane 
+(British) a High-Wing Semicantilever 
+Monoplane. AC 128, Oct. 1930. 
+
+Vickers "Viastra I" Commercial Airplane 
+(British) a High-Wing All-Metal Semi- 
+Cantilever Monoplane. AC 129, Nov. 
+1930. 
+
+
+
+The Handley Page Type 42 Commercial 
+Airplane (British) a Metal Sesquiplane. 
+AC 131, Dec. 1930. 
+
+The Mono-Spar Light Airplane (British) a 
+Twin-Engined Low-Wing Cabin Mono- 
+plane. AC 148, July 1931. 
+
+Description of Westland Hill Pterodactyl 
+Mark IV. MP 27, Aug. 1931. 
+
+The Avro 627 "Mailplane" (English) a Sin- 
+gle-Seat Biplane. AC 150, Aug. 1931. 
+
+The Supermarine S.6.B. Racing Seaplane 
+(British) a Low- Wing Twin- Float Mono- 
+plane. AC 154, Dec. 1931. 
+
+The Armstrong Whitworth A.W. XVI Mili- 
+tary Airplane (British) a Single-Seat 
+Biplane. AC 156, Jan. 1932. 
+
+The Avro 631 Training Airplane (British) 
+a Two-Seat Light Biplane. AC 161, 
+May 1932. 
+
+The D.H. 83 "Fox Moth" Commercial Air- 
+plane (British) a Three -Passenger 
+Light Cabin Biplane. AC 162, May 
+1932. 
+
+The Stieger ST. 4 Light Airplane (British) 
+a Twin-Engine Four-Seat Low-Wing 
+Cabin Monoplane. AC 164, May 1932. 
+
+Armstrong- Whitworth A.W. XV "Atalanta" 
+Airplane (British) a Commercial Multi- 
+place Cantilever Monoplane. AC 167, 
+Aug. 1932. 
+
+Spartan "Cruiser" Commercial Airplane 
+(British) a Six-Seat Low-Wing Cantile- 
+ver Monoplane. AC 168, Aug. 1932. 
+
+The D.H. "Dragon Moth" Commercial Air- 
+plane (British) a Twin-Engine 6-Pas- 
+senger Biplane. AC 174, Jan. 1933. 
+
+The Boulton and Paul P. 64 Mail-Carrier 
+a Two-Engine All-Metal Biplane. AC 
+177, April 1933. 
+
+The Airspeed "Courier" Commercial Air- 
+plane (British) a Low-Wing Cantilever 
+Monoplane. AC 178, May 1933. 
+
+The Westland "Wallace" General -Purpose 
+Airplane (British) an Ail-Metal Bi- 
+plane. AC 179, May 1933. 
+
+The Schackleton-Murray SM-1 Light Air- 
+plane a Two- Place High- Wing Mono- 
+plane. AC 181, June 1933. 
+
+The Comper "Mouse" Commercial Air- 
+plane (British) a Three -Seat Cabin 
+Low-Wing Monoplane. AC 184, Oct. 
+1933. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 
+
+
+
+185 
+
+
+
+Specific Types - British Airplanes (Cont.) 
+
+The D.H.85 "Leopard Moth" Airplane 
+(British) a Three-Seat Cabin High- 
+Wing Monoplane. AC 186, Dec. 1933. 
+
+D.H. 86 "Express Air Liner" (British) a 
+Four-Engine Biplane. AC 189, April 
+1934. 
+
+The Short "Scylla" Commercial Airplane 
+(British) an All-Metal Biplane. AC 190, 
+May 1934. 
+
+Avro 642 Commercial Airplane (British) a 
+High-Wing Cantilever Monoplane. AC 
+191, May 1934. 
+
+The Avro "Commodore" Touring Airplane 
+(British) a Cabin Biplane. AC 193, July 
+1934. 
+
+The Comper "Streak" Single -Seat Airplane 
+(British) a Low-Wing Cantilever Mono- 
+plane. AC 194, July 1934. 
+
+The British Klemm "Eagle" Commercial 
+Airplane a Low-Wing Cantilever Mono- 
+plane. AC 195, Aug. 1934. 
+
+Colson, C. N.: Avro C.30 Direct-Control 
+Autogiro (British). AC 196, Sept. 1934. 
+
+The De Havilland "Comet" Long-Range 
+Airplane (British) a Low-Wing Canti- 
+lever Monoplane. AC 197, Oct. 1934. 
+
+Kay 331 Gyroplane (British) All-Metal Sin- 
+gle-Seat Light Rotor Plane. AC 198, 
+Jan. 1935. 
+
+Boulton Paul P.71A Commercial Airplane 
+(British) a Two-Engine Biplane. AC 
+199, March 1935. 
+
+The Short "Scion Senior" Commercial Air- 
+plane (British) a Four -Engine High- 
+Wing Cantilever Monoplane. AC 200, 
+Feb. 1936. 
+
+The Avro "Anson" General -Purpose Air- 
+plane (British) a Two-Engine Low-Wing 
+Cantilever Monoplane. AC 201, March 
+1936. 
+
+The Vickers-Supermarine "Scapa" (Brit- 
+ish) a Military Flying Boat. AC 203, 
+May 1936. 
+
+The Short "Empire" Commercial Flying 
+Boat (British) an All-Metal Cantilever 
+Monoplane. AC 204, Dec. 1936. 
+
+The Hafner A.R.III Gyroplane (British). 
+AC 205, April 1937. 
+
+Armstrong Whitworth 27 "Ensign" Com- 
+mercial Airplane (British) an All-Metal 
+High- Wing Monoplane. AC 206, May 
+1937. 
+
+
+
+Baynes Bee Light Airplane (British) a Two- 
+Seat High -Wing Monoplane. AC 207, 
+June 1937. 
+
+The Airspeed "Oxford" Training Airplane 
+(British) a Two-Engine Cantilever 
+Monoplane. AC 208, Sept. 1937. 
+
+Fairey "Battle" Medium Bomber Airplane 
+(British) an All-Metal Low-Wing Can- 
+tilever Monoplane. AC 209, Nov. 1937. 
+
+Nissen, J. M. and Phillips, W. H.: Meas- 
+urements of the Flying Qualities of a 
+Hawker Hurricane Airplane. MR (WR 
+L-565), April 1942. 
+
+Vensel, J. R. and Phillips, W. H.: Stalling 
+Characteristics of the Supermarine 
+Spitfire VA Airplane. ACR (WR 
+L-353), Sept. 1942. 
+
+Crane, H. L.; Talmage, D. B. and Gray, 
+W. E., Jr.: Measurement of Flying 
+Qualities of a De Havilland Mosquito 
+F-8 Airplane (AAF No. 43-334960). 
+I - Lateral and Directional Stability and 
+Control Characteristics. MR L5D19 
+(WR L-593), May 1945. 
+
+FRENCH 
+(1.7.1.2) 
+
+Margoulis, W.: Notes on Specifications for 
+French Airplane Competitions. TN 20, 
+Oct. 1920. 
+
+The Potez Heavy Service Landing Gear - 
+Hutchinson System. MP 11, Sept. 1922. 
+
+Lesage, M. Andre: Magnan Glider M-2. 
+TM 250, Feb. 1924. 
+
+List of Commercial Aircraft Belonging to 
+the Various French Air Navigation 
+Companies as of August 31st, 1922. 
+Translated from 'TAuto" of November 
+19, 1922. TM 177, Jan. 1923. 
+
+Serryer, J.: Liore-Olivier Airplane. 
+'(Type 12 Night-Bomber or Type 20 
+Commercial). AC 1, March 1926. 
+
+Serryer, J.: Farman Monoplane F.170- 
+Commercial Airplane with One 500 HP. 
+Farman Engine. AC 12, Aug. 1926. 
+
+The Farman Commercial Airplane 
+"Jabiru." AC 15, Sept. 1926. 
+
+Albert TE-1 Training Airplane. AC 23, 
+Dec. 1926. 
+
+Dyle and Bacalan Metal Monoplane, D.B. 
+10 Night Bomber. AC 27, Jan. 1927. 
+
+Combat and Bombing Airplane, Amiot 120 
+B 3. AC 28, Jan. 1927. 
+
+Nieuport-Delage Pursuit Airplane 48 C.l. 
+("Jockey" Type). AC 29, Jan. 1927. 
+
+
+
+9nfl6"H 
+
+
+
+AERODYNAMICS 
+186 AIRCRAFT (1.7) 
+
+
+
+Specific Types - French Airplanes (Cont.) 
+
+Richard- Penhoet Commercial Seaplane. 
+AC 35, March 1927. 
+
+The Francois Villiers Marine Pursuit Air- 
+plane. AC 37, April 1927. 
+
+Liore -Olivier LeO 194 Seaplane. AC 39, 
+April 1927. 
+
+North, J. D.: Some Impressions of the 
+
+Paris Aero Show. TM 407, April 1927. 
+
+"Meteore 63" Commercial Seaplane. AC 
+41, May 1927. 
+
+The Mureaux "Brunet 3C2" Pursuit Air- 
+plane. AC 42, May 1927. 
+
+"Levasseur 8" Transatlantic Airplane. AC 
+50, Aug. 1927. 
+
+"Avimeta" Three-Engine Commercial 
+Monoplane, Type A.V.M. 132. AC 63, 
+Dec. 1927. 
+
+Bleriot-Spad 91 Airplane (French). Pur- 
+suit Single -Seater, Type "Jockey." AC 
+74, May 1928. 
+
+Morane-Saulnier 121 Single-Seat Pursuit 
+Airplane (French). AC 75, June 1928. 
+
+Rene Couzinet Monoplane (French). AC 
+77, July 1928. 
+
+C.A.M.S. 54 G.R. Transatlantic Seaplane 
+(French). AC 80, Sept. 1928. 
+
+Bleriot Combat Monoplane 127 (French). 
+AC 86, Nov. 1928. 
+
+"Villiers 24" Slotted-Wing Airplane 
+
+(French). Night Pursuit Sesquiplane. 
+AC 87, Nov. 1928. 
+
+Farman Two-Engine Commercial Biplane 
+F. 180 (French). AC 88, Jan. 1929. 
+
+Albessard "Triavion" Airplane (French). 
+A Two -Seat Tandem Monoplane. AC 
+89, Jan. 1929. 
+
+Nieuport-Delage 640 (French). Commer- 
+cial High- Wing Monoplane. AC 92, 
+March 1929. 
+
+Morane-Saulnier 180 Light Airplane 
+
+(French). A Single -Seat Training Mon- 
+oplane. AC 93, March 1929. 
+
+The "Potez 33" Military Airplane (French). 
+AC 96, June 1929. 
+
+The Amiot S.E.C.M. 110 C.l. A Single-Seat 
+Pursuit Monoplane. AC 97, July 1929. 
+
+The Bernard 20 C.l (French). A Single- 
+Seat Pursuit Monoplane. AC 98, July 
+1929. 
+
+
+
+Frachet, Andre: The Morane Saulnier 222 
+Airplane (French). A Single -Seat Pur- 
+suit Monoplane. From Les Ailes, June 
+6, 1929. AC 106, Dec. 1929. 
+
+The Weymann-Lepere W.E.L. 10 Observa- 
+tion Airplane (French). A High -Wing 
+Monoplane. AC 107, Jan. 1930. 
+
+The Liore-Olivier "Le 0.240" Commercial 
+Seaplane (French). A High -Wing Can- 
+tilever Monoplane. AC 110, Feb. 1930. 
+
+Les Mureaux "130.A2" Observation Air- 
+plane (French). A High-Wing Two- 
+Seat Monoplane. AC 111, March 1930. 
+
+The "Latecoere 28" Commercial Airplane 
+(French). A Ten- Passenger High-Wing 
+Monoplane. AC 112, March 1930. 
+
+The Dyle and Bacalan "DB 70" Commercial 
+Airplane (French). An All-Metal High- 
+Wing Monoplane. AC 113, March 1930. 
+
+The "Potez 39" Observation Airplane 
+(French). An All-Metal High-Wing 
+Two-Seat Monoplane. AC 114, April 
+1930. 
+
+The Farman "F. 300" Commercial Air- 
+plane (French). A High-Wing Semican- 
+tilever Monoplane. AC 115, April 1930. 
+
+The Dyle and Bacalan "D.B.80" Day Mail 
+Airplane (French). An All-Metal High- 
+Wing Monoplane. AC 123, Aug. 1930. 
+
+The Wibault 220 R.N. 3 Airplane (French). 
+A Three- Place Observation High-Wing 
+Monoplane. AC 124, Aug. 1930. 
+
+De Marolles, R. J.: The Brequet 270 Gen- 
+eral Purpose Military Airplane 
+(French). A Two-Seat All-Steel Ses- 
+quiplane. AC 127, Sept. 1930. 
+
+The Hanriot H 431 Military Airplane 
+
+(French). A General Purpose Biplane. 
+AC 133, Jan. 1931. 
+
+The Amiot 140 M Military Airplane 
+(French). An All-Metal Multiplace 
+High -Wing Monoplane. AC 134, Feb. 
+1931. 
+
+The Dewoitine D.30 Commercial Airplane 
+(French). A High- Wing Cantilever 
+Monoplane. AC 135, Feb. 1931. 
+
+Latecoere 38 -O Flying Boat (French). A 
+Long-Range Sesquiplane for Carrying 
+Mail. AC 136, Feb. 1931. 
+
+The Bleriot 110 Airplane (French). A 
+Long Distance High-Wing Monoplane. 
+AC 138, March 1931. 
+
+Leglise, Pierre: The Bernard 120 Sea- 
+plane (French). A 1400 HP Single-Seat 
+Monoplane Racer. AC 139, March 
+1931. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 187 
+
+
+
+Specific Types - French Airplanes (Cont . ) 
+
+The Wibault 280 T.10 Commercial Airplane 
+(French). An All-Metal, Cantilever, 
+Low- Wing Monoplane. AC 140, March 
+1931. 
+
+The C.A.M.S. 60 Seaplane (French). A 
+Twin Engine Bombing and Torpedo 
+Monoplane. AC 141, April 1931. 
+
+The Mureaux 111 R.2 Military Airplane 
+(French). A Long-Di stance All -Metal 
+Observation Monoplane. AC 142, April 
+1931. 
+
+The S.P.C.A. 40 T Commercial Airplane 
+(French). An All-Metal Cantilever 
+Monoplane. AC 143, April 1931. 
+
+The Mauboussin Mil Touring Airplane 
+(French). A Two-Place High-Wing 
+Monoplane. AC 145, May 1931. 
+
+The Dewoitine D 33 Commercial Airplane 
+(French). A Low- Wing Cantilever Mon- 
+oplane. AC 146, June 1931. 
+
+Leglise, Pierre: The Bernard 80 G.R. 
+Long-Distance Airplane (French). A 
+Two-Place Cantilever Monoplane. AC 
+147, July 1931. 
+
+Breguet 390 T Commercial Airplane 
+
+(French). A Ten-Seat All-Steel Sesqui- 
+plane. AC 149, Aug. 1931. 
+
+Breguet Military Airplane, Type 33. A 
+Two-Place Long-Distance Sesquiplane 
+for Observation and Bombing. AC 151, 
+Sept. 1931. 
+
+Potez 37 R2 Military Airplane. A Two- 
+Place Long-Distance Observation 
+Monoplane. AC 152, Sept. 1931. 
+
+The Guillemin J.G. 10 (French). A Two- 
+Place Touring Low- Wing Monoplane. 
+AC 153, Nov. 1931. 
+
+The Loire 11 Colonial Military Airplane 
+(French). A High- Wing Semicantilever 
+All -Metal Monoplane. AC 157, March 
+1932. 
+
+
+
+The C.A.M.S. 80 Amphibian (French). 
+Observation Monoplane. AC 158, 
+March 1932. 
+
+
+
+An 
+
+
+
+Leglise, Pierre: The Breguet 410 and 411 
+Military Airplanes (French). Multi- 
+place Sesquiplane Fighters. AC 163, 
+May 1932. 
+
+The Farman Night Bombers 211 and 212 
+(French). Four-Engine High-Wing 
+Monoplanes. AC 165, July 1932. 
+
+The Bleriot 137 Military Airplane (French). 
+A Twin-Engine Multi place Monoplane. 
+AC 169, Aug. 1932. 
+
+
+
+The Latecoere 501 Commercial Seaplane 
+(French). A Three -Engine Metal Ses- 
+quiplane. AC 170, Sept. 1932. 
+
+The S.P.C.A. 30 M.4 Military Airplane 
+(French). A Multiplace Low- Wing 
+Monoplane. AC 171, Sept. 1932. 
+
+Nieuport-Delage 590 Military Airplane 
+(French). A Two-Place High-Wing 
+Cantilever Monoplane. AC 173, Nov. 
+1932. 
+
+The Caudron P.V. 200 Touring Airplane 
+(French). An All-Metal Amphibian 
+Monoplane. AC 176, April 1933. 
+
+The Dewoitine D.500 Pursuit Airplane 
+(French). An All -Metal Cantilever 
+Low- Wing Monoplane. AC 180, May 
+1933. 
+
+The Hanriot-Biche 110 CI Airplane 
+(French). An All-Metal Low-Wing 
+Pursuit Monoplane. AC 182, July 1933. 
+
+The Dewoitine D.332 Commercial Airplane 
+(French). A Three-Engine All-Metal 
+Low-Wing Monoplane. AC 185, Dec. 
+1933. 
+
+The Bernard 82 Military Airplane (French). 
+A Long-Range Monoplane. AC 192, June 
+1934. 
+
+The Latecoere 521 "Lieutenant De Vaisseau 
+Paris" Commercial Flying Boat 
+(French). A Two -Deck Six-Engine 
+Semicantilever Sesquiplane. AC 202, 
+March 1936. 
+
+GERMAN 
+(1.7.1.2) 
+
+Langsdorff, Werner V.: The Rumpler 
+Passenger Airplane. TM 6, March 
+1921. 
+
+Hoff, Wilhelm: The Development of Ger- 
+man Army Airplanes During the War. 
+TN 56, June 1921. 
+
+Rohrbach, K.: The 1000 HP Traffic Air- 
+plane of the Zeppelin Works in Staaken. 
+TM42, Sept. 1921. 
+
+Blume, W.: The Glider of the College Avi- 
+ation Group of the Technical High 
+School, Hanover. TM 59, Jan. 1922. 
+
+Munk, Max and Molthan, Wilhelm: Tests 
+on an Airplane Model, AEG D I of the 
+Allgemeine Elektricitats Gesellschaft, 
+A-G, Airplane Construction Section 
+Conducted at the Gottingen Model Test- 
+ing Laboratory for Aerodynamics. TN 
+128, Feb. 1923. 
+
+Meyer, G.: New Albatros Commercial 
+
+Airplane "L 58." TM 195, March 1923. 
+
+
+
+AERODYNAMICS 
+188 AIRCRAFT (1.7) 
+
+
+
+Specific Types - German Airplanes (Cont . ) 
+
+Molthan, Wilhelm: Tests on a Model of the 
+D Airplane T 39 of the "Deutsche 
+Flugzeug Werke" (German Airplane 
+Works). TN 175, Jan. 1924. 
+
+Development of Wing-Steered Messer- 
+schmitt Gliders. From "Flugsport," 
+April 15.. 1924. TM 265, June 1924. 
+
+Training Airplane, Type H.E.18, of the 
+Ernst Heinkel Airplane Works at 
+Warnemunde. MP 18, Jan. 1926. 
+
+Manigold, G.: German Training Airplane, 
+Arado "Ar. S.I." AC 4, May 1926. 
+
+All-Metal Junkers Airplane, Type F 13. 
+AC 6, May 1926. 
+
+The Albatros L 72A. A German Newspaper 
+Carrier with Slotted Wings. AC 8, 
+June 1926. 
+
+Heinkel Airplane H.D.39 for Carrying 
+Newspapers. AC 13, Aug. 1926. 
+
+Ruhl, Karl and Wiederhold, Hasso: Alba- 
+tros Commercial Airplane L 73. AC 
+16, Sept. 1926. 
+
+Rohrbach All Metal Commercial Airplane 
+RO Vm "Roland." AC 24, Dec. 1926. 
+
+Fairbanks, A. J.: Distribution of Pressure 
+over Model of the Upper Wing and 
+Aileron of a Fokker D-VH Airplane. 
+Rept. 254, 1927. 
+
+The "Dornier Mercury" Commercial Air- 
+plane with B.M.W. VI 600 HP. Engine. 
+AC 30, Feb. 1927. 
+
+Dornier "Superwal" Commercial Seaplane. 
+Two Rolls-Royce "Condor" 650 HP. 
+Engines. AC 31, Feb. 1927. 
+
+The Rohrbach "Robbe" RO VII Seaplane.. 
+(Military or Commercial). AC 3d, 
+April 1927. 
+
+Heinkel H.E.5 Commercial Seaplane. 
+(Winner of the 1926 German Seaplane 
+Contest at Warnemunde). AC 38, April 
+1927. 
+
+The Rohrbach "Rocco" Seaplane. New 
+
+German Commercial Seaplane with Two 
+Rolls-Royce "Condor" Engines. AC 
+44, June 1927. 
+
+Serryer, J.: Focke-Wulf "G.L.18." Twin- 
+Engine 150 HP. Commercial Airplane. 
+AC 46, June 1927. 
+
+Junkers Airplane "G 24." All-Metal Com- 
+mercial fi ; ... 47, June 1927. 
+
+
+
+Junkers Commercial Airplane G 31. From 
+"Zeitschrift des Vereines deutscher 
+Ingenieure" May 7, 1927. AC 54, Aug. 
+1927. 
+
+Training Airplane "Arado SC 1." From 
+"Flugwoche," June 22, 1927. AC 56, 
+Sept. 1927. 
+
+Camm, F. J.: Building a Full-Size Glider. 
+TM 429, Sept. 1927. 
+
+The Focke-Wulf F.19 "Ente" Tail- First 
+Airplane. AC 59, Oct. 1927. 
+
+Gymnich, Alfried: Some German Gliders 
+of 1920-1923. TM 433, Oct. 1927. 
+
+Gymnich, Alfried: Glider Construction and 
+Design. TM 434, Oct. 1927. 
+
+The Heinkel Commercial Airplane H.D. 40. 
+AC 64, Dec. 1927. 
+
+Focke-Wulf A 17 Commercial Airplane 
+"Mowe" (German). AC 66, Feb. 1928. 
+
+The Fokker "Universal" Commercial 
+Airplane. AC 73, May 1928. 
+
+The "K 47" of the A.B. Flygindustri. An 
+Armored Pursuit Monoplane. AC 100, 
+Aug. 1929. 
+
+Hubner, Walter: Relation Between the 
+Stability Characteristics and the Con- 
+trollability of German Airplanes. TM 
+551, Feb. 1930. 
+
+The Dornier "Do. X" Flying Boat 
+
+(German). A Giant High-Wing Mono- 
+plane. AC 109, Feb. 1930. 
+
+Lippisch, Alexander: Recent Tests of 
+
+Tailless Airplanes. TM 564, May 1930. 
+
+The Junkers "G 38" Commercial Airplane 
+(German). A Giant High-Wing Mono- 
+plane. AC 116, May 1930. 
+
+The "Junkers -Junior" Light Airplane (Ger- 
+man). A Two-Seat All-Metal Low- 
+Wing Cantilever. AC 118, June 1930. 
+
+Blenk, Hermann: Gottingen Six-Component 
+Scale Measurements on a Junkers A 35 
+Airplane Model. TM 586, Oct. 1930. 
+
+Focke-Wulf F 19a "Ente" Commercial 
+
+Airplane (German). A Tail-First High- 
+Wing Monoplane. AC 132, Jan. 1931. 
+
+Kiel, Heinrich Georg: Static Longitudinal 
+Stability of "Ente" Airplanes. TM 612, 
+March 1931. 
+
+Lippisch, A.: The Development, Design 
+and Construction of Gliders and Sail- 
+planes. TM 637, Sept. 1931. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 189 
+
+
+
+Speci fie Types - German Airplanes (Cont . ) 
+
+The Dornier Do K Commercial Airplane 
+(German). A High- Wing Cantilever 
+Monoplane. AC 155, Jan. 1932. 
+
+The Dreieck I Tailless Airplane (German). 
+A Low- Wing Cantilever Monoplane. 
+AC 159, March 1932. 
+
+Lademann, Robert W. E.: Development of 
+Tailless and All-Wing Gliders and Air- 
+planes. TM 666, April 19J2. 
+
+The Messerschmidt M.29 Touring Airplane 
+(German). A Two-Seat Cantilever 
+Monoplane. AC 172, Nov. 1932. 
+
+Heinkel He 64 c Sport Airplane (German). 
+A Two-Seat Low-Wing Cantilever Mon- 
+oplane. AC 175, Feb. 1933. 
+
+Heinkel HE 70 Commercial Airplane (Ger- 
+man). A Seven-Seat Cantilever Low- 
+Wing Monoplane. AC 183, Aug. 1933. 
+
+Hubner, Walter: Results of Extended 
+
+Tests of the Focke-Wulf F 19a "Ente," 
+a Tail -First Airplane. TM 721, Sept. 
+1933. 
+
+Schrenk, M.: High-Speed Aircraft. TM 
+745, May 1934. 
+
+Heinkel, Ernst: The High-Speed Heinkel 
+HE 70 Mail Airplane. TM 746, May 
+1934. 
+
+Shenstone, B. S. and Scott-Hall, S.: Glider 
+Development in Germany. A Technical 
+Survey of Progress in Design in Ger- 
+many Since 1922. TM 780, Nov. 1935. 
+
+Rodert, Lewis A. and Jackson, Richard: A 
+Description of the Ju 88 Airplane Anti- 
+Icing Equipment. RB, Aug. 1942. 
+
+Hohler, P.: The Influence of the Applica- 
+tion of Power During Spin Recovery of 
+Multiengine Airplanes. TM 1219, June 
+1949. 
+
+Hohler, P. and Koppen, I. v.: Experimen- 
+tal Flights for Testing of a Reactor as 
+an Expedient for the Termination of 
+Dangerous Spins. TM 1221, July 1949. 
+
+ITALIAN 
+(1.7.1.2) 
+
+Munk, Max: The Caproni Seaplane. TN 57, 
+July 1921. 
+
+Macchi M.39 Seaplane. Single -Seat Racer 
+with an 800 HP. Fiat "A-S2" Engine. 
+AC 32, March 1927. 
+
+"Savoia" Seaplane S.55. (Military or Com- 
+mercial). AC 33, March 1927. 
+
+
+
+Caproni Airplane Ca 73 (Commercial) and 
+Ca 73 ter (Military). AC 51, March 
+1927. 
+
+Fiat C.R. 20 Pursuit Airplane. AC 43, May 
+1927. 
+
+Savoia Marchetti "S 64" Airplane. AC 78, 
+Aug. 1928. 
+
+The Caproni Monoplanes "Ca 97" (Italian). 
+AC 84, Oct. 1928. 
+
+The Caproni "90 P.B." Military Airplane 
+(Italian). A Giant Biplane of 6000 
+Horsepower. AC 121, July 1930. 
+
+The Fiat "T.R. 1" Training and Touring 
+Airplane (Italian). A Two -Place High- 
+Wing Monoplane. AC 130, Dec. 1930. 
+
+The Breda 32 Commercial Airplane (Ital- 
+ian). A Three-Engine Ail-Metal Low- 
+Wing Monoplane. AC 166, Aug. 1932. 
+
+Stipa, Luigi: Stipa Monoplane with Venturi 
+Fuselage. TM 753, Sept. 1934. 
+
+MISCELLANEOUS FOREIGN 
+(1.7.1.2) 
+
+Fairbanks, A. J.: Distribution of Pressure 
+over Model of the Upper Wing and 
+Aileron of a Fokker D-VTI Airplane. 
+Rept. 254, 1927. 
+
+Vojenska-Smolik S.16 Airplane. All-Metal 
+Long-Distance Observation Biplane. 
+From "Flight," Jan. 13, 1927. AC 34, 
+March 1927. 
+
+The Fokker "Trimotor F VII" Commercial 
+Transport Monoplane. AC 76, June 
+1928. 
+
+The A.B. Flygindustri "K 37" (Swedish 
+Junkers). A Low- Wing Ail-Metal Mili- 
+tary Airplane. AC 104, Oct. 1929. 
+
+The "Comte A.C. 3" Military Airplane 
+(Swiss). A High-Wing Semicantilever 
+Monoplane. AC 122, July 1930. 
+
+Polish P Type Single-Seat Fighters. All- 
+Metal Gull-Type Wing Monoplane. AC 
+137, March 1931. 
+
+Frachet, Andre: The "I.A.R." Pursuit Air- 
+plane (Roumanian). A One -Place Can- 
+tilever Low- Wing Monoplane. AC 144, 
+May 1931. 
+
+The S.A.B.C.A, "S.X3" Commercial Air- 
+plane (Belgian). A High- Wing Semican- 
+tilever Monoplane. AC 160, April 1932. 
+
+Fokker F.XX Commercial Airplane 
+(Dutch). A High- Wing Cantilever 
+Monoplane. AC 187, Feb. 1934. 
+
+
+
+AERODYNAMICS 
+190 AIRCRAFT (1.7) 
+
+
+
+iliscel laneaus Foreign - Airplanes (Cont . ) 
+
+The Avia 51 Commercial Airplane (Czech- 
+oslovakian). A Cantilever High- Wing 
+Monoplane. AC 188, Feb. 1934. 
+
+PERFORMANCE 
+(1.7.1.3) 
+
+Wilson, Edwin Bid well: The Limiting 
+Velocity in Falling from a Great 
+Height. Rept. 78, 1919. 
+
+Coffin, J. G.: A Study of Airplane Ranges 
+and Useful Loads. Rept. 69, 1920. 
+
+De Bothezat, George: General Theory of 
+the Steady Motion of an Airplane. Rept. 
+97, 1921. 
+
+Kemble, E. C: The Calculated Perform- 
+ance of Airplanes Equipped with Super- 
+charging Engines. Rept. 101, 1921. 
+
+Munk, Max: The Caproni Seaplane. TN 57, 
+July 1921. 
+
+Pegna, G.: High Efficiency of Seaplanes. 
+TM 32, Aug. 1921. 
+
+Heidelberg, V.: Influence of Struts and 
+Stays on the Speed of an Airplane. TM 
+46, Oct. 1921. 
+
+Warner, Edward P.: The Choice of Wing 
+Sections for Airplanes. TN 73, Nov. 
+1921. 
+
+Munk, Max M.: The Choice of the Speed of 
+an Airship. TN 89, March 1922. 
+
+Munk, Max M.: Full Scale Determination 
+of the Lift and Drag of a Seaplane. TN 
+92, April 1922. 
+
+Hoff, Wilhelm: Rhon Soaring Flight Com- 
+petition, 1921. TM 100, June 1922. 
+
+Diehl, Walter S.: Simple Formula for Es- 
+timating Airplane Ceilings. TN 103, 
+June 1922. 
+
+Effect of Structure in Middle Part of Lead- 
+ing Edge of a Thick Wing. TM 103, 
+June 1922. 
+
+Richard, Paul and Maurice: General Prob- 
+lem of the Airplane. TM 118, July 
+1922. 
+
+
+
+Warner, Edward P.: Giant Airplanes. TM 
+138, Sept. 1922. 
+
+Schrenk, M.: Aerodynamic Computation of 
+Gliders. TM 140, Sept. 1922. 
+
+Warner, Edward P.: Miniature Airplanes. 
+TM 141, Sept. 1922. 
+
+
+
+Diehl, W. S., Lieut., Bureau of Aeronautics, 
+USN: F-5-L Boat Seaplane - Perform- 
+ance Characteristics. TN 118, Oct. 
+1922. 
+
+Warner, Edward P.: The Development of 
+the Racing Airplane. TM 152, Nov. 
+1922. 
+
+Warner, Edward P.: Lessons of the Glider 
+Meets. TM 166, Nov. 1922. 
+
+Norton, F. H. and Brown, W. G.: A Pre- 
+liminary Study of Airplane Perform- 
+ance. TN 120, Nov. 1922. 
+
+Warner, Edward P.: Airplane Perform- 
+ance, Past and Present. TM 173, Dec. 
+1922. 
+
+Black, Archibald: Influence of Design on 
+Cost of Operating Airplanes. TM 176, 
+Dec. 1922. 
+
+Hoff, Wilhelm: Soaring Flight and the 
+Rhon Contest, Jan. 1923. MP 13, 1923. 
+
+Warner, Edward P.: Airplane Speeds of 
+the Future. TM 178, Jan. 1923. 
+
+Hoff, Wilhelm: Soaring Flight and the Rhon 
+Contests. TM 181, Jan. 1923. 
+
+Prandtl, L.: Lessons of the 1922 Rhon 
+Soaring Flights. TM 186, Feb. 1923. 
+
+Baldit, M. Albert: Atmospheric Waves and 
+Their Utilization in Soaring Flight. 
+TM 194, March 1923. 
+
+Brown, W. G.: Measuring an Airplane's 
+True Speed in Flight Testing. TN 135, 
+April 1923. 
+
+Everling, E., Dr.: Speed Limits of Air- 
+craft. TM 203, May 1923. 
+
+Miller, Roy G. and Brown, B. T.: The 
+"Turkey Buzzard" Glider. TM 214, 
+June 1923. 
+
+Koenig, Georg: Thrust and Power Required 
+in Climbing. TN 152, Aug. 1923. 
+
+Student, Captain: Flight Characteristics. 
+TN 153, Aug. 1923. 
+
+Rohrbach, Adolf and Lupberger, Edwin: 
+Graphic Method for Calculating the 
+Speed and Climbing Ability of Air- 
+planes. TN 163, Oct. 1923. 
+
+Warner, Edward P.: Shortening the Land- 
+ing Run. TM 231, Oct. 1923. 
+
+Blasius, H.: Determination of Climbing 
+Ability. TN 166, Nov. 1923. 
+
+Diehl, Walter S.: Charts for Graphical 
+Estimation of Airplane Performance. 
+Rept. 192, 1924. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 191 
+
+
+
+Per formance - Airplanes (Cont . ) 
+
+Von Sanden, H.: Significance of the Ex- 
+pression Cl 3 /Cd 2 - TN 173, Jan. 1924. 
+
+Kann, Heinrich: Airplanes in Horizontal 
+Curvilinear Flight. TN 174, Jan. 1924. 
+
+Salkowski, E.: Curvilinear Flight of Air- 
+planes. TN 176, Jan. 1924. 
+
+Von Langsdorif, Werner: Remarks on 
+Building of Low-Powered Airplanes. 
+TM 246, Jan. 1924. 
+
+Warner, Edward P.: Specializing for 
+
+Record-Breaking. TM 248, Feb. 1924. 
+
+Munk, Max M. and Warner, Edward P.: 
+Comparing the Performance of Geo- 
+metrically Similar Airplanes. TN 190, 
+April 1924. 
+
+King, Paul B. and Carroll, Thomas: High 
+Altitude Flying. TN 193, May 1924. 
+
+Burgess, C. P.: A Method of Determining 
+the Dimensions and Horsepower of an 
+Airship for Any Given Performance. 
+TN 194, May 1924. 
+
+Development of Wing-Steered Messer- 
+schmitt Gliders. From "Flugsport," 
+April 15, 1924. TM 265, June 1924. 
+
+Anon.: Experiments with a Device for 
+Shortening the Glide and Landing Run 
+of an Airplane. TM 272, July 1924. 
+
+Cronstedt, Val.: The Logarithmic Polar 
+Curve - Its Theory and Application to 
+the Predetermination of Airplane Per- 
+formance. TN 205, Oct. 1924. 
+
+Diehl, Walter S.: Reliable Formulae for 
+Estimating Airplane Performance and 
+the Effects of Changes in Weight, Wing 
+Area, or Power. Rept. 173, 1925. 
+
+Diehl, Walter S.: A Study of the Effect of a 
+Diving Start on Airplane Speed. Rept. 
+228, 1925. 
+
+Panetti, M.: Aerodynamic Characteristics 
+of Aircraft with Reference to Their 
+Use. TM 339, 1925. 
+
+Light Airplanes of France, Germany, Italy, 
+Belgium, Holland, Czechoslovakia and 
+Lithuania. Compiled by the NACA. 
+TM 301, Feb. 1925. 
+
+Driggs, Ivan H.: The Light Airplane. 
+
+Brief Review of the Results Obtained in 
+the Development of Light Airplanes - I. 
+Modern Theoretical Aerodynamics as 
+Applied to Light Airplane Design - II. 
+TM 311, April 1925. 
+
+
+
+Warner, Edward P. and Ober, Shatswell: 
+The Estimation of Airplane Perform- 
+ance from Wind Tunnel Tests on Con- 
+ventional Airplane Models. TN 218, 
+May 1925. 
+
+Diehl, Walter S.: Three Methods of Calcu- 
+lating Range and Endurance of Air- 
+planes. Rept. 234, 1926. 
+
+Diehl, Walter S.: The Effect of Flight Path 
+Inclination on Airplane Velocity. Rept. 
+238, 1926. 
+
+Koppe, Heinrich: Flight Tests on Air- 
+planes. TM 359, April 1926. 
+
+Lachmann, G.: Development of Light and 
+Small Airplanes. TM 370, July 1926. 
+
+Prb'll, A.: Take-Off Distance for Air- 
+planes. TM 381, Sept. 1926. 
+
+Carroll, Thomas: A Comparison of the 
+Take -Off and Landing Characteristics 
+of a Number of Service Airplanes. 
+Rept. 249, 1927. 
+
+Raethjen, P.: Kinetographic Determination 
+of Airplane Flight Characteristics. 
+TM 409, April 1927. 
+
+Walker, C. C: Climbing Efficiency of Air- 
+craft. TM 415, June 1927. 
+
+Hall, Donald A.: Technical Preparation of 
+the Airplane "Spirit of St. Louis." TN 
+257, July 1927. 
+
+Von Parseval, August: Lindbergh's Flight. 
+TM 423, Aug. 1927. 
+
+Diehl, Walter S.: The Reduction of 
+Observed Airplane Performance to 
+Standard Conditions. Rept. 297, 1928. 
+
+Carroll, Thomas: The Effect on Perform- 
+ance of a Cutaway Center Section. TN 
+273, Jan. 1928. 
+
+The 1926 German Seaplane Contest. 
+
+Seewald, F.: Parti: Lessons Taught. 
+Blenk, H. and Liebers, F.: Part II: 
+Method of Rating. TM 454, March 
+1928. 
+
+Schrenk, Martin: Calculation of Airplane 
+Performances Without the Aid of Polar 
+Diagrams. TM 456, March 1928. 
+
+Schrenk, Martin: A Few More Mechanical- 
+Flight Formulas Without the Aid of 
+Polar Diagrams. TM 457, March 1928. 
+
+Proll, A.: Take -Off of Heavily Loaded 
+Airplanes. TM 460, April 1928. 
+
+Von Romer, B.: Prospective Development 
+of Giant Airplanes. TM 463, May 1928. 
+
+
+
+192 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 
+
+
+
+Per formnnce - \i rplnnes (Cont.) 
+
+Hiibner, W.: Technical Progress Shown in 
+the 1927 Rhon Soaring- Flight Contest. 
+TM 471, July 1928. 
+
+Lachmann, G.: The Span as a Fundamen- 
+tal Factor in Airplane Design. TM 479, 
+Sept. 1928. 
+
+Breguet, Louis: On the Take -Off of 
+Heavily Loaded Airplanes. TM 489, 
+Nov. 1928. 
+
+Lesley, E. P. and Reid, E.G.: A New 
+Method for the Prediction of Airplane 
+Performance. TN 302, Feb. 1929. 
+
+Lippisch, A.: Technical Report of the 1928 
+Rhon Soaring- Flight Contest. TM 514, 
+May 1929. 
+
+Carroll, Thomas and DeFrance, Smith J.: 
+The Use of Wheel Brakes on Airplanes. 
+TN 311, July 1929. 
+
+
+
+Tb'pfer, Carl: 
+Dec. 1929. 
+
+
+
+Airplane Drag. TM 544, 
+
+
+
+Diehl, Walter S.: A New Chart for Esti- 
+mating the Absolute Ceiling of an Air- 
+plane. Rept. 368, 1930. 
+
+Lippisch, Alexander: The 1929 Rhon Soar- 
+ing-Flight Contest. TM 560, April 
+1930. 
+
+Pillard, M.: Improving the Performance 
+of Multi-Engined Airplanes by Means 
+of Idling Propellers. The "Free- 
+Wheel" Propeller. TM 561, April 1930. 
+
+Ridley, Kenneth F.: An Investigation of 
+Airplane Landing Speeds. TN 349, 
+Sept. 1930. 
+
+Gough, Melvin N.: Effect of the Angular 
+Position of the Section of a Ring Cowl- 
+ing on the High Speed of an XF7C-1 
+Airplane. TN 355, Nov. 1930. 
+
+Dearborn, C. H. and Kirschbaum, H. W.: 
+Maneuverability Investigation of an 
+F6C-4 Fighting Airplane. Rept. 386, 
+1931. 
+
+Weick, Fred E.: The Behavior of Conven- 
+tional Airplanes in Situations Thought 
+to Lead to Most Crashes. TN 363, Feb. 
+1931. 
+
+Georgii, Walter: Eleventh Rhon Soaring- 
+Flight Contest, 1930. TM 623, June 
+1931. 
+
+Louden, F. A.: Estimated Effect of Ring 
+Cowl on the Climb and Ceiling of an 
+Airplane. MP 26, June 1931. 
+
+
+
+Lippisch, A.: The Development, Design 
+and Construction of Gliders and Sail- 
+planes. TM 637, Sept. 1931. 
+
+Soule, Hartley A.: The Effect of Slots and 
+Flaps on the Lift and Drag of the 
+McDonnell Airplane as Determined in 
+Flight. TN 398, Nov. 1931. 
+
+Oswald, W. Bailey: General Formulas 
+and Charts for the Calculation of Air- 
+plane Performance. Rept. 408, 1932. 
+
+McAvoy, William H.; Schey, Oscar W. and 
+Young, Alfred W.: The Effect on Air- 
+plane Performance of the Factors that 
+Must Be Considered in Applying Low- 
+Drag Cowling to Radial Engines. Rept. 
+414, 1932. 
+
+Weick, Fred E.: Preliminary Investigation 
+of Modifications to Conventional Air- 
+planes to Give Nonstalling and Short- 
+Landing Characteristics. Rept. 418, 
+1932. 
+
+Diehl, Walter S.: Static Thrust of Airplane 
+Propellers. Rept. 447, 1932. 
+
+Diehl, Walter S.: The Calculation of Take- 
+off Run. Rept. 450, 1932. 
+
+De Caria, Ugo: Airplane Flight in the 
+Stratosphere. TM 660, Feb. 1932. 
+
+Windier, Ray: The Effect of Propellers 
+and Nacelles on the Landing Speeds of 
+Tractor Monoplanes. TN 420, May 1932. 
+
+Georgii, Walter: Twelfth Rhon Soaring 
+Contest, 1931. TM 671, May 1932. 
+
+Soule, Hartley A.: Flight Tests to Deter- 
+mine the Effect of a Fixed Auxiliary 
+Airfoil on the Lift and Drag of a Para- 
+sol Monoplane. TN 440, Dec. 1932. 
+
+Thompson, F. L. and Kirschbaum, H. W.: 
+Maneuverability Investigation of an 
+"03U-1" Observation Airplane. Rept. 
+457, 1933. 
+
+DeFrance, Smith J.: The Aerodynamic Ef- 
+fect of a Retractable Landing Gear. TN 
+456, March 1933. 
+
+Weyl, Alfred Richard: The Schneider 
+Trophy Contest. TM 712, June 1933. 
+
+Hubner, Walter: Results of Extended Tests 
+of the Focke-Wulf F 19a "Ente," a 
+Tail-First Airplane. TM 721, Sept. 
+1933. 
+
+The 1933 Contest for the Deutsch de la 
+Meurthe Trophy - Leglise, Pierre: 
+Airplanes Participating in the Contest. 
+Hirschauer, L.: Engines Used on the 
+Airplanes. Saladin, Raymond: Lessons 
+Learned from the Contest. TM 724, 
+Nov. 1933. 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 
+
+
+
+193 
+
+
+
+Per formance - Airplanes (Cont . ) 
+
+Thompson, F. L.; Peck, W. C. and Beard, 
+A. P.: Air Conditions Close to the 
+Ground and the Effect on Airplane 
+Landings. Rept. 489, 1934. 
+
+
+
+Schrenk, M.: High-Speed Aircraft. 
+745, May 1934. 
+
+
+
+TM 
+
+
+
+Kosin, R.: The Effect of Weight and Drag 
+on the Sinking Speed and Lift/Drag 
+Ratio of Gliders. TM 759, Dec. 1934. 
+
+Schulz, R. and Pleines, W.: Technical 
+
+Aspects of the 1934 International Tour- 
+ing Competition (Rundflug). TM 760, 
+Dec. 1934. 
+
+Georgii, W.: Gliding in Convection Cur- 
+rents. TM 761, Jan. 1935. 
+
+Lippisch, A.: Effect of Aerodynamic De- 
+sign on Glider Performance. TM 762, 
+Feb. 1935. 
+
+Leglise, Pierre: The 1934 Contest for the 
+Deutsche de la Meurthe Trophy. TM 
+765, Feb. 1935. 
+
+Le Sueur, Maurice: Ground Effect on the 
+Take-Off and Landing of Airplanes. 
+TM 771, July 1935. 
+
+Scudder, N. F. and Kirschbaum, H. W.: A 
+Preliminary Determination of Normal 
+Accelerations on Racing Airplanes. TN 
+537, Aug. 1935. 
+
+Wetmore, J. W.: Calculated Effect of Var- 
+ious Types of Flap on Take-Off over 
+Obstacles. TN 568, May 1936. 
+
+Dearborn, C. H. and Soule, H. A.: Full- 
+Scale Wind-Tunnel and Flight Tests of 
+a Fairchild 22 Airplane Equipped with a 
+Fowler Flap. TN 578, Aug. 1936. 
+
+White, Roland J. and Martin, Victor J.: 
+
+Charts for Calculating the Performance 
+of Airplanes Having Constant -Speed 
+Propellers. TN 579, Sept. 1936. 
+
+Rhode, Richard V. and Pearson, Henry A.: 
+Flight Tests of the Drag and Torque of 
+the Propeller in Terminal -Velocity 
+Dives. Rept. 599, 1937. 
+
+Biermann, David: A Study of the Factors 
+Affecting the Range of Airplanes. TN 
+592, Feb. 1937. 
+
+Dearborn, C. H. and Soule, H. A.: Full- 
+Scale Wind-Tunnel and Flight Tests of 
+a Fairchild 22 Airplane Equipped with 
+a Zap Flap and Zap Ailerons. TN 596, 
+March 1937. 
+
+Wetmore, J. W.: The Transition Phase in 
+the Take-off of an Airplane. Rept. 626, 
+1938. 
+
+
+
+Donely, Philip and Pearson, Henry A.: 
+Flight and Wind-Tunnel Tests of an 
+XBM-1 Dive Bomber. TN 644, April 
+1938. 
+
+Hartman, Edwin P.: Wind-Tunnel Tests of 
+a 2-Engine Airplane Model as a Pre- 
+liminary Study of Flight Conditions 
+Arising on the Failure of One Engine. 
+TN 646, April 1938. 
+
+Rockefeller, W. C: General Airplane 
+Performance. Rept. 654, 1939. 
+
+Diehl, Walter S.: Some Fundamental 
+
+Considerations in Regard to the Use of 
+Power in Landing an Airplane. TN 
+692, March 1939. 
+
+Stickle, George W.: Flight Tests of NACA 
+Nose-Slot Cowlings on the BFC-1 Air- 
+plane. TN 7 20, Aug. 1939. 
+
+Gothort, B.: Effect of Wing Loading, 
+Aspect Ratio, and Span Loading on 
+Flight Performances. TM 925, Jan. 
+1940. 
+
+Worley, Brian: Fighter Fundamentals. 
+MP 44, March 1940. 
+
+Turner, L. Richard: Consideration of 
+Auxiliary Jet Propulsion for Assisting 
+Take-Off. ACR (WR E-49), May 1940. 
+
+Stepniewski, Wieslaw: Air Transport by 
+Gliders. Some Technical Observations. 
+TM 980, June 1941. 
+
+Pearson, H. A. and Garvin, J. B.: Velocity 
+Gained and Altitude Lost in Recoveries 
+from Inclined Flight Paths. TN 829, 
+Oct. 1941. 
+
+Wenzinger, Carl J.: Wind-Tunnel Investi- 
+gation of Several Factors Affecting the 
+Performance of a High-Speed Pursuit 
+Airplane with Air -Cooled Radial 
+Engine. ACR, Nov. 1941. 
+
+Pearson, H. A. and Anderson, R. F.: A 
+Brief Study of the Speed Reduction of 
+Overtaking Airplanes by Means of Air 
+Brakes. ACR, May 1942. 
+
+Wetmore, J. W.: Study of Turning Per- 
+formance of a Fighter-Type Airplane 
+Particularly as Affected by Flaps and 
+Increased Supercharging. ACR, June 
+1942. 
+
+Gustafson, F. B.: Tire Friction Coeffi- 
+cients and Their Relation to Ground- 
+Run Distance in Landing. ARR (WR 
+L-245), June 1942. 
+
+Brevoort, Maurice J.; Stickle, George W. 
+and Hill, Paul R.: Generalized Selec- 
+tion Charts for Bombers Powered by 
+Two, Four, and Six 3000-Horsepower 
+Engines. MR (WR L-670), Aug. 1942. 
+
+
+
+194 
+
+
+
+AERODYNAMICS 
+AIRCRAFT (1.7) 
+
+
+
+Performance - Airplanes (Cont.) 
+
+Donlan, C. J. and Letko, W.: The Effect of 
+Cowling Shape on the Stability Charac- 
+teristics of an Airplane. ARR (WR 
+L-343), Sept. 1942. 
+
+Sweberg, Harold H.: Full-Scale Tunnel 
+Investigation of the Control and Stabil- 
+ity of a Twin-Engine Monoplane with 
+Propellers Operating. ARR (WR 
+L-425), Nov. 1942. 
+
+Johnston, J. Ford: Review of Flight Tests 
+of NACA C and D Cowlings on the XP- 
+42 Airplane. Rept. 771, 1943. 
+
+Johnson, Harold I.: Determination of 
+Flight Paths of an SBD-1 Airplane in 
+Simulated Diving Attacks. ACR, March 
+1943. 
+
+Pearson, H. A.: Time-Velocity-Altitude 
+Relations for an Airplane Diving in a 
+Standard Atmosphere. ARR (WR 
+L-291), March 1943. 
+
+Jones, Robert T. and Wetmore, Joseph W.: 
+Emergency Measures for Increasing 
+the Range of Fighter Airplanes. RB 
+3E31 (WR L-223), May 1943. 
+
+Harmon, Sidney M.: Determination of the 
+Effect of Wing Flexibility on Lateral 
+Maneuverability and a Comparison of 
+Calculated Rolling Effectiveness with 
+Flight Results, ARR 4A28 (WR L-525), 
+Jan. 1944. 
+
+Ankenbruck, Herman O.: Maximum Lift 
+Coefficients of Airplanes Based on 
+Sum of Wing and Tail Areas. RB 
+L4C31 (WR L-556), March 1944. 
+
+Gustafson, F. B. and O'Sullivan, William 
+J., Jr.: The Effect of High Wing Loading 
+on Landing Technique and Distance, 
+with Experimental Data for the B-26 
+Airplane. ARR L4K07 (WR L-160), 
+Jan. 1945. 
+
+Yegorov, B. N.: New Method of Deter- 
+mining the Polar Curve of an Airplane 
+in Flight. TM 1076, March 1945. 
+
+Beeler, De E. and Williams, Walter C: 
+Flight Tests of Dive -Recovery Flaps 
+on an XP-51 Airplane. ACR L5D20a, 
+May 1945. 
+
+Talmage, Donald B.: Determination from 
+Flight Tests of Thrust Coefficients 
+for 10 Full-Scale Airplanes in the 
+Gliding Condition with Engine Idling. 
+RB L5F08 (WR L-88), June 1945. 
+
+Bielat, Ralph P.: A Simple Method for 
+Estimating Terminal Velocity Includ- 
+ing Effect of Compressibility on Drag. 
+ACR L5G31 (WR L-78), Aug. 1945. 
+
+
+
+Hill, Paul R.: Parameters Determining 
+Performance of Supersonic Pilotless 
+Airplanes Powered by Ram-Com- 
+pression Power Plants. ACR L6D17, 
+June 1946. 
+
+Byrne, Robert W.: A Method of Selecting 
+Rocket Thrust for Experimental 
+Supersonic Airplanes. RB L6G22, 
+Aug. 1946. 
+
+Wood, George P.: Performance Possibil- 
+ities of the Turbojet System as a 
+Power Plant for Supersonic Airplanes. 
+RM L7H05a, Sept. 1946. 
+
+Weise, A.: Practical Possibilities of 
+
+High-Altitude Flight with Exhaust-Gas 
+Turbines in Connection with Spark 
+Ignition Engines Comparative Thermo- 
+dynamic and Flight Mechanical Inves- 
+tigations. TM 1124, April 1947. 
+
+Ankenbruck, Herman O. and McKinney, 
+Marion O., Jr.: Generalized Perform- 
+ance Comparison of Large Conventional, 
+Tail-Boom, and Tailless Airplanes. 
+TN 1477, Oct. 1947. 
+
+Ivey, H. Reese; Bowen, Edward N., Jr. and 
+Oborny, Lester F.: Introduction to the 
+Problem of Rocket- Powered Aircraft 
+Performance. TN 1401, Dec. 1947. 
+
+Horton, Elmer A. and Quinn, John H., Jr.: 
+Analysis of the Effects of Boundary- 
+Layer Control on the Take -Off Per- 
+formance Characteristics of a Liaison- 
+Type Airplane. TN 1597, June 1948. 
+
+Hanson, Frederick H., Jr. and Mossman, 
+Emmet A.: Effect of Pressure Re- 
+covery on the Performance of a Jet- 
+Propelled Airplane. TN 1695, Sept. 
+1948. 
+
+Anderson, Seth B.; Gadeberg, Burnett L. 
+and McAvoy, William H.: Effect of a 
+90° Cross Wind on the Take-Off 
+Distance of a Light Airplane Equipped 
+with a Cross-Wind Landing Gear. TN 
+1898, June 1949. 
+
+Lange, Roy H.; Cocke, Bennie W., Jr. and 
+Proterra, Anthony J.: Preliminary 
+Full-Scale Investigation of a 1/3 -Scale 
+Model of a Convertible-Type Airplane. 
+RM L9C29, June 1949. 

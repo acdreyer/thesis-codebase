@@ -127,7 +127,7 @@ FUNDAMENTAL (1.1) 3
 
 COMPRESSIBLE FLOW 
 
-0.1.2) 
+(1.1.2) 
 
 Lees, Lester: The Stability of the Lami- 
 nar Boundary Layer in a Compres- 
@@ -3044,7 +3044,7 @@ TN 2350, April 1951.
 
 COMPLETE WINGS 
 
-(12.2) 
+(1.2.2) 
 
 Ellis, Macon C. , Jr. and Hasel, 
 Lowell E. : Preliminary Investi- 
@@ -5388,7 +5388,7 @@ TN 2137, July 1950.
 
 THEORY 
 
-0.3.1) 
+(1.3.1) 
 
 Spreiter, John R. : The Aerodynamic 
 Forces on Slender Plane- and 
@@ -5581,7 +5581,7 @@ L50B03, April 1950.
 
 DUCTED BODIES 
 
-(13.4) 
+(1.3.4) 
 
 Moore, Franklin: Linearized Supersonic 
 Axially Symmetric Flow about Open- 
@@ -5935,7 +5935,7 @@ ing Those of Rotating System. TN
 
 EXITS 
 
-0.4.3) 
+(1.4.3) 
 
 Corrsin, Stanley and Uberoi, Mahinder S. : 
 Spectrums and Diffusion in a Round 
@@ -6757,7 +6757,7 @@ Langley Helicopter Tower. TN
 
 THEORY 
 
-(16.1) 
+(1.6.1) 
 
 
 
@@ -8952,7 +8952,7 @@ TN 2373, June 1951.
 
 SPINNING 
 
-0.8.3) 
+(1.8.3) 
 
 Berman, Theodore: Spin-Tunnel Inves- 
 tigation of the Jettisoning of External 
@@ -9106,7 +9106,7 @@ TN 2283, January 1951.
 
 FLYING QUALITIES 
 
-0.8.5) 
+(1.8.5) 
 
 Phillips, William H. : Appreciation and 
 Prediction of Flying Qualities. 
@@ -9267,7 +9267,7 @@ Personal-Owner Airplanes. TN
 
 AUTOMATIC STABILIZATION 
 
-G.8.8) 
+(1.8.8) 
 
 Fliigge-Lotz, I. and Klotter, K. : On the 
 Motions of an Oscillating System 
@@ -9356,7 +9356,7 @@ Speeds. TN 2222, March 1951.
 
 Parachutes 
 
-(no) 
+(1.10) 
 
 
 
@@ -9389,7 +9389,7 @@ TN 2134, July 1950.
 
 HYDRODYNAMICS 
 
-(2). 
+(2)
 
 
 
@@ -12912,7 +12912,7 @@ PROPULSION 119
 
 
 Properties of Gases 
-(3H) 
+(3.11) 
 
 
 
@@ -15024,7 +15024,7 @@ Aluminum Alloys and of SAE 4130
 Steel. TN 2324, March 1951. 
 
 HEAT-RESISTING ALLOYS 
-(51.4) 
+(5.1.4) 
 
 Farmer, J. Elmo; Deutsch, George C; 
 and Sikora, Paul F.: Cyclic Engine 
@@ -16174,7 +16174,7 @@ OPERATING PROBLEMS
 
 
 156 OPERATING PROBLEMS 
-
+(7)
 
 
 Safety 
@@ -16784,7 +16784,8 @@ E50J12a, March 1951.
 
 RESEARCH EQUIPMENT AND TECHNIQUES 
 
-(») 
+(9) 
+
 
 
 
@@ -17401,7 +17402,6 @@ January 1951.
 
 
 Gates, Ordway B. , Jr. and Schy, 
-
 Albert A. : A Theoretical Method of 
 Determining the Control Gearing and 
 Time Lag Necessary for a Specified 
@@ -17429,6 +17429,7 @@ Aircraft Combination. TN 2373,
 June 1951. 
 
 
+(10)
 
 BIBLIOGRAPHIES AND INDEXES 177 
 
@@ -17436,7 +17437,7 @@ BIBLIOGRAPHIES AND INDEXES 177
 
 BIBLIOGRAPHIES AND INDEXES 
 
-Oi) 
+(11) 
 
 Huston, Wilber B. : Accuracy of Airspeed 
 Measurements and Flight Calibra- 

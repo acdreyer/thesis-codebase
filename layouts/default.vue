@@ -54,16 +54,6 @@ html {
 }
 
 
-
-/* The main title at the top */
-/* #toptitle-container {
-	width: 1200px;
-	margin: 0 auto;
-	padding-left: 70px;
-} */
-
-
-
 /* element colums */
   .el-row {
     margin-bottom: 20px;

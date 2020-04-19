@@ -1,7 +1,7 @@
 
 AERODYNAMICS 
 
-(1) 
+(1)
 
 
 
@@ -395,8 +395,7 @@ Rept. 1032. Formerly NACA TN 2244)
 ON THE PARTICULAR INTEGRALS OF THE 
 PRANDTL-BUSEMANN ITERATION EQUATIONS 
 FOR THE FLOW OF A COMPRESSIBLE FLUID. 
-
-:arl Kaplan. 1951. ii, 6p. (NACA Rept. 1039. 
+Carl Kaplan. 1951. ii, 6p. (NACA Rept. 1039. 
 
 Formerly TN 2159) 
 
@@ -792,7 +791,7 @@ RM L50C02a) (Declassified from Restricted,
 ON THE PARTICULAR INTEGRALS OF THE 
 PRANDTL-BUSEMANN ITERATION EQUATIONS 
 FOR THE FLOW OF A COMPRESSIBLE FLUID. 
-:arl Kaplan. 1951. ii, 6p. (NACA Rept. 1039. 
+Carl Kaplan. 1951. ii, 6p. (NACA Rept. 1039. 
 Formerly TN 2159) 
 
 THEORETICAL ANTISYMMETRIC SPAN LOADING 
@@ -926,7 +925,6 @@ VARIATION BETWEEN 0.97 x 10 6 AND 8.10 x 10 6
 ON THE MAXIMUM LIFT COEFFICIENT OF A 
 WING OF NACA 64-210 AIRFOIL SECTIONS. James 
 E. Fitzpatrick and William C. Schneider. August 
-
 1952. 34p. diagrs., photos., tab. (NACA TN 2753) 
 
 A COMPARATIVE EXAMINATION OF SOME MEAS- 
@@ -959,7 +957,6 @@ STUDY OF SECONDARY-FLOW PATTERNS IN AN
 ANNULAR CASCADE OF TURBINE NOZZLE 
 BLADES WITH VORTEX DESIGN. Harold E. Rohlik, 
 Hubert W. Allen and Howard Z. Herzig. March 
-
 1953. 29p. diagrs. , photos. (NACA TN 2909) 
 
 ON THE DEVELOPMENT OF TURBULENT WAKES 
@@ -1442,7 +1439,6 @@ APPROXIMATE METHODS FOR CALCULATING
 THE FLOW ABOUT NONLIFTTNG BODIES OF 
 REVOLUTION AT HIGH SUPERSONIC AIRSPEEDS. 
 A. J. Eggers, Jr. and Raymond C. Savin. December 
-
 1951. 40p. diagrs. (NACA TN 2579) 
 
 AIRFOIL PROFILES FOR MINIMUM PRESSURE 
@@ -1469,7 +1465,6 @@ TN 2438)
 ON REFLECTION OF SHOCK WAVES FROM 
 BOUNDARY LAYERS. H. W. Liepmann, A. Roshko 
 and S. Dhawan, California Institute of Technology. 
-
 1952. ii, 29p. diagrs. , photos. , tab. (NACA 
 Rept. 1100. Formerly TN 2334) 
 
@@ -1574,11 +1569,11 @@ from Confidential, 4/13/53)
 ON THE FORM OF THE TURBULENT SKIN- 
 FRICTION LAW AND ITS EXTENSION TO COM- 
 PRESSIBLE FLOWS. Coleman duP Donaldson. 
-1952. 19p. diagrs. (NACA TN 2692) 
+May 1952. 19p. diagrs. (NACA TN 2692) 
 
 
 
-May 
+
 
 
 
@@ -1861,7 +1856,7 @@ A STUDY OF EFFECTS OF VISCOSITY ON FLOW
 OVER SLENDER INCLINED BODIES OF REVOLU- 
 TION. H. Julian Allen and Edward W. Perkins. 
 1951. ii, 13p. diagrs., photos. (NACA Rept. 1048. 
-Formerly TN 2044) 
+Formerly NACA TN 2044) 
 
 COMPARISON OF THEORETICAL AND EXPERI- 
 MENTAL HEAT -TRANSFER CHARACTERISTICS OF 
@@ -1932,7 +1927,6 @@ Ray E. Budinger. 1952. ii, 20p. diagrs., photo., tab.
 ON REFLECTION OF SHOCK WAVES FROM 
 BOUNDARY LAYERS. H. W. Liepmann, A. Roshko 
 and S. Dhawan, California Institute of Technology. 
-
 1952. ii, 29p. diagrs. , photos. , tab. (NACA 
 Rept. 1100. Formerly TN 2334) 
 
@@ -2074,7 +2068,6 @@ ANALYTICAL INVESTIGATION OF FULLY DEVEL-
 OPED LAMINAR FLOW IN TUBES WITH HEAT 
 TRANSFER WITH FLUID PROPERTIES VARIABLE 
 ALONG THE RADIUS. Robert G. Delssler. July 
-
 1951. 28p. diagrs. (NACA TN 2410) 
 
 APPROXIMATE METHOD OF INTEGRATION OF 
@@ -2141,7 +2134,6 @@ Ustav, Praha, Rept. 2, 1947)
 ON REFLECTION OF SHOCK WAVES FROM 
 BOUNDARY LAYERS. H. W. Liepmann, A. Roshko 
 and S. Dhawan, California Institute of Technology. 
-
 1952. ii, 29p. diagrs. , photos. , tab. (NACA 
 Rept. 1100. Formerly TN 2334) 
 
@@ -2169,7 +2161,7 @@ Laminar Flow - Viscous (Cont.)
 ESTIMATE OF SUP EFFECT ON COMPRESSIBLE 
 LAMINAR-BOUNDARY-LAYER SKIN FRICTION. 
 Harold Mirels. January 1952. 22p. diagrs. 
-{NACA TN 2609) 
+(NACA TN 2609) 
 
 AN ANALYSIS OF LAMINAR FREE -CONVECTION 
 FLOW AND HEAT TRANSFER ABOUT A FLAT 
@@ -3084,14 +3076,12 @@ HEATING
 COMPARISON OF HEAT TRANSFER FROM AIRFOIL 
 IN NATURAL AND SIMULATED ICING CONDITIONS. 
 Thomas F. Gelder and James P. Lewis. September 
-
 1951. 51p. diagrs., photos., 2 tabs. (NACA TN 2480) 
 
 EXPERIMENTAL INVESTIGATION OF HEAT TRANS- 
 FER THROUGH LAMINAR AND TURBULENT 
 BOUNDARY LAYERS ON A COOLED FLAT PLATE 
 AT A MACH NUMBER OF 2. 4. Ellis G. Slack. April 
-
 1952. 31p. diagrs. (NACA TN 2686) 
 
 ANALYTICAL INVESTIGATION OF ICING LIMIT 
@@ -4156,7 +4146,6 @@ EFFECTS OF COMPRESSIBILITY ON THE CHAR-
 ACTERISTICS OF FIVE AIRFOILS. Bernard N. 
 Daley. April 25, 1947. 73p. diagrs., photos., tab. 
 (NACA RM L6L16) (Declassified from Restricted, 
-
 6/5/53) 
 
 CHARACTERISTICS OF A 15 -PERCENT -CHORD 
@@ -4230,7 +4219,6 @@ AIRFOIL SECTIONS WITH BOUNDARY -LAYER
 CONTROL AND AN ANALYTICAL STUDY OF THEIR 
 POSSIBLE APPLICATIONS. Elmer A. Horton, 
 Stanley F. Racisz and Nicholas J. Paradiso. July 
-
 1951. 40p. diagrs., photos., 2 tabs. (NACA TN 
 2405) 
 
@@ -4244,7 +4232,6 @@ FLOW CHARACTERISTICS OVER A LIFTING
 WEDGE OF FINITE ASPECT RATIO WITH 
 ATTACHED AND DETACHED SHOCK WAVES AT A 
 MACH NUMBER OF 1.40. John H. Hilton, Jr. June 
-
 1952. 21p. diagrs., photos. (NACA TN 2712) 
 
 EFFECTS OF INDEPENDENT VARIATIONS OF 
@@ -5100,7 +5087,6 @@ EFFECTS OF COMPRESSIBILITY ON THE CHAR-
 ACTERISTICS OF FIVE AIRFOILS. Bernard N. 
 Daley. April 25, 1947. 73p. diagrs., photos., tab. 
 (NACA RM L6L16) (Declassified from Restricted, 
-
 6/5/53) 
 
 EFFECT OF MACH NUMBER ON THE FLOW AND 
@@ -5577,7 +5563,6 @@ TERISTICS OF SEMISPAN TAIL SURFACES WITH
 NACA 0009, 0015, 66-009, 66(215) -014, AND 
 CIRCULAR -ARC AIRFOIL SECTIONS. John J. 
 Harper, Georgia Institute of Technology. October 
-
 1951. 127p. diagrs., photos., 5 tabs. (NACA TN 
 2495) 
 
@@ -5610,7 +5595,6 @@ EFFECT OF A FINITE TRAILING-EDGE THICK-
 NESS ON THE DRAG OF RECTANGULAR AND 
 DELTA WINGS AT SUPERSONIC SPEEDS. E. B. 
 Klunker and Conrad Rennemann, Jr. November 
-
 1952. 26p. diagrs. (NACA TN 2828) 
 
 DETERMINATION OF MEAN CAMBER SURFACES 
@@ -6542,7 +6526,6 @@ A DESIGN STUDY OF LEADING-EDGE INLETS FOR
 UNSWEPT WINGS. Robert E. Dannenberg. 
 June 30, 1950. 56p. diagrs. , photos. , 3 tabs. 
 (NACA RM A9K02b) (Declassified from Restricted, 
-
 6/11/53) 
 
 
@@ -8553,7 +8536,7 @@ New York University. November 1952. 45p.
 
 
 PROTUBERANCES 
-(1.3.2.$) 
+(1.3.2.5) 
 
 
 
@@ -8701,7 +8684,7 @@ AERODYNAMICS 55
 
 
 Internal Aerodynamics 
-(14) 
+(1.4) 
 
 
 
@@ -8750,7 +8733,7 @@ May 21, 1951. 33p. diagrs. (NACA RM E51B13)
 
 METHOD AND GRAPHS FOR THE EVALUATION OF 
 AIR-INDUCTION SYSTEMS. George B. Brajnikoff. 
-April 1952. |41p. diagrs., tab. (NACA TN 2697) 
+April 1952. 41p. diagrs., tab. (NACA TN 2697) 
 
 
 
@@ -9953,7 +9936,6 @@ Ray E. Budinger. 1952. ii, 20p. diagrs., photo., tab.
 ON REFLECTION OF SHOCK WAVES FROM 
 BOUNDARY LAYERS. H. W. Liepmann, A. Roshko 
 and S. Dhawan, California Institute of Technology. 
-
 1952. ii, 29p. diagrs. , photos. , tab. (NACA 
 Rept. 1100. Formerly TN 2334) 
 
@@ -9991,7 +9973,6 @@ STUDY OF SECONDARY-FLOW PATTERNS IN AN
 ANNULAR CASCADE OF TURBINE NOZZLE 
 BLADES WITH VORTEX DESIGN. Harold E. Rohlik, 
 Hubert W. Allen and Howard Z. Herzig. March 
-
 1953. 29p. diagrs. , photos. (NACA TN 2909) 
 
 
@@ -11617,7 +11598,7 @@ classified from Confidential, 3/10/52)
 
 
 Wing-Tail-Body 
-(1.7-2.1.4) 
+(1.7.2.1.4) 
 
 THEORETICAL AERODYNAMIC CHARACTERISTICS 
 OF A FAMILY OF SLENDER WING-TAIL-BODY 
@@ -11779,7 +11760,7 @@ Technology. May 1953. HOp. diagrs. , photos.
 
 
 SEAPLANES 
-(17.4) 
+(1.7.4) 
 
 GENERAL STUDIES 
 (1.7.4.1) 
@@ -11990,8 +11971,7 @@ INVESTIGATION OF THE CHARACTERISTICS OF A
 HIGH-ASPECT-RATIO WING IN THE LANGLEY 8- 
 FOOT HIGH-SPEED TUNNEL. Richard T. Whitcomb. 
 August 28, 1946. 77p. diagrs., photos., 3 tabs. 
-(NACA RM L6H28a) (Declassified from Restricted, 
-6/5/53) 
+(NACA RM L6H28a) (Declassified from Restricted, 6/5/53) 
 
 
 
@@ -13230,7 +13210,6 @@ stricted, 3/10/52)
 CALCULATION OF THE AERODYNAMIC LOADING 
 OF SWEPT AND UNSWEPT FLEXIBLE WINGS OF 
 ARBITRARY STIFFNESS. Franklin W. Diederich. 
-
 1950. ii, 29p. diagrs., 10 tabs. (NACA Rept. 1000. 
 Formerly RM L8G27a, TN 1876) 
 
@@ -13246,7 +13225,6 @@ SOME EFFECTS OF NONLINEAR VARIATION IN
 THE DIRECTIONAL -STABILITY AND DAMPING-IN- 
 YAWING DERIVATIVES ON THE LATERAL STA- 
 BILITY OF AN AIRPLANE. Leonard Sternfield. 
-
 1951. ii, 9p. diagrs., tab. (NACA Rept. 1042. 
 Formerly TN 2233) 
 
@@ -13830,7 +13808,7 @@ TUNNEL. Axel T. Mattson. August 28, 1946.
 
 
 AERODYNAMICS 
-88 STABILITY AND CONTROL (1-8) 
+88 STABILITY AND CONTROL (1.8) 
 
 
 
@@ -14090,7 +14068,6 @@ AERODYNAMIC-DERIVATIVE DATA AND STALL-
 FLUTTER PREDICTION TECHNIQUES. Robert L. 
 Halfman, H. C. Johnson and S. M. Haley, 
 Massachusetts Institute of Technology. November 
-
 1951. 154p. diagrs., photos., 11 tabs. (NACA TN 
 2533) 
 
@@ -14109,7 +14086,6 @@ VARIATION BETWEEN 0.97 x 10 6 AND 8.10 x 10 6
 ON THE MAXIMUM LIFT COEFFICIENT OF A 
 WING OF NACA 64-210 AIRFOIL SECTIONS. James 
 E. Fitzpatrick and William C. Schneider. August 
-
 1952. 34p. diagrs., photos., tab. (NACA TN 2753) 
 
 MEASUREMENTS OF FLYING QUALITIES OF AN 
@@ -14117,7 +14093,6 @@ F-47D-30 AIRPLANE TO DETERMINE LONGITU-
 DINAL STABILITY AND CONTROL AND STALLING 
 CHARACTERISTICS. Christopher C. Kraft, Jr., 
 R. Fabian Goranson and John P. Reeder. February 
-
 1953. 75p. photos., diagrs., 2 tabs. (NACA 
 TN 2899) 
 
@@ -14472,7 +14447,7 @@ HYDRODYNAMICS
 
 
 
-W 
+(2)
 
 
 
@@ -15399,7 +15374,7 @@ Craig. November 1952. 25p. diagrs. , photo.
 
 
 PULSE-JET ENGINES 
-(3,1.6) 
+(3.1.6) 
 
 
 
@@ -16208,7 +16183,6 @@ TEMPERATURES OF ORGANIC COMPOUNDS WITH
 PARTICULAR EMPHASIS ON LUBRICANTS. 
 Charles E. Frank, Angus U. Blackham and Donald 
 E. Swarts, University of Cincinnati. December 
-
 1952. 40p. diagrs. , 6 tabs. (NACA TN 2848) 
 
 VARIATION IN SMOKING TENDENCY AMONG LOW 
@@ -16224,7 +16198,6 @@ M. Simon. January 1953. 23p. diagrs. , 3 tabs.
 FLAME VELOCITIES OF PROPANE- AND 
 ETHYLENE-OXYGEN-NITROGEN MIXTURES. 
 Gordon L. Dugger and Dorothy D. Graab. January 
-
 1953. 23p. diagrs., 3 tabs. (NACA RM E52J24) 
 
 
@@ -17438,9 +17411,7 @@ TURBINE WITH SPECIAL BLADES AND COOLING
 FINS ON THE RIM. W. Byron Brown and John 
 
 N. B. Livingood. February 17, 1948. 21p. diagrs. 
-
 (NACA RM E 7122a) (Declassified from Restricted, 
-
 6/11/53) 
 
 COOLING OF GAS TURBINES. DC - COOLING EF- 
@@ -18165,7 +18136,6 @@ photo., 3 tabs. (NACA TN 2636)
 WEAR AND SLIDING FRICTION PROPERTIES OF 
 NICKEL ALLOYS SUITED FOR CAGES OF HIGH- 
 TEMPERATURE ROLLING-CONTACT BEARINGS. 
-
 I - ALLOYS RETAINING MECHANICAL PROPER- 
 TIES TO 600° F. Robert L. Johnson, Max A. Swikert 
 and Edmond E. Bisson. August 1952. 30p. diagrs., 
@@ -18174,7 +18144,6 @@ photos., 3 tabs. (NACA TN 2758)
 WEAR AND SLIDING FRICTION PROPERTIES OF 
 NICKEL ALLOYS SUITED FOR CAGES OF HIGH- 
 TEMPERATURE ROLLING-CONTACT BEARINGS. 
-
 II - ALLOYS RETAINING MECHANICAL PROPER- 
 TIES ABOVE 600° F. Robert L. Johnson, Max A. 
 Swikert and Edmond E. Bisson. August 1952. 29p. 
@@ -18245,7 +18214,7 @@ RM E52L05)
 
 LUBRICANTS 
 
-(3. S3) 
+(3. 8.5) 
 
 BONDING OF MOLYBDENUM DISULFIDE TO VARI- 
 OUS MATERIALS TO FORM A SOLID LUBRICATING 
@@ -18418,9 +18387,7 @@ TURBINE WITH SPECIAL BLADES AND COOLING
 FINS ON THE RIM. W. Byron Brown and John 
 
 N. B. Livingood. February 17, 1948. 21p. diagrs. 
-
 (NACA RM E7I22a) (Declassified from Restricted, 
-
 6/11/53) 
 
 
@@ -19052,13 +19019,11 @@ Whittle, Jr. and Marvin P. Fink. September 8, 1949.
 CALCULATION OF THE AERODYNAMIC LOADING 
 OF SWEPT AND UNSWEPT FLEXIBLE WINGS OF 
 ARBITRARY STIFFNESS. Franklin W. Dlederlch. 
-
 1950. li, 29p. diagrs., 10 tabs. (NACA Rept. 1000. 
 Formerly RM L8G27a, TN 1876) 
 
 A LIFT-CANCELLATION TECHNIQUE IN LINEAR- 
 IZED SUPERSONIC-WING THEORY. Harold Mlrels. 
-
 1951. ii, lip. diagrs. (NACA Rept. 1004. Former- 
 ly TN 2145) 
 
@@ -19476,7 +19441,6 @@ SOME DYNAMIC EFFECTS OF FUEL MOTION IN
 SIMPLIFIED MODEL TIP TANKS ON SUDDENLY 
 EXCITED BENDING OSCILLATIONS. Kenneth F. 
 Merten and Bertrand H. Stephenson. September 
-
 1952. 35p. diagrs. , photos. , 2 tabs. (NACA 
 TN 2789) 
 
@@ -19502,7 +19466,6 @@ diagrs. , 2 tabs. (NACA TN 2897)
 INTERIM REPORT ON A FATIGUE INVESTIGATION 
 OF A FULL-SCALE TRANSPORT AIRCRAFT WING 
 STRUCTURE. M. James McGuigan, Jr. April 
-
 1953. 36p. photos. , diagrs. , 2 tabs. (NACA 
 TN 2920) 
 
@@ -19806,7 +19769,6 @@ EVALUATION OF THE REDUCED-MASS METHOD
 OF REPRESENTING WING-LIFT EFFECTS IN 
 FREE-FALL DROP TESTS OF LANDING GEARS. 
 Benjamin Milwitzky and Dean C. Lindquist. July 
-
 1951. 43p. diagrs., photo., 3 tabs. (NACA TN 2400) 
 
 INVESTIGATION OF THE AIR-COMPRESSION PRO- 
@@ -19834,7 +19796,6 @@ E. Hazen. June 1952. 17p. diagrs., photos., 2 tabs.
 
 ANALYSIS OF LANDING-GEAR BEHAVIOR. 
 Benjamin Milwitzky and Francis E. Cook. August 
-
 1952. 98p. diagrs. , photo. , 3 tabs. (NACA 
 TN 2755) 
 
@@ -20144,7 +20105,6 @@ and Joseph A. Drischler. July 1952. 37p. diagrs.,
 ANALYTICAL STUDY OF SHIMMY OF AIRPLANE 
 WHEELS. (Etude Theorique du Shimmy des Roues 
 d'Avion). Christian Bourcier de Carbon. September 
-
 1952. 126p. diagrs. , photos. (NACA TM 1337. 
 Trans, from Office National d'Etudes et de 
 Recherches Aeronautiques, Pub. 7, 1948). 
@@ -20154,7 +20114,6 @@ MODES OF VIBRATION OF AN ALUMINUM -ALLOY
 BOX BEAM WITH AND WITHOUT LARGE DIS- 
 CONTINUITIES. Frank C. Smith and Darnley M. 
 Howard, National Bureau of Standards. January 
-
 1953. 40p. diagrs., photo., 8 tabs. (NACA TN 2884) 
 
 
@@ -20332,7 +20291,6 @@ EFFECT OF VARIOUS PARAMETERS INCLUDING
 MACH NUMBER ON THE SINGLE -DEGREE -OF - 
 FREEDOM FLUTTER OF A CONTROL SURFACE IN 
 POTENTIAL FLOW. Harry L. Runyan. December 
-
 1951. 33p. diagrs. (NACA TN 2551) 
 
 CONSIDERATIONS ON THE EFFECT OF WIND- 
@@ -20365,7 +20323,6 @@ SOME DYNAMIC EFFECTS OF FUEL MOTION IN
 SIMPLIFIED MODEL TIP TANKS ON SUDDENLY 
 EXCITED BENDING OSCILLATIONS. Kenneth F. 
 Merten and Bertrand H. Stephenson. September 
-
 1952. 35p. diagrs., photos., 2 tabs. (NACA 
 TN 2789) 
 
@@ -21098,7 +21055,6 @@ Circular
 
 A SMALL-DEFLECTION THEORY FOR CURVED 
 SANDWICH PLATES. Manuel Stein and J. Mayers. 
-
 1951. 6p. diagr. (NACA Rept. 1008. Formerly 
 NACA TN 2017) 
 
@@ -21126,7 +21082,6 @@ TORSION, COMPRESSION, AND BENDING TESTS
 OF TUBULAR SECTIONS MACHINED FROM 75S-T6 
 ROLLED ROUND ROD. R. L. Moore and J. W. 
 Clark, Aluminum Company of America. November 
-
 1952. 33p. diagrs., photos., 4 tabs. (NACA 
 RM 52125) 
 
@@ -21458,7 +21413,6 @@ TORSION, COMPRESSION, AND BENDING TESTS
 OF TUBULAR SECTIONS MACHINED FROM 75S-T6 
 ROLLED ROUND ROD. R. L. Moore and J. W. 
 Clark, Aluminum Company of America. November 
-
 1952. 33p. diagrs., photos., 4 tabs. (NACA 
 RM 52125) 
 
@@ -21474,7 +21428,6 @@ THE EFFECT OF LONGITUDINAL STIFFENERS
 LOCATED ON ONE SIDE OF A PLATE ON THE 
 COMPRESSIVE BUCKLING STRESS OF THE PLATE- 
 STIFFENER COMBINATION. Paul Seide. January 
-
 1953. 66p. diagrs. , 2 tabs. (NACA TN 2873) 
 
 AN ANALYSIS OF STATICALLY INDETERMINATE 
@@ -22432,13 +22385,11 @@ FUNDAMENTAL EFFECTS OF AGING ON CREEP
 PROPERTIES OF SOLUTION-TREATED LOW- 
 CARBON N-155 ALLOY. D. N. Frey, J. W. 
 Freeman and A. E. White, University of Michigan. 
-
 1950. ii, 30p. diagrs., photos., 5 tabs. (NACA 
 Rept. 1001. Formerly TN 1940) 
 
 DIFFUSION OF CHROMIUM IN ALPHA COBALT- 
 CHROMIUM SOLID SOLUTIONS. John W. Weeton. 
-
 1951. ii, 15p. diagrs., photos., tab. (NACA Rept. 
 1023. Formerly TN 2218) 
 
@@ -23779,7 +23730,6 @@ TICITY OF BINARY ALLOYS AND THEIR STRUC-
 TURE. (Beziehungen swischen dem Elastizitats- 
 modul vonZweistofflegierungen und ihrem Aufbau). 
 Werner Koster and Walter Rauscher. November 
-
 1951. 49p. diagrs. (NACA TM 1321. Trans, from 
 Zeitschrift fur Metallkunde, v. 39, 1948, p.111-120. 
 Dissertation Technische Hochschule Stuttgart, 1942). 
@@ -23793,7 +23743,6 @@ January 1952. 12p. diagrs. (NACA TN 2586)
 SURVEY OF THE CHROMIUM -COBALT-NICKEL 
 PHASE DIAGRAM AT 1200° C. W. D. Manly and 
 Paul A. Beck, University of Notre Dame. February 
-
 1952. 45p. diagrs., photos., 9 tab. (NACA TN 
 2602) 
 
@@ -23898,7 +23847,6 @@ SURVEY OF PORTIONS OF THE CHROMIUM-
 COBALT -NICKEL-MOLYBDENUM QUATERNARY 
 SYSTEM AT 1200° C. Sheldon Paul Rideout and 
 Paul A. Beck, University of Notre Dame. April 
-
 1952. 81p. diagrs., photos., 20 tabs. (NACA TN 
 2683) 
 
@@ -23912,7 +23860,6 @@ February 1953. 56p. diagrs. , photos. , 15 tabs.
 THE CREEP OF SINGLE CRYSTALS OF 
 ALUMINUM. R. D. Johnson, F. R. Shober and 
 A. D. Schwope, Battelle Memorial Institute. May 
-
 1953. 51p. diagrs. , photos., tab. (NACA TN 2945) 
 
 MULT 1 AXIAL STRESS 
@@ -24267,7 +24214,7 @@ diagrs. (NACA TN 2931)
 
 174 METEOROLOGY 
 
-
+(6)
 
 Atmosphere 
 (6.1) 
@@ -24499,7 +24446,6 @@ TN 2476)
 COMPARISON OF HEAT TRANSFER FROM AIRFOIL 
 IN NATURAL AND SIMULATED ICING CONDITIONS. 
 Thomas F. Gelder and James P. Lewis. September 
-
 1951. 51p. diagrs., photos., 2 tabs. (NACA TN 2480) 
 
 X-RAY DIFFRACTION STUDY OF THE INTERNAL 
@@ -24530,7 +24476,6 @@ Bowden. February 1952. 43p. photos., diagrs.
 A PHOTOGRAPHIC STUDY OF FREEZING OF 
 WATER DROPLETS FALLING FREELY IN Affi. 
 Robert G. Dorsch and Joseph Levine. February 
-
 1952. 29p. diagrs., photos., 2 tabs. (NACA RM 
 E51L17) 
 
@@ -24686,7 +24631,7 @@ diagrs. , 4 tabs. (NACA TN 2833)
 
 178 OPERATING PROBLEMS 
 
-
+(7)
 
 Safety 
 (7.1) 
@@ -24802,7 +24747,6 @@ Ice Prevention and Removal
 COMPARISON OF HEAT TRANSFER FROM AIRFOIL 
 IN NATURAL AND SIMULATED ICING CONDITIONS. 
 Thomas F. Gelder and James P. Levis. September 
-
 1951. 51p. diagrs., photos., 2 tabs. (NACA TO 2480) 
 
 AN INVESTIGATION OF AIRCRAFT HEATERS. 
@@ -24835,7 +24779,6 @@ Norman R. Bergrun. June 1952. 93p. diagrs.,
 SIMPLE GRAPHICAL SOLUTION OF HEAT TRANS- 
 FER AND EVAPORATION FROM SURFACE HEATED 
 TO PREVENT ICING. Vernon H. Gray. October 
-
 1952. 19p. diagrs. (NACA TN 2799) 
 
 PRELIMINARY SURVEY OF ICING CONDITIONS 
@@ -24858,7 +24801,6 @@ METHOD FOR MEASUREMENT OF DROPLET -SIZE
 DISTRIBUTION, VOLUME -MEDIAN DROPLET SIZE, 
 AND LIQUID -WATER CONTENT IN CLOUDS. 
 Rinaldo J. Brun and Harry W. Mergler. March 
-
 1953. 71p. diagrs. , photo. , 4 tabs. (NACA 
 TN 2904) 
 
@@ -25785,7 +25727,7 @@ diagrs. , photo. (NACA TN 2880)
 
 196 RESEARCH EQUIPMENT AND TECHNIQUES 
 
-
+(9)
 
 Equipment 
 (9.1) 
@@ -27121,11 +27063,11 @@ GRAPH METHOD. Chieh-Chien Chang and Vivian
 O'Brien, Johns Hopkins University. February 1953. 
 63p. diagrs. , 4 tabs. (NACA TN 2885) 
 
-
+(10)
 
 BIBLIOGRAPHIES AND INDEXES 
 
-(") 
+(11) 
 
 
 

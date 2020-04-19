@@ -1,0 +1,492 @@
+﻿tocNum,tocName
+1,AERODYNAMICS
+1.1,Fundamental Aerodynamics
+1.1.1,Incompressible Flow
+1.1.2,Compressible Flow
+1.1.2.1,Subsonic Flow
+1.1.2.2,Mixed Flow
+1.1.2.3,Supersonic Flow
+1.1.3,Viscous Flow
+1.1.3.1,Laminar Flow
+1.1.3.2,Turbulent Flow
+1.1.3.3,Jet Mixing
+1.1.4,Aerodynamics with Heat
+1.1.4.1,Heating
+1.1.4.2,Heat Transfer
+1.1.4.3,Additions of Heat
+1.1.5,Flow of Rarefied Gases
+1.1.5.1,Slip Flow
+1.1.5.2,Free Molecule Flow
+1.1.6,Time-Dependent Flow
+1.2,wings
+1.2.1,Wing Sections
+1.2.1.1,Section Theory
+1.2.1.2,Section Variables
+1.2.1.2.1,Camber
+1.2.1.2.2,Thickness
+1.2.1.2.3,Thickness Distribution
+1.2.1.2.4,Inlets and Exits
+1.2.1.2.5,Surface Conditions
+1.2.1.3,Designated Profiles
+1.2.1.4,High-Lift Devices
+1.2.1.4.1,Plain Flaps
+1.2.1.4.2,Split Flaps
+1.2.1.4.3,Slotted Flaps
+1.2.1.4.4,Leading-Edge Flaps
+1.2.1.4.5,Slots and Slats
+1.2.1.5,Controls
+1.2.1.5.1,Flap Type
+1.2.1.5.2,Spoilers
+1.2.1.6,Boundary Layer
+1.2.1.6.1,Characteristics
+1.2.1.6.2,Control
+1.2.1.7,Reynolds-Number Effects
+1.2.1.8,Mach-Number Effects
+1.2.1.9,Wake
+1.2.2,Complete Wings
+1.2.2.1,Wing Theory
+1.2.2.2,Wing Variables
+1.2.2.2.1,Profiles
+1.2.2.2.2,Aspect Ratio
+1.2.2.2.3,Sweep
+1.2.2.2.4,Taper and Twist
+1.2.2.2.5,Inlets and Exits
+1.2.2.2.6,Surface Conditions
+1.2.2.2.7,Dihedral
+1.2.2.3,High-Lift Devices
+1.2.2.3.1,Trailing-Edge Flaps
+1.2.2.3.2,Slots and Slats
+1.2.2.3.3,Leading-Edge Flaps
+1.2.2.4,Controls
+1.2.2.4.1,Flap Type
+1.2.2.4.2,Spoilers
+1.2.2.4.3,All-Movable
+1.2.2.5,Reynolds-Number Effects
+1.2.2.6,Mach-Number Effects
+1.2.2.7,Wake
+1.2.2.8,Boundary Layer
+1.2.2.8.1,Characteristics
+1.2.2.8.2,Control
+1.3,Bodies
+1.3.1,Theory
+1.3.2,Shape Variables
+1.3.2.1,Fineness Ratio
+1.3.2.2,Cross Section
+1.3.2.3,Thickness Distribution
+1.3.2.4,Surface Conditions
+1.3.2.5,Protuberances
+1.3.3,Canopies
+1.3.4,Ducted Bodies
+1.3.4.1,Nose Shape
+1.3.4.2,Tail Shape
+1.3.4.3,Side Inlets
+1.3.4.4,Side Exits
+1.3.5,Hulls
+1.4,Internal Aerodynamics
+1.4.1,Air Inlets
+1.4.1.1,"Nose, Central"
+1.4.1.1.1,Propeller-Spinner-Cowl Combinations
+1.4.1.1.2,Subsonic
+1.4.1.1.3,Supersonic
+1.4.1.2,"Nose, Annular"
+1.4.1.3,Wing Leading Edge
+1.4.1.4,Side
+1.4.1.4.1,Scoops
+1.4.1.4.2,Submerged
+1.4.2,Ducts
+1.4.2.1,Diffusers
+1.4.2.1.1,Subsonic
+1.4.2.1.2,Supersonic
+1.4.2.2,Nozzles
+1.4.2.3,Pipes
+1.4.2.4,Bends
+1.4.3,Exits
+1.4.4,Jet Pumps and Thrust Augmentors
+1.4.5,Cascades
+1.4.5.1,Theory
+1.4.5.2,Experiment
+1.4.6,Fans
+1.4.7,Boundary Layer
+1.4.7.1,Characteristics
+1.4.7.2,Control
+1.5,Propellers
+1.5.1,Theory
+1.5.2,Design Variables
+1.5.2.1,Blade Sections
+1.5.2.2,Solidity
+1.5.2.3,Pitch Distribution
+1.5.2.4,Blade Plan Forms
+1.5.2.5,Mach-Number Effects
+1.5.2.6,Pusher
+1.5.2.7,Dual Rotation
+1.5.2.8,Interference of Bodies
+1.5.2.9,Pitch and Yaw
+1.5.2.10,Diameter
+1.5.3,Designated Types
+1.5.4,Slipstream
+1.5.5,Selection Charts
+1.5.6,Operating Conditions
+1.5.7,Propeller-Spinner-Cowl Combinations
+1.6,Rotating Wings
+1.6.1,Theory
+1.6.2,Experimental Studies
+1.6.2.1,Power-Driven
+1.6.2.2,Autorotating
+1.7,Aircraft
+1.7.1,Airplanes
+1.7.1.1,Components in Combination
+1.7.1.1.1,Wing-Fuselage
+1.7.1.1.2,Wing-Nacelle
+1.7.1.1.3,Tail-Wing and Fuselage
+1.7.1.1.4,Propeller and jet Interference
+1.7.1.1.5,Stores
+1.7.1.1.6,Jet Interference
+1.7.1.2,Specific Airplanes
+1.7.1.3,Performance
+1.7.2,Missiles
+1.7.2.1,Components in Combination
+1.7.2.1.1,Wing-Body
+1.7.2.1.2,Tail-Body
+1.7.2.1.3,Jet Interference
+1.7.2.1.4,Wing-Tail-Body
+1.7.2.2,Specific Missiles
+1.7.3,Rotating-Wing Aircraft
+1.7.3.1,Autogiros
+1.7.3.2,Helicopters
+1.7.4,Seaplanes
+1.7.4.1,General Studies
+1.7.4.2,"Specific Types,"
+1.7.5,Airships
+1.7.6,Biplanes and Triplanes
+1.8,Stability and Control
+1.8.1,Stability
+1.8.1.1,Static
+1.8.1.1.1,Longitudinal
+1.8.1.1.2,Lateral
+1.8.1.1.3,Directional
+1.8.1.2,Dynamic
+1.8.1.2.1,Longitudinal
+1.8.1.2.2,Lateral and Directional
+1.8.1.2.3,Damping Derivatives
+1.8.2,Control
+1.8.2.1,Longitudinal
+1.8.2.2,Lateral
+1.8.2.3,Directional
+1.8.2.4,Air Brakes
+1.8.2.5,Hinge Moments
+1.8.2.6,Automatic
+1.8.2.7,Jet Reaction
+1.8.3,Spinning
+1.8.4,Stalling
+1.8.5,Flying Qualities
+1.8.6,Mass and Gyroscopic Problems
+1.8.7,Tumbling
+1.8.8,Automatic Stabilization
+1.8.9,Tracking
+1.9,Aeroelasticity
+1.10,Parachutes
+2,HYDRODYNAMICS
+2.1,Theory
+2.2,General Arrangement Studies
+2.3,Seaplane Hull Variables
+2.3.1,Length-Beam Ratio
+2.3.2,Dead Rise
+2.3.3,Steps
+2.3.4,Afterbody Shape
+2.3.5,Forebody Shape
+2.3.6,Chines
+2.4,Specific Seaplanes and Hulls
+2.5,Lateral Stabilizers
+2.5.1,Wing-Tip Float
+2.6,Planing Surfaces
+2.7,Hydrofoils
+2.8,Surface Craft
+2.9,Ditching Characteristics
+2.1,Stability and Control
+2.10.1,Longitudinal
+2.10.2,Lateral
+2.10.3,Directional
+3,PROPULSION
+3.1,Complete Systems
+3.1.1,Reciprocating Engines
+3.1.1.1,Spark-Ignition Engines
+3.1.1.2,Compression-Ignition (Diesel) Engines
+3.1.2,Reciprocating Engines Turbines
+3.1.2.1,Turbosupercharged Engines
+3.1.2.2,Compound Engines
+3.1.2.3,Gas Generator-Turbine Engines
+3.1.3,Turbojet Engines
+3.1.4,Turbo-Propeller Engines
+3.1.5,Ducted Propeller Engines
+3.1.6,Pulse-Jet Engines
+3.1.7,Ram-Jet Engines
+3.1.8,Rocket Engines
+3.1.9,Jet-Driven Rotors
+3.1.10,Nuclear Energy Systems
+3.1.11,Miscellaneous Engines
+3.1.12,Comparison of Engine Types
+3.2,Control of Engines
+3.2.1,Charging and Control of Reciprocating Engines
+3.2.1.1,Spark-Ignition Engines
+3.2.1.2,Compression-Ignition Engines
+3.2.1.3,Compound Engines
+3.2.2,Control of Turbojet Engines
+3.2.3,Control of Turbine-Ram-Jet Engines
+3.2.4,Control of Turbine Propeller Engines
+3.2.5,Control of Pulse-Jet Engines
+3.2.6,Control of Ram-Jet Engines
+3.2.7,Control of Rocket Engines
+3.2.8,Control of Gas Generator Engines
+3.3,Auxiliary Booster Systems
+3.3.1,Reciprocating Engines
+3.3.2,Gas Turbines
+3.3.2.1,Liquid Injection
+3.3.2.2,Afterburning
+3.3.2.3,Bleedoff
+3.3.3,Rocket Assist
+3.4,Fuels
+3.4.1,Preparation
+3.4.2,Physical and Chemical Properties
+3.4.3,Relation to Engine Performance
+3.4.3.1,Reciprocating Engines
+3.4.3.1.1,Spark-Ignition
+3.4.3.1.2,Compression-Ignition (Diesel)
+3.4.3.2,"Turbine Engines, Ram Jets, Pulse jets"
+3.4.3.3,Rockets (Includes Fuel and Oxidant)
+3.5,Combustion and Combustors
+3.5.1,General Combustion Research
+3.5.1.1,Laminar-Flow Combustion
+3.5.1.2,Turbulent-Flow Combustion
+3.5.1.3,Detonation
+3.5.1.4,Effects of Fuel Atomization
+3.5.1.5,Reaction Mechanisms
+3.5.1.6,Ignition of Gases
+3.5.2,Effect of Engine Operating Conditions and Combustion Chamber Geometry
+3.5.2.1,Reciprocating Engines
+3.5.2.1.1,Spark-Ignition Engines
+3.5.2.1.2,Compression-Ignition (Diesel) Engines
+3.5.2.2,Turbine Engines
+3.5.2.3,Ram-Jet Engines
+3.5.2.4,Pulse-Jet Engines
+3.5.2.5,Rocket Engines
+3.6,Compression and Compressors
+3.6.1,Flow Theory and Experiment
+3.6.1.1,Axial Flow
+3.6.1.2,Radial Flow
+3.6.1.3,Mixed Flow
+3.6.1.4,Positive Displacement
+3.6.2,Stress and Vibration
+3.6.3,Matching
+3.7,Turbines
+3.7.1,Flow Theory and Experiment
+3.7.1.1,Axial Flow
+3.7.1.2,Radial Flow
+3.7.1.3,Mixed Flow
+3.7.2,Cooling
+3.7.3,Stress and Vibration
+3.7.4,Matching
+3.8,Friction and Lubrication
+3.8.1,Theory and Experiment
+3.8.1.1,Hydrodynamic Theory
+3.8.1.2,Chemistry of Lubrication
+3.8.1.3,Surface Conditions
+3.8.2,Sliding Contact Surfaces
+3.8.2.1,Sleeve Bearings
+3.8.2.2,Cylinder and Piston Mechanisms
+3.8.2.3,Slipper Plate
+3.8.2.4,Kingsbury and Mitchell Bearings
+3.8.3,Rolling Contact Surfaces
+3.8.3.1,Antifriction Bearings
+3.8.4,Sliding and Rolling Contact Surfaces
+3.8.4.1,Gears
+3.8.5,Lubricants
+3.9,Heat Transfer
+3.9.1,Theory and Experiment
+3.9.1.1,Cascades
+3.9.2,Heat Exchangers
+3.9.2.1,Radiators
+3.9.2.2,Intercoolers
+3.9.2.3,Aftercoolers
+3.9.2.4,Regenerators
+3.9.2.5,Oil Coolers
+3.1,Cooling of Engines
+3.10.1,Reciprocating Engines
+3.10.1.1,Liquid-Cooled
+3.10.1.2,Air-Cooled
+3.10.2,Gas-Turbine Systems
+3.10.3,Ram jets
+3.10.4,Pulse Jets
+3.10.5,Rockets
+3.11,Properties of Gases
+3.11.1,Kinetic
+3.11.2,Thermodynamic
+3.12,Accessories and Accessory Functions
+3.12.1,Fuel Systems
+3.12.1.1,Spark-Ignition Engines
+3.12.1.2,Compression-Ignition Engines
+3.12.1.3,Compound Engines
+3.12.1.4,Turbojet Engines
+3.12.1.5,Turbine-Propeller Engine
+3.12.1.6,Pulse-Jet Engines
+3.12.1.7,Ram-Jet Engines
+3.12.1.8,Rocket Engines
+3.12.1.8.1,Turbopump
+3.12.2,Ignition Systems
+3.12.3,Starting Systems
+3.12.4,Lubrication Systems
+3.12.5,Cooling Systems
+3.13,Vibration and Flutter
+4,AIRCRAFT LOADS AND CONSTRUCTION
+4.1,Loads
+4.1.1,Aerodynamic
+4.1.1.1,Wings
+4.1.1.1.1,Steady Loads
+4.1.1.1.2,Maneuvering
+4.1.1.1.3,Gust Loads
+4.1.1.1.4,Buffeting Loads
+4.1.1.2,Tail
+4.1.1.2.1,Steady Loads
+4.1.1.2.2,Maneuvering
+4.1.1.2.3,Buffeting and Gust
+4.1.1.3,Bodies
+4.1.1.4,Rotating Wings
+4.1.1.5,Aeroelasticity
+4.1.2,Landing
+4.1.2.1,Impact
+4.1.2.1.1,Land
+4.1.2.1.2,Water
+4.1.2.2,Round-Run
+4.1.2.2.1,Land
+4.1.2.2.2,Water
+4.1.2.3,Prelanding Conditions
+4.2,Vibration and Flutter
+4.2.1,Wings and Ailerons
+4.2.2,Tails
+4.2.2.1,Elevators and Rudders
+4.2.2.2,Tabs
+4.2.3,Bodies
+4.2.4,"Propeller, Fans, and Compressors"
+4.2.5,Rotating-Wing Aircraft
+4.2.6,Panels and Surface Coverings
+4.3,Structures
+4.3.1,Columns
+4.3.1.1,Tubular
+4.3.1.2,Beams
+4.3.1.3,Sections
+4.3.2,"Frames, Gridworks, and Trusses"
+4.3.3,Plates
+4.3.3.1,Flat
+4.3.3.1.1,Unstiffened
+4.3.3.1.2,Stiffened
+4.3.3.2,Curved
+4.3.3.2.1,Unstiffened
+4.3.3.2.2,Stiffened
+4.3.4,Beams
+4.3.4.1,Box
+4.3.4.2,Diagonal Tension
+4.3.5,Shells
+4.3.5.1,Cylinders
+4.3.5.1.1,Circular
+4.3.5.1.2,Elliptical
+4.3.5.2,Boxes
+4.3.6,Connections
+4.3.6.1,Bolted
+4.3.6.2,Riveted
+4.3.6.3,Welded
+4.3.6.4,Bonded
+4.3.7,Loads and Stresses
+4.3.7.1,Tension
+4.3.7.2,Compression
+4.3.7.3,Bending
+4.3.7.4,Torsion
+4.3.7.5,Shear
+4.3.7.6,Concentrated
+4.3.7.7,Dynamic
+4.3.7.7.1,Repeated
+4.3.7.7.2,Transient
+4.3.7.8,Normal Pressures
+4.3.8,Weight Analysis
+5,MATERIALS
+5.1,Types
+5.1.1,Aluminum
+5.1.2,Magnesium
+5.1.3,Steels
+5.1.4,Heat-Resisting Alloys
+5.1.5,Ceramics
+5.1.6,Plastics
+5.1.7,Woods
+5.1.8,Adhesives
+5.1.9,Protective Coatings
+5.1.10,Fabrics
+5.1.11,Sandwich and Laminates
+5.1.12,Ceramals
+5.1.13,Titanium
+5.2,Properties
+5.2.1,Tensile
+5.2.2,Compressive
+5.2.3,Creep
+5.2.4,Stress-Rupture
+5.2.5,Fatigue
+5.2.6,Shear
+5.2.7,Flexural
+5.2.8,Corrosion Resistance
+5.2.9,Structure
+5.2.10,Effects of Nuclear Radiation
+5.2.11,Thermal
+5.2.12,Multiaxial Stress
+5.2.13,Plasticity
+5.3,Operating Stresses and Conditions
+5.3.1,Airframe
+5.3.2,Propulsion System
+6,METEOROLOGY
+6.1,Atmosphere
+6.1.1,Standard Atmosphere
+6.1.2,Gusts
+6.1.2.1,Structure
+6.1.2.2,Frequency
+6.1.2.3,Turbulence
+6.1.2.4,Alleviation
+6.1.3,Electncity
+6.2,Ice Formation
+7,OPERATING PROBLEMS
+7.1,Safety
+7.1.1,Pilot-Escape Techniques
+7.2,Navigation
+7.3,Ice Prevention and Removal
+7.3.1,Engine Induction Systems
+7.3.2,Propellers
+7.3.3,Wings and Tails
+7.3.4,Windshields
+7.3.5,Miscellaneous Accessories
+7.3.6,Propulsion Systems
+7.4,Noise
+7.5,Heating and Ventilating
+7.6,Lightning Hazards
+7.7,Piloting Techniques
+7.8,Physiological
+7.9,Fire Hazards
+7.10,General
+8,INSTRUMENTS
+8.1,Flight
+8.2,Laboratory
+8.3,Meteorological
+9,RESEARCH EQUIPMENT AND TECHNIQUES
+9.1,Equipment
+9.1.1,Wind/Tunnels
+9.1.2,Free-Flight
+9.1.3,Towing Tanks and Impacts Basins
+9.1.4,Propulsion Research Equipment
+9.1.5,Propeller
+9.1.6,Materials
+9.1.7,Structures
+9.2,Technique
+9.2.1,Corrections
+9.2.2,Aerodynamics
+9.2.3,Hydrodynamics
+9.2.4,Loads and Construction
+9.2.5,Propulsion
+9.2.6,Operating Problems
+9.2.7,Mathematics
+10,NOMENCLATURE
+11,BIBLIOGRAPHIES
+12,TECHNICAL SUMMARIES

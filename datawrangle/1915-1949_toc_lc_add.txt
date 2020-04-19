@@ -1,0 +1,4718 @@
+1
+1.1
+1.1
+Hydraulic Jumps
+WR L-639
+1.1
+WR L-136
+WR L-135
+WR L-l
+WR L-113
+WR L-81
+WR L-120
+WR L-153
+1.1.1
+1.1
+Cont . 
+WR A-14
+1.1
+Cont.
+WR L-154
+1.1.2
+Hydraulic Jumps
+WR L-417
+WR L-460
+1.1
+Cont . 
+WR L-457
+WR L-21
+WR L-13
+WR E-88
+WR L-123
+WR L-23
+WR L-119
+WR L-213
+Cont.
+1.1.2.1
+WR L-682
+1.1
+Cont . 
+WR L-396
+WR W-4
+WR L-44
+WR L-179
+WR L-74
+WR L-19
+WRW-1
+1.1
+Cont.
+1.1
+1.1.2.2
+WR L-269
+WR L-91
+Cont.
+1.1
+Cont . 
+1.1.2.3
+WR W-44
+WR L-713
+1.1
+Cont.
+WR L-728
+1.1
+Cont.
+An Extension
+1.1
+Cont . 
+1.1.3
+1.1
+Cont.
+Hydraulic Jumps
+WR L-322
+WR L-532
+1.1
+Cont.
+WR W-8
+WR W-107
+WR L-16
+WR W-87
+1.1.3.1.
+WR L-507
+WR L-319
+1.1
+Cont.
+WR L-661
+WR A-40
+WR L-521
+WR L-48
+1.1
+Cont . 
+215
+1. 1.3.2
+1.1
+Cont.
+WR L-507
+WR L-319
+WR W-86
+1.1
+Cont.
+215
+1.1.3.3
+WR W-94
+WR W-90
+1.1.4
+1.1
+Cont.
+L-386
+WR L-298
+WR W-94
+WR L-457
+WR W-90
+1.1.4.1
+WR A-8
+1.1.4.2
+WR L-232
+1.1
+Cont.
+WR L-609
+WRW-14
+WR L-179
+WR L-6
+1.1
+Cont.
+1.1.4.3
+WR A-40
+WR L-6
+WR E-88
+1.1.5
+1.1
+Cont.
+1.1.5.1
+1.1.5.2
+1.2
+WR L390
+1.2.1
+1.2.1.1.
+1.2
+Cont.
+1.2
+Cont . 
+WR L-345
+WR L-781
+WR W-4
+1.2
+Cont.
+WR L-136
+WR L-135
+WR L-156
+WR L-153
+1.2
+Cont.
+1.2.1.2
+1.2
+Cont.
+WR L-366
+WR L-266
+WR L-515
+1.2.1.2.1
+Lachassagne system
+1.2
+Cont.
+WR L-699
+WR L-452
+WR L- 156
+WR L-681
+WR L-29
+1.2
+Cont.
+1.2.1.2.2
+1.2
+Cont.
+WR L-451
+WR L-493
+WR L-659
+215
+WR L-140
+WR L-178
+WR L-74
+
+WR L-681
+1.2
+Cont . 
+1.2.1.2.3
+WR L-345
+WR L-677
+WR L-450
+WR L-694
+WR L-452
+1.2
+Cont.
+WR L-651
+215
+WR L-140
+WR L-156
+WR L-664
+WR L-29
+1.2
+Cont.
+1.2.1.2.4
+WR L-694
+WR L-407
+WR L-727
+1.2.1.2.5
+WR L-292
+WR L-682
+WR L-532
+WR L-319
+WR L-659
+1.2
+Cont.
+WR L-452
+420
+WR L-534
+WR L-389
+215
+WR L-521
+216
+WR A-87
+WR L-139
+WR L-752
+421
+WR L-141
+WR L-46
+WR L-159
+WR E-38
+WR L-641
+WR L-94
+WR L-91
+WR L-86
+WR L-82
+1.2
+Cont.
+WR L-151
+WR L-48
+WR L-98
+U2
+215
+1.2.1.3
+Lachassagne system
+1.2
+Cont.
+1.2
+Cont.
+WR L-451
+1.2
+Cont.
+WR L-441
+WR L-532
+WR L-377
+WR L-380
+WR L-745
+WR L-703
+WR L-678
+WR L-700
+WR L-701
+WR L-704
+WR L-288
+WR L-339
+WR L-378
+WR L-448
+1.2
+Cont.
+WR L-366
+WR L-645
+WR L-549
+420
+WR L-534
+WR L-469
+215
+WR L-436
+216
+WR A-87
+WR L-752
+21 5
+WR L-140
+WR L-266
+421
+WR L-141
+WR L-138
+WR L-178
+WR L-209
+WR L-128
+WR L-156
+WR L-515
+215
+WR L-629
+WR L-514
+WR L-47
+1.2
+Cont.
+WR L-188
+WR L-82
+WR L-746
+WR L-76
+WR L-749
+H2
+215
+216
+H2
+1.2
+Cont . 
+1.2.1.4
+WR L-301
+WR L-261
+1.2.1.4.1
+1.2
+Cont.
+WR L-377
+WR L-301
+WR L-380
+WR L-704
+WR L-366
+215
+WR W-2
+1.2
+Cont.
+H2
+1.2.1.4.2
+1.2
+Cont . 
+WR L-441
+WR L-493
+WR L-449
+WR L-769
+WR L-373
+WR L-264
+WR L-549
+WR L-415
+215
+WR L-140
+WR L-128
+1.2
+Cont.
+1.2.1.4.3
+WR L-441
+1.2
+Cont.
+WR L-264
+WR L-676
+WR L-677
+WR L-678
+WR L-701
+WR L-704
+WR L-288
+WR L-549
+WR L-662
+WR L-697
+WR L-469
+WR L-266
+WR L-7
+215
+WR A -80
+WR A -92
+1.2
+Cont.
+WR L-533
+WR L-746
+WR L-544
+WR L-727
+H2
+112
+65(216
+U2
+H2
+1.2
+Cont.
+1.2.1.4.5.
+WR L-261
+WR A -80
+1.2
+Cont.
+1.2.1.5
+WR L-704
+WR L-151
+1.2.1.5.1.
+WR L-377
+1.2
+Cont.
+WR L-301
+WR L-380
+WR L-355
+WR L-450
+WR L-454
+WR L-464
+WR L-288
+WR L-339
+WR L-378
+WR L-448
+WR L-549
+WR L-645
+WR L-577
+WR L-447
+WR L-511
+WR L-615
+WR L-662
+1.2
+Cont.
+WR L-290
+WR L-431
+WR L-314
+WR L-433
+WR L-325
+WR L-434
+WR L-494
+WR L-663
+215
+WR L-668
+WR 419
+WR L-350
+WR L-205
+WR L-651
+WR L-666
+WR L-665
+WR L-215
+1.2
+Cont.
+WR L-266
+WR L-178
+WR L-664
+215
+WR L-105
+WR L-175
+WR L-641
+WR A -11
+WR L-124
+WR L-196
+215
+WR L-172
+WR L-52
+WR L-47
+H2
+1.2
+Cont.
+1.2.1.5.2
+W. Hubner Design
+WR L-337
+WR L-641
+WR L-644
+WR L-124
+WR A -92
+1.2
+Cont.
+1.2.1.6
+1.2
+Cont.
+WR L-784
+WR L-682
+WR L-507
+WR L-532
+WR L-659
+WR L-661
+WR A -40
+WR W-8
+WR W-107
+WR L-521
+WR L-139
+WR L-46
+WR L-138
+WR L-128
+WR L-209
+WR W-87
+WR L-148
+1.2
+Cont.
+WR L-94
+WR W-l
+WR L-86
+WR L-48
+WR W-86
+WR L-119
+WR L-98
+1.2
+Cont.
+215
+1.2.1.7
+1.2
+Cont.
+Wind Tunnel Tests
+WR L-345
+WR L-632
+WR L-677
+WR L-701
+WR L-659
+1.2
+Cont . 
+WR L-694
+WR L-G61
+WR L-615
+WR L-433
+WR L-325
+420
+WR A -93
+WR L-434
+WR L-389
+216
+WR A -87
+WR L-139
+WR L-752
+421
+WR L-141
+WR L-138
+WR L-46
+WR L-128
+WR L-159
+WR L-156
+WR L-641
+1.2
+Cont.
+WR L-94
+WR L-86
+WR L-681
+WR L-82
+WR L-746
+WR L-48
+WR L-98
+H2
+H2
+1.2
+Cont.
+215
+1.2.1.8
+WR L-781
+WR L-357
+WR L-369
+1.2
+Cont.
+WR L-229
+WR L-431
+WR L-325
+216
+WR A -87
+WR L-159
+WR L-74
+WR L-514
+WR L-733
+WR L-94
+Derived
+WR L-86
+WR L-76
+WR L-98
+1.2
+Cont . 
+1.2
+Cont.
+1.2.2
+Continuation of Rept's. 93 and 124
+1.2
+Cont . 
+WR L-51
+1.2.2.1
+1.2
+Cont.
+1.2
+Cont.
+WR L-221
+WR L-271
+WR L-281
+WR A -11
+WR L-53
+1.2
+Cont . 
+An Extension
+1.2
+Cont.
+1.2
+Cont . 
+1.2.2.2
+1.2
+Cont.
+WR L-311
+WR L-164
+1.2.2.2.1
+1.2
+Cont.
+Lachassagne system
+1.2
+Cont.
+WR L-247
+WR L-391
+WR A-90
+WR A-84
+WRL-186
+WR L-51
+1.2
+Cont.
+1.2.2.2.2
+WR L-403
+1.2
+Cont.
+1.2
+Cont . 
+1.2
+Cont.
+1.2
+Cont.
+1.2
+Cont.
+1.2
+Cont.
+1.2
+Cont.
+1.2.2.2.4
+WRL-296
+1.2
+Cont.
+WR L-493
+WR L-481
+WR L-513
+WR L-228
+WR L-332
+WR L-311
+1.2
+Cont.
+1.2.2.2.5
+1.2
+Cont.
+WR L-407
+WR L-108
+1.2.2.2.6
+W. Hiibner Design
+1.2
+Cont.
+WR L-527
+WR L-639
+WRL-139
+WR L-159
+WR A-62
+WR L-94
+WR L-86
+WR L-98
+1.2
+Cont.
+1.2.2.3
+TX2.3.1
+1.2
+Cont.
+WR L-296
+1.2
+Cont.
+WR L-493
+WR L-317
+WR L-375
+WR L-421
+WRL-445
+WR L-574
+WR L-420
+WR L-376
+WR L-709
+WR L-481
+WR L-250
+1.2
+Cont.
+WR L-411
+WR L-381
+WR L-335
+WR L-425
+WR L-262
+WR L-332
+WR L-506
+WR W-6
+WR L-311
+WR L556
+WR L-563
+WR L-564
+No. 3075
+WR A -32
+WR L-164
+WR A -24
+WR L-186
+WR L-148
+1.2
+Cont.
+WR A -21
+WR L-134
+1.2
+Cont.
+1.2.2.3.2
+1.2
+Cont.
+S.T.Ae.
+WR L-574
+1.2
+Cont.
+WR A-88
+WR A-24
+1.2.2.4
+1.2
+Cont.
+WR A-65
+WR A-83
+1.2.2.4.1
+1.2
+Cont.
+WR L-317
+WR L-375
+WR L-421
+WR L-374
+WR L-481
+WR L-513
+Navy No. 2189
+WR L-228
+WR L-526
+WR A-77
+WR L-435
+WR A-66
+WR L-417
+WR L-439
+WR L-169
+1.2
+Cont.
+WR L-506
+WR A-28
+WR L-564
+WR A-84
+WR A-24
+WR L-186
+WR L-60
+WR L-31
+WR L-624
+WR L-56
+WR A-ll
+WR L-778
+WR L-170
+WR A-21
+WR A-37
+WR L-41
+WR L-270
+1.2
+Cont.
+1.2
+Cont.
+1.2.2.4.2
+WR L-375
+WR L-421
+WR L-420
+WR L-376
+WR L-250
+1.2
+Cont.
+WR A-68
+WR A-88
+WR A-28
+WR A-24
+WR A-21
+1.2.2.5
+1.2
+Cont . 
+WR L-784
+WR L-406
+WR W-6
+WR A-62
+WR A-5
+1.2
+Cont.
+1.2.2.6
+WR L-542
+WR A-65
+1.2
+Cont.
+WR A-91
+WR A-69
+WR A -77
+WR L-291
+WR A-66
+WR L-406
+WRW-6
+WR A-82
+WRA-90
+WR L-131
+WR A-24
+WR A-62
+WR A-76
+WR A-21
+WR L-170
+1.2
+Cont.
+WRA-5
+WR L-51
+WR A-75
+1.2
+Cont.
+An Extension
+1.2
+Cont.
+1.2
+Cont.
+1.2.2.7
+WR L-445
+WR L-411
+WR L-381
+WR L-335
+1.2
+Cont.
+WR L-221
+WRL-425
+WRA-91
+WR W-4
+WR L-424
+WR L-439
+WR L-639
+WR L-227
+WRL-95
+WR L-19
+WR L-107
+WR L-5
+An Extension
+1.2
+Cont.
+1.2.2.8
+WR L-532
+WR L-521
+1.3
+1.3.1
+1.3
+Cont.
+WR L-781
+1.3
+Cont.
+WR L-152
+WR L-726
+1.3
+1.3.2
+WR L-279
+WR L-462
+WR L-229
+WR L-343
+WR L-463
+WR A- 6 5
+WR A-66
+WR L-117
+WR L-152
+1.3
+Cont.
+WR L-747
+1.3.2.1
+WR L-462
+WR L-371
+1.3.2.2
+1.3
+Cont.
+WR L-462
+WR L-371
+WR L-541
+1.3.2.3
+1.3.2.4
+1.3
+Cont.
+1.3.2.5
+WR L-331
+WR L-348
+WR L-247
+WR L-581
+WR L-238
+WR L-201
+WR L-158
+WR L-108
+WR A -75
+1.3
+1.3.3
+WR L-462
+WR A- 6 5
+WR A-66
+WR L-108
+1.3.4
+WR L-491
+WR L-760
+WR E-85
+WR L-638
+1.3
+Cont.
+WR L-561
+
+WR L-728
+1.3.4.1
+WR L-279
+WR L-485
+WR L-356
+WR L-486
+WR L-243
+WR L-285
+WR L-383
+WR L-508
+WR L-748
+WR E-280
+1.3
+Cont . 
+1.3.4.2
+WR L-279
+WR L-458
+WR L-486
+1.3.4.3
+WR L-733
+1.3.4.4
+WR L-485
+WR L-108
+1.3.5
+1.3
+Cont.
+WR L-722
+WR L-674
+WR L-633
+WR L-237
+WR L-282
+WR L-230
+1.4
+WR E-114
+WR L-232
+WR L-342
+WR L-609
+WRL-341
+WR L-767
+WR L-21
+WR A-26
+WR L-23
+WR L-728
+1.4
+1.4.1
+WR L-612
+WR L-562
+WR E-280
+WR L-730
+WR L-740
+1.4.1.1
+WR L-542
+WR L-485
+WR L-300
+WR L-229
+WR L-486
+WR L-632
+WRL-207
+1.4
+Cont.
+WR L-775
+WR L-713
+WR L-729
+1.4.1.2
+WR L-356
+WR L-383
+WR L-243
+WR L-508
+WR L-285
+WR L-497
+WR L-832
+1.4
+1.4.2
+WR L-407
+WRL-775
+WR L-732
+WR L-158
+WR L-108
+WRA-1
+1.4.3
+1.4.3.1
+WR L-456
+WR L-331
+WR L-166
+WR L-275
+WR A-70
+WR L-751
+WR L-108
+1.4
+Cont.
+WR E-274
+WR A-75
+1.4.3.2
+WR A- 85
+1.4.4
+WR L-489
+WR L-300
+WR L-321
+WR L-274
+WR L-341
+WR L-438
+WR L-407
+WR L-115
+1.4
+Cont.
+WR A- 26
+WR L-23
+WR A-85
+WR E-280
+1.4.4.1
+WR L-329
+WR L-408
+WRL-486
+WR L-686
+WR A-70
+WR L-579
+WR L-208
+WR L-775
+WR L-84
+1.4
+Cont . 
+WR L-713
+WR A-85
+WR E-178
+WR E-285
+1.4.4.2
+WR E-105
+WR L-680
+1.4
+Cont.
+WR L-457
+1.4.4.3
+WR L-408
+WR W-44
+WRE-121
+WR L-6
+1.4
+Cont . 
+WR L-179
+1.4.4.4
+WR L-328
+WR L-408
+WR W-39
+WR L-208
+WR L-775
+WR L-84
+WR E-72
+WR E-266
+WR E-108
+1.4
+Cont.
+1.4.5
+WR L-300
+WR L-486
+WR L-775
+WR L-13
+WRL-158
+1.4.6
+WR E-49
+1.4
+Cont.
+WR L-680
+1.4.7
+WR L-113
+WR E-3
+WR L-635
+WR E-6
+WR E-4
+WR E-ll
+1.4
+Cont.
+1.4.7.1
+WR L-231
+WR L-776
+WR L-765
+WR L-81
+WR L-188
+1.4
+Cont.
+1.4.8
+WR L-303
+WRL-304
+WR L-243
+WRL-508
+WR L-635
+1.4
+Cont.
+1.4.9
+1.4.10
+WRL-321
+WR L-84
+1.4
+Cont.
+1.5
+1.5
+1.5.1
+1.5
+Cont . 
+1.5
+Cont.
+WRL-369
+WR L-483
+WR L-363
+WR L-753
+WR L-330
+WRL-336
+WR L-362
+WR L-146
+WR L-144
+WR L-25
+WR L-165
+WRL-126
+1.5
+Cont.
+WR L-154
+1.5.2
+WR A-27
+WRL-594
+1.5
+Cont.
+1.5.2.1
+1.5
+Cont.
+WR L-530
+WR L-568
+WR L-569
+WR L-529
+WRL-369
+WRL-404
+WR L-363
+WR L-753
+WR L-385
+WRL-304
+WR L-243
+WR L-285
+WR L-383
+WR L-508
+WR L-330
+WR L-362
+1.5
+Cont.
+WR L-26
+WR L-637
+WR L-144
+WR L-514
+WR L-582
+WR L-533
+1.5.2.2
+1.5
+Cont.
+WR W-84
+WR L-483
+WR L-384
+WR L-359
+WR L-446
+WR L-363
+WR L-753
+WR L-385
+WR L-304
+WR L-316
+WR W-100
+WR L-286
+WR L-362
+WRL-80
+WR L-637
+WR L-144
+1.5
+Cont.
+WR L-165
+WRL-634
+WRL-582
+1.5.2.3
+1.5
+Cont.
+WR W-84
+WR L-384
+WR L-359
+WR L-404
+WR L-363
+WR L-753
+WR L-316
+1.5
+Cont.
+WR L-80
+WR L-638
+WR L-634
+WR L-582
+1.5.2.4
+1.5
+Cont.
+WRL-369
+WR L-404
+WR L-363
+WR L-753
+WR W-100
+WR L-165
+WR L-582
+1.5.2.5
+1.5
+Cont.
+WR L-363
+WR L-753
+WR L-505
+WR L-177
+WR L-514
+1.5.2.6
+WRL-456
+WR L-359
+WR L-229
+1.5
+Cont.
+WRL-404
+WR L-246
+WR L-286
+WR L-299
+WR L-146
+WR A-78
+WR L-625
+WRL-148
+WR A-89
+WR L-533
+1.5.2.7
+WRL-369
+WR W-84
+WR L-483
+WR L-384
+WR L-359
+WRL-404
+WR L-385
+1.5
+Cent.
+WR L-316
+WR L-424
+WR L-330
+WR W-100
+WR L-405
+WR L-80
+WR L-625
+WR L-634
+WR A-19
+WR E-280
+1.5.2.8
+1.5
+1.5
+Cont . 
+WRW-84
+WR L-384
+WR L-359
+WR L-385
+1.5
+WR L-286
+WR L-146
+WR L-638
+WR L-25
+WR L-625
+WR L-177
+WR L-214
+WR L-675
+WR A-19
+WR L-533
+WR L-740
+1.5.2.9
+1.5
+&lt;~ont . 
+WR L-446
+WR L-505
+WRL-336
+WR L-110
+WR L-25
+WR L-126
+WR L-517
+1.5.2.10
+1.5.3
+1.5
+Cont . 
+WR L-529
+WR L-530
+WR L-568
+WR L-569
+WR L-770
+WR L-638
+WR L-177
+l.5.4
+1.5
+Cont . 
+WR L-784
+WR L-761
+1.5
+Cont . 
+WR L-709
+WR L-411
+WR L-381
+WR L-335
+WR L-246
+WR L-309
+WR L-425
+WR L-383
+WR L-243
+WR L-508
+WR L-285
+WR L-424
+WRW-6
+WR L-407
+WR L-227
+WR L-426
+WR A-43
+WR L-24
+1.5
+Cont . 
+WR L-25
+WR L-214
+WRA-1
+WR L-126
+WR L-517
+1.5.6
+1.6
+1.6.1
+1.6
+Cont . 
+1.6.2
+WR L-29
+1.6.2.1
+1.6
+Cont . 
+WR L-592
+WRL-29
+1.6
+Cont . 
+1.6.2.2
+"Autogiro"
+WR L-29
+1.7.1
+1.7.1.1.
+FC-2W2
+1.7
+Cont . 
+WR L-489
+WR L-411
+WR L-371
+WR L-335
+WR L-343
+WR L-425
+WR L-158
+1.7
+Cont.
+1.771.1.1.
+WR L-509
+1.7
+Cont.
+WR L-542
+WR L-520
+WR L-381
+WR L-660
+WR L-459
+WR L-390
+WR L-8
+WR L-17
+WR L-114
+1.7
+Cont . 
+1.7 "1.1.2.
+1.7
+Cont . 
+WR L-471
+WR L-510
+WR L-428
+WR L-229
+WR L-299
+WR L-390
+WR L-114
+1.7.1.1.3!
+1.7
+Cont.
+WR L-520
+WR L-459
+WR L-556
+WR L-108
+WR L-17
+1.7
+Cont . 
+1.7fl.l.4
+WR L-428
+WR L-220
+WR L-354
+WR L-83
+WR A-94
+WR L-191
+1.7
+Cont.
+1.7.1.1.5
+1.7.1.2
+WR L-573
+WR A-13
+WR E-274
+WR A-82
+WR E-205
+1.7
+Cont.
+WR L-272
+WR L-263
+WR L-412
+WR L-598
+WR L-599
+and Sikorsky
+WR L-722
+Navy No. 2189
+No. 3075
+WR A -32
+1.7
+Cont.
+WR L-722
+WR L-356
+WR L-547
+WR L-383
+WR L-243
+WR L-508
+WR L-285
+WR L-630
+No. 00014
+1.7
+Cont.
+WR L-736
+WR W-81
+WR L-553
+WR A-94
+WR L-751
+WR A-84
+WR L-563
+WR L-564
+WR L-625
+WR L-607
+WR L-641
+WR L-608
+WR L-170
+WR L-99
+WR E-280
+1.7
+Cont . 
+FC-2W2
+WR L-437
+WR L-397
+WR L-632
+WR L-738
+WR L-702
+WR L-516
+WR L-31
+WR L-149
+WR L-633
+WR L-683
+1.7
+Cont . 
+WR L-644
+WR A-65
+WR A-93
+WR L-681
+WR L-577
+WR L-674
+WR L-160
+WR W-106
+WR L-615
+WR A-77
+1.7
+Cont.
+WR A-70
+WR L-653
+WR L-439
+WR L-177
+WR L-594
+WR L-86
+WR L-544
+WR L-98
+1.7.1.2
+1.7
+Cont.
+Observation or Bomber
+Day Bomber
+British
+British
+British
+British
+British
+British
+
+British
+1.7
+Cont.
+British
+British
+British
+British
+British
+British
+British
+British
+British
+LA
+English
+British
+British
+British
+British
+British
+British
+British
+British
+British
+English
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+1.7
+Cont.
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+British
+WR L-565
+WR L-353
+AAF No. 43-334960
+WR L-593
+1.7.1.2
+"Jockey" Type
+1.7
+Cont.
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+1.7
+Cont . 
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+French
+1.7.1.2
+1.7
+Cont . 
+Military or Commercial
+German
+German
+German
+German
+1.7
+Cont . 
+German
+German
+German
+German
+1.7.1.2
+Commercial
+Military
+Italian
+Italian
+Italian
+1.7.1.2
+Swiss
+Roumanian
+Belgian
+Dutch
+1.7
+Cont . 
+1.7.1.3
+1.7
+Cont . 
+1.7
+Cont.
+1.7
+Cont . 
+Rundflug
+WR E-49
+WR L-245
+WR L-670
+1.7
+Cont.
+WR L-343
+WR L-425
+WR L-291
+WR L-223
+WR L-525
+WR L-556
+WR L-160
+WR L-88
+WR L-78
+1.7.2
+1.7
+Cont . 
+1.7.2.1
+1.7.2.1.2
+1.7.2.1.3
+WR L-213
+1.7.2.2
+WR L-131
+1.7.3
+1.7.3.1
+1.7
+Cont . 
+"Autogiro"
+British
+1.7.3.2
+Translated by Paris Office, NACA
+1.7
+Cont.
+WR L-452
+WR L-110
+WR L-643
+WR W-49
+Army YR-4B
+WR L-595
+WR L-592
+Army YR-4B
+WR L-596
+WR L-545
+WR L-126
+WR L-283
+WR L-9
+WR L-101
+WR L-29
+WR L-97
+WR L-749
+1.7
+Cont.
+1.7.4
+WR L-230
+1.7.4.1
+1.7
+Cont.
+1.7.4.2
+Observation or Bomber
+Military or Commercial
+British
+French
+British
+German
+French
+British
+1.7
+Cont.
+French
+French
+French
+French
+French
+British
+French
+British
+British
+WR L-475
+WR L-235
+WRL-618
+WR L-162
+1.7.5
+Pt. n
+1.7
+Cont . 
+
+1.7
+Cont . 
+WR A-4
+1.7.6
+1.7
+Cont . 
+1.8
+WR L-336
+WR L-131
+WR L-735
+1.8.1
+1.8
+Cont.
+WR L-25
+WR L-608
+1.8.1.1
+WRL-710
+WR A-31
+WR L-25
+WR A-6
+WR A-78
+WR A-74
+1.8
+Cont . 
+WR A-19
+WR A-89
+1.871.1.1
+1.8
+Cont.
+WR L-375
+WR L-543
+WR L-707
+WR L-709
+WR L-263
+WR L-446
+WR L-288
+1.8
+Cont . 
+WR L-392
+WR L-411
+WR L-381
+WR L-335
+WR A-65
+WR L-440
+WR L-425
+WR L-309
+WR A-91
+WR L-627
+WR L-642
+WR L-220
+WR L-295
+WR A-73
+WR A-69
+WR A-77
+WR L-344
+WR A-93
+WA A-28
+1.8
+Cont.
+WR L-628
+WR A-82
+WRA-90
+WR L-251
+WR L-133
+WR L-142
+WR A-94
+WR L-667
+WR A-43
+WR L-55
+WR L-24
+WR A-84
+WR L-95
+WR L-164
+WR L-515
+WR A-78
+AAF No. 41-39120
+WR L-605
+WR L-626
+1.8
+Cont . 
+WR L-50
+WR L-45
+WR L-30
+WR L-116
+WR L-89
+WR A-86
+WR L-785
+WR A -76
+WR L-675
+WR L-541
+WR L-15
+WR L-538
+WR L-42
+WR L-195
+WR A-89
+WR A-31
+WR A-2
+WR L-738
+WR L-199
+1.8
+Cont.
+WR L-210
+WR L-531
+WR A-75
+WR L-589
+1.8
+Cont.
+1.8
+Cont . 
+1.8.1.1.2
+1.8
+Cont.
+WR L-375
+WR L-520
+WR L-446
+WR L-250
+WR A-68
+WR L-465
+WR L-228
+WR L-403
+WR A-73
+WR A-88
+WR L-627
+WR L-642
+WR L-295
+WR A-77
+WR L-417
+WR L-459
+1.8
+Cont.
+WR L-779
+WR A-79
+WR A-93
+WRL-354
+WR A-28
+WR L-628
+WR L-133
+WR L-83
+WR L-12
+WR A -43
+WR L-787
+WR A-84
+WRL-563
+WR L-564
+WR L-626
+WR L-50
+1.8
+Cont.
+WR L-716
+WR L-8
+WR L-17
+WR L-786
+WR L-4
+WR L-15
+WR A-71
+WR L-54
+WR L-199
+WR L-531
+1.8
+Cont . 
+1.8
+Cont . 
+1.8.1.1.3
+1.8
+Cont . 
+WR L-543
+WR L-465
+WR L-403
+WR A-73
+WR L-627
+WR L-295
+WR L-397
+WR L-779
+WR L-354
+WR L-628
+WR L-133
+WR L-83
+WR A -4 3
+WR A-94
+WR L-787
+WR A -78
+WR L-191
+1.8
+Cont.
+WR L-50
+WR L-716
+BuAer No. 04776
+WR L-786
+WR A-71
+WR L-15
+WR A-89
+WR L-109
+WR L-199
+WR L-531
+1.8
+Cont . 
+1.8
+Cont.
+1.8.1.2
+1 Parts
+1.6?1.2.1
+1.8
+Cont.
+WR L-263
+WR L-444
+Part I
+WR L-559
+WR L-309
+WR L-559
+WR L-496
+WR L-220
+WR L-498
+WR L-412
+WR L-598
+1.8
+Cont . 
+WR L-28
+WR L-55
+WR L-599
+WR L-25
+WR A-6
+WR L-605
+WR L-50
+WR L-715
+WR L-89
+AAF No. 43-334960
+WR L-614
+WR L-42
+WR L-611
+WR L-738
+WR L-199
+WR L-210
+WR L-531
+1.8
+Cont . 
+1.8.1.2.2
+1.8
+Cont . 
+WR L-347
+WR L-302
+WR L-465
+WR A-68
+WR L-559
+WR L-547
+WR L-403
+Cont . 
+WR A-88
+WR L-487
+WR L-498
+WR L-387
+WR L-522
+WR L-412
+WR L-397
+WR A-79
+WR L-372
+WR L-598
+1.8
+WR A-28
+WR L-227
+WR L-28
+WR L-25
+WR L-184
+WR L-50
+WR L-716
+AAF No. 43-334960
+WR L-593
+1.8
+Cont . 
+WR L-125
+WR L-590
+WR L-54
+WR L-103
+WR L-199
+1.8
+Cont . 
+1.8.1.2.3
+1.8
+Cont.
+WR L-228
+WR L-387
+WR L-395
+WR L-55
+WR L-184
+WRL-53
+1.8
+Cont . 
+1.8
+Cont.
+1.8.2
+WR L-377
+WR L-380
+WR L-339
+WR L-378
+1.8
+Cont.
+WR L-448
+WR L-351
+WR L-168
+WR L-366
+WR L-100
+WR A- 31
+WR L-186
+WR A-78
+WR L-608
+WR A- 19
+WR L-102
+WR A-89
+1.8.2.1
+1.8
+Cont.
+WRL-573
+WR L-707
+WR L-301
+WR L-355
+WRL-248
+1.8
+Cont . 
+WR L-464
+WR L-709
+WR L-263
+WR W-81
+WR L-454
+WR L-392
+WR L-411
+WR L-381
+WR L-335
+WR A- 6 5
+WR L-422
+WR L-577
+WR L-425
+WR A-91
+WR L-391
+WR L-642
+1.8
+Cont.
+WR L-447
+WR L-496
+WRL-511
+WR A- 69
+WRL-702
+WR A- 77
+WR A-66
+WR L-169
+WR L-290
+WR L-314
+WR L-344
+WRL-598
+WR L-663
+WR L-628
+WR A-82
+WR A-90
+WR L-350
+WR L-205
+WR L-666
+1.8
+Cont . 
+WR A- 94
+WR L-665
+WR L-142
+WR L-667
+WR L-129
+WR L-215
+WR L-599
+WR L-24
+WR (A- 84
+WR L-95
+WR A- 6
+WR L-60
+WR L-605
+WR L-626
+WR L-30
+WR L-50
+WR L-45
+WR L-715
+WR L-175
+1.8
+Cont . 
+WR L-89
+WR L-124
+WR A- 11
+WR A-86
+WR L-778
+WR A-76
+WR L-785
+WR L-170
+WR L-541
+WR L-196
+WR L-260
+WR L-174
+WR L-85
+WR L-195
+WR L-611
+WR A-2
+WR A-72
+WR L-210
+1.8
+Cont.
+WR L-41
+WR L-199
+WR L-531
+WR L-730
+1.8
+Cont.
+1.8.2.2
+1.8
+Cont.
+1.8
+Cont . 
+1.8
+Cont.
+WR L-317
+WRL-375
+WRL-337
+WR L-365
+WRL-420
+WR L-703
+WRL-745
+WRL-374
+WRL-376
+WR L-480
+WR L-302
+WR L-437
+WR L-464
+WR L-242
+WR W-81
+A. C. No. 41-38
+WR L-346
+WR L-454
+1.8
+Cont . 
+WR L-250
+WR L-288
+WR L-481
+WR L-465
+WR L-513
+WR A-68
+WRL-645
+WR L-228
+WR L-440
+WR L-597
+WR L-467
+WR L-642
+WR L-470
+WR L-511
+WR L-526
+WR L-262
+WR L-435
+1.8
+Cont . 
+WR L-249
+WR L-431
+WR L-432
+WRL-314
+WR A-79
+WR L-433
+WR L-506
+WR L-325
+WR L-494
+WR L-434
+WR A-28
+AAF No. 41-38
+WRL-281
+WR L-663
+WR L-272
+1.8
+Cont.
+WR L-628
+WR L-318
+WRL-525
+WR L-419
+WR L-350
+WR L-133
+No. 0014
+WRL-651
+WR L-666
+WRL-65
+WR L-289
+WRL-171
+WR L-665
+WR L-215
+WR L-266
+WR L-787
+No. 3075
+WR A-32
+WR A-84
+WR L-564
+WR L-31
+WR L-626
+1.8
+Cont . 
+WR L-649
+WR L-50
+21 5
+WR L-105
+WRL-716
+WR L-624
+WRL-124
+WRL-56
+WR L-149
+WR L-644
+WR A-21
+WR L-786
+215
+WR L-172
+WR A-37
+WR L-174
+WR L-47
+WR L-40
+WR L-194
+WR A-2
+1.8
+Cont.
+WR L-199
+WR L-531
+1.8
+Cont . 
+1.8
+Cont . 
+1.8.2.3
+WR L-301
+WR L-355
+WR L-365
+WRL-420
+1.8
+Cont.
+WR L-464
+WR W-81
+WR L-454
+WR L-642
+WR L-447
+WR L-511
+WR L-290
+WR L-169
+WR L-397
+WR L-779
+WRL-314
+WR L-663
+WRL-598
+WRL-350
+WRL-516
+WR L-133
+WR L-205
+WR L-666
+WR L-665
+1.8
+Cont.
+WR L-215
+WR A-94
+WR L-787
+WR L-92
+WR L-184
+WR L-716
+BuAer No. 04776
+WR L-196
+WR L-786
+WR L-174
+WR L-40
+WRL-109
+WR L-41
+WR L-531
+WR L-736
+1.8
+Cont.
+1.8.2.4
+W. Hubner Design
+1.8
+Cont.
+WR L-414
+WR A-27
+WR L-634
+WR L-56
+WR A-19
+1.8.2.5
+1.8
+Cont . 
+WR L-317
+WR L-337
+WR L-375
+WR L-377
+WR L-380
+WR L-301
+WR L-355
+WRL-420
+WR L-374
+WR L-376
+WR L-379
+1.8
+Cont . 
+WR L-464
+WR L-701
+WR L- 4 54
+WR L-250
+WR L-378
+WRL-411
+WR L-448
+WR L-481
+WR L-366
+WR L-513
+WR L-645
+WR L-228
+WR L-422
+WR L-391
+WR A-91
+1.8
+WR L-447
+WR L-470
+WR L-511
+WR L-526
+WR L-702
+WR L-262
+WR L-435
+WR L-249
+WR L-169
+WR L-431
+WR L-432
+WR L-506
+WR L-325
+WR L-494
+WR L-281
+WR L-663
+1.8
+Cont . 
+215
+WR L-668
+WR L-419
+WR L-318
+WR L-350
+WR L-205
+WR L-666
+WR L-665
+WR L-289
+WR L-667
+WR L-215
+WR L-787
+WR L-564
+WR A- 84
+WR L-186
+WR L-60
+WR L-31
+WR A-83
+1.8
+Cont.
+WR L-649
+WR L-45
+215
+WR L-105
+WR L-30
+WR L-175
+BuAer No. 04776
+WR L-718
+WR L-644
+WR L-124
+WR L-719
+WR A- 11
+WR L-56
+WR L-lll
+WR L-170
+WR L-196
+215
+WR L-172
+WR L-786
+WR L-53
+WR L-174
+WR L-47
+1.8
+WR A-2
+WR L-76
+WR L-41
+WR L-736
+1.8
+Cont.
+1.8
+Cont.
+1.8.2.6
+1.8.3
+1.8
+Cont . 
+1.8
+Cont . 
+WR L-379
+WR L-461
+WR L-721
+WR L-168
+WR L-422
+WR L-391
+WR L-504
+WR L-222
+WR L-370
+WR L-628
+WR L-739
+1.8
+Cont . 
+WR L-96
+WR L-601
+WR L-22
+WR L-650
+WR L-738
+WR L-38
+WR L-267
+1.8
+1.8.4
+WR L-296
+WR L-247
+WR L-248
+WR L-565
+1.8
+Cont.
+WR L-547
+WR L-627
+WR L-271
+WRW-6
+No. 00014
+WR L-667
+WR L-601
+AAFNo. 41-39120
+WR L-607
+BuAer No. 04776
+WR L-717
+WR L-624
+WR L-50
+WR L-785
+WR A-5
+WR L-538
+WR L-42
+1.8
+Cont.
+WR L-531
+1.8
+Cont.
+1.8
+Cont . 
+WR L-347
+WR L-248
+WR L-480
+WR L-302
+WR L-437
+WR L-565
+WR L-263
+WR L-242
+WR W-81
+1.8
+Cont.
+AC No. 41-38
+WR L-392
+WR L-481
+WR L-334
+WR A-68
+WR L-335
+WR L-465
+AC No. 41-38
+WR L-597
+WR L-309
+No. 2189
+WR A-88
+WR L-496
+WR L-220
+AAF No. 41-38
+WR L-487
+WR L-249
+1.8
+Cont . 
+WR W-101
+WR L-397
+WR L-522
+WR L-412
+WR A -93
+AAF No. 41-28378.
+WR L-344
+WR A-93
+AAF No. 41-38
+WR L-272
+WR L-598
+WR L-525
+No. 00014
+WR L-65
+WR L-55
+WR A -94
+WR L-599
+WR L-24
+1.8
+Cont . 
+WR L-95
+WR L-25
+WR A -6
+WR L-601
+WR L-92
+WR A -78
+AAF No. 41-39120
+WR L-605
+WR L-50
+BuAer No. 04776
+WR L-715
+WR L-89
+WR L-608
+WR A -86
+WR L-719
+WR L-608
+WR L-149
+AAF No. 43-334960
+WR L-593
+AAF No. 43-334960
+WR L-614
+WR L-15
+1.8
+Cont.
+WR A-71
+WR L-590
+WR L-87
+WR L-102
+WR L-42
+WR L-611
+WR L-40
+WR L-194
+WR L-54
+WR L-199
+WR L-210
+WR L-103
+WR L-270
+1.8
+Cont . 
+1.8.6
+1.9
+WR L-30
+WR L-78
+WR L-759
+1.9.1
+1.9
+Cont.
+WR L-399
+WR L-390
+WR L-182
+
+WR L-107
+WR L-76
+1.9
+Cont.
+1.9.1.1
+1.9
+Cont . 
+1.9
+Cont.
+WR L-682
+WR L-229
+WR L-221
+WR L-417
+WR W-6
+WR L-436
+WR L-266
+WR L-732
+WR A-5
+1.9
+Cont.
+WR L-51
+216
+An Extension
+1.9
+Cont.
+1.9.1.2
+WR L-443
+1.9
+Cont.
+WR L-577
+WR L-417
+WRA-62
+WR A-5
+WR L-193
+WR L-270
+1.9.1.3
+England
+1.9
+Cont.
+WR L-540
+WR L-418
+WR L-484
+WR L-555
+WR L-453
+WR L-539
+WR L-36
+WR L-121
+WR L-73
+1.9
+Cont . 
+WR L-72
+WR L-10
+WR L-723
+1.9
+Cont.
+1.9.2
+WR L-lll
+1.9.2.1
+WR L-424
+WR L-439
+WR L-630
+WR L-426
+1.9
+Cont . 
+WR L-601
+1.9.2.2
+WR L-443
+WR A-81
+1.9
+Cont.
+WR L-181
+WR L-269
+WR L-601
+AAF No. 42-68889
+WR L-193
+1.9.2.3
+England
+WR L-540
+WR L-548
+1.9
+Cont.
+WR L-625
+WR L-656
+1.9.3
+WR L-542
+WR L-485
+WR L-462
+WR L-229
+1.9
+Cont . 
+WR L-486
+WR L-502
+WR L-463
+WR L-630
+WR L-201
+WR L-579
+WR L-117
+1.9
+1.9.4
+1.9.5
+1.10
+1.10.1
+1.10
+Cont . 
+WR L-657
+WR L-742
+WR L-413
+1.10.2
+1.10
+Cont.
+WRL-19
+1.10.2.1
+WR L-653
+WR L-654
+WR L-679
+1.10.2.2
+1.10.3
+WR A-70
+WR L-743
+1.10.4
+WR L-784
+1.10
+Cont . 
+WR L-327
+WR L-405
+WR L-146
+WR L-161
+1.10.5
+WR L-308
+WR L-312
+WR L-692
+1.11
+2
+2.1
+WR L-610
+2.1
+WR W-65
+WR W-70
+WRW-72
+2.2
+WR L -4 68
+WR W-41
+WR L-400
+WR W-67
+WR L-167
+WR W-65
+WR L-756
+2.2
+WR L-282
+W-58
+WR W-104
+2.3
+WR W-68
+WR L-230
+2.3J
+WR L-358
+WR L-410
+WR W-71
+WR W-105
+WR W-72
+WR L-162
+2.3
+Cont.
+WR L-79
+WR L-764
+WR L-763
+2.3.2
+WR L-610
+WR L-468
+WR L-305
+WR L-306
+WR W-69
+WR W-71
+2.3
+Cont . 
+WR L-211
+WR W-72
+WR L-79
+2.3.3
+2.3
+Cont . 
+WR L-468
+Hook
+WR L-518
+WR L-237
+WR L-688
+WR L-167
+WR L-333
+WR L-236
+WR L-234
+W-58
+WR L-567
+WR L-150
+WR L-79
+WR L-684
+WR W-104
+2.3
+Cont.
+2.3.4
+WR L-468
+WR L-305
+WR W-41
+WR L-400
+WR W-67
+WR L-167
+WR W-71
+WR L-683
+2.3
+Cont . 
+W-58
+WR L-567
+WR L-162
+WR L-684
+WR W-104
+2.3.5
+2.3
+Cont.
+WR L-468
+WR L-616
+WR L-518
+WR W-41
+WR W-67
+WR L-410
+WR W-71
+WR L-211
+WR L-567
+WR L-162
+2.3
+Con t . 
+WR L-70
+WR L-69
+WR L-68
+2.3.6
+WR L-616
+WR L-162
+WR L-79
+2.3
+Cont . 
+2.4
+British
+2.4
+WR L-577
+2.4
+WR L-585
+WR L-616
+WR W-41
+WR L-674
+WR L-687
+WR L-688
+WR W-96
+WR W-69
+WR W-71
+WR L-683
+WR L-567
+WR L-162
+WR L-230
+WR L-762
+WR L-684
+WR L-763
+2.5
+2.5.1
+WR L-724
+2.6
+WR L-479
+WR L-349
+WR W-70
+2.7
+WR L-766
+WR L-758
+WR L-757
+WR L-756
+WR L-725
+WR L-724
+WR L-230
+2.8
+WR W-92
+WR L-211
+WR L-70
+WR L-69
+WR L-68
+WR W-106
+2.8
+2.9
+WR L-584
+WR L-619
+WR L-623
+WR L-648
+WR L-618
+WR L-647
+WR L-621
+WR L-620
+WR L-646
+Army A -25
+WR L-622
+WR L-617
+2.10
+WR L-756
+WR L-230
+2.10.1
+WR L-475
+WR L-479
+WR L-610
+WR L-468
+WR L-616
+Hook
+WR L-518
+WR L-235
+WR L-687
+2.10
+Cont . 
+WR L-688
+WR W-67
+WR L-306
+WR W-65
+WR W-68
+WR W-96
+WR L-333
+WR L-234
+WR W-105
+W-58
+WR L-567
+WR W-57
+WR L-150
+WR L-762
+WR L-684
+WR W-104
+2.10
+Cont.
+2.10.2
+WR L-468
+2.10.3
+WR W-66
+2.11
+WR L-756
+3
+3.1
+3.1.1
+3.1
+Cont . 
+WR L-428
+WR E-81
+WR L-658
+WR L-672
+WR E-63
+3.1
+Cont . 
+WR L-592
+WR E-199
+WR E-28
+3.1.1.1
+Cont'd
+Cont'd
+Cont'd
+3.1
+Cont.
+Supercharged Engines
+WR E-52
+3.1
+Cont.
+WR E-120
+WR E-116
+WR E-147
+WR E-22
+WR E-87
+WR E-60
+WR E-254
+WR E-100
+WR W-50
+WR E-198
+WR E-199
+WR E-260
+WR E -43
+WR E-268
+WR E-45
+WR E-146
+3.1
+Cont . 
+DIESEL
+3.1.1.2
+3.1
+Cont.
+3.1
+Cont . 
+3.1
+Cont.
+WR E-31
+WR E-234
+3.1.2
+3.1.2.1
+WR E -135
+WR E-172
+WR E-234
+3.1.2.2
+WR E-105
+3.1
+Cont . 
+WR L-680
+WR E-120
+WR E-116
+WR E-147
+WR E-31
+WR E-234
+3.1
+Cont.
+3.1.2.3
+WR E-31
+WR E-234
+3.1.3
+WR E-265
+WR E-274
+WR A -85
+WR E-241
+3.1
+Cont . 
+3.1.4
+3.1.5
+3.1.6
+WR E-243
+WR E-258
+3.1
+Cont.
+WR E-269
+WR E-270
+WR E-279
+WR E-283
+3.1.7
+WR L-714
+3.1.8
+WR E-78
+3.1
+Cont.
+3.1.9
+3.1.10
+WR E-49
+WR E -116
+WR L-714
+3.1.11
+3.1
+Cont.
+WR E-212
+WR E-27
+3.2
+WR L-775
+WR E-6
+WR E-4
+3.2.1
+3.2
+Cont . 
+3.2
+Cont . 
+WR E-52
+3.2
+Cont . 
+WR E-99
+WR W-97
+WR E-137
+WR E-120
+WR L-338
+WR L-200
+WR E-87
+WR L-773
+WR L-774
+WR E-72
+WR W-50
+WR E-61
+WR E-3
+WR L-592
+WR E-189
+WR E-179
+WR E-73
+WR E-266
+WR E-108
+WR E-47
+3.2
+Cont . 
+WR E-172
+WR E-173
+WR E-282
+WR E-284
+3.2.1.1
+3.2
+Cont.
+WR E-192
+WR E-202
+WR E-200
+WR E-193
+3.2.1.2
+3.2
+Cont . 
+3.2
+Cont . 
+WR E-55
+WR E-12
+WR E-100
+WR E-202
+WR E-200
+WR E-193
+WR E-268
+WR E-174
+3.2.1.3
+3.2
+Cont , 
+3.2
+Cont.
+WR E-50
+3.2
+Cont . 
+WR L-768
+WR W-97
+WR L-338
+WR E-12
+WR E-18
+WR E-15
+WR E-171
+WRE-174
+WR E-175
+WR E-278
+WR E-284
+3.2.1.4
+3.2
+Cont.
+WR E-267
+WR E-96
+3.2.2
+WR E-265
+3.2.2.1
+3.2.2.2
+3.2
+3.2.3
+WR E-283
+3.2.3.1
+3.2.4
+3.2.4.1
+3.2.4.2
+3.3
+WR E-49
+3.3.1
+WR E-21
+WR E-244
+3.3.2
+WR E-265
+3.3.2.1
+3.3.2.2
+3.4
+WR E-168
+WR E-154
+WRE-155
+WR E-158
+WR E-160
+WR E-117
+WR E-161
+WR E-162
+WR E-163
+WR E-226
+WR E-259
+WR E-190
+WR E-166
+WR E-190
+3.4
+3.4.1
+WR W-77
+3.4.2
+WR W-77
+WR E-153
+WR E-154
+WR E-155
+WR E-161
+WR E-162
+WR E-214
+3.4
+Cont.
+WR E-163
+WR E-87
+WR E-164
+WR E-246
+WR E-185
+WR E-186
+WR E-115
+WR E-113
+WR E-89
+WR E-166
+WR E-185
+WR E-167
+WR E-69
+WR E-68
+WR E-lll
+3.4
+Cont.
+WR E-221
+3.4.3
+3.4
+Cont . 
+WR E-120
+WR E-242
+WR E-215
+WR E-36
+WR E-247
+WR E-100
+WR E-253
+WR E-189
+WR E-43
+WR E-261
+WR E-262
+WR E-263
+WR E-272
+WR E-208
+WR E-132
+WR E-221
+3.4
+Cont.
+3.4.3.1
+WR L-338
+WR E-174
+3.4.3.1.1
+edited by W. S. James
+For Aircraft Engines
+3.4
+Cont.
+WR E-168
+WR E-84
+WR E-53
+WR E-119
+WR E-99
+WR W-32
+WR E-142
+WR E-223
+WR E-134
+WR E-133
+WR E-159
+WR E-124
+WR E-148
+WR E-242
+WR E-33
+WR E-162
+WR E-149
+3.4
+Cont . 
+WR E-213
+WR E-214
+WR E-55
+WR E-95
+WR E-24
+WR E-244
+WR E-87
+WR E-225
+WR E-94
+WR E-245
+WR E-93
+WR E-226
+WR E-246
+WR E-92
+WR E-152
+WR E-58
+WR E-228
+WR E-207
+WR E-229
+3.4
+Cont.
+WR E-251
+WR E-252
+WR E-115
+WR E-165
+WR E-257
+WR E-180
+WR E-259
+WR E-199
+WR E-260
+WR E-151
+WR E-264
+WR E-271
+WR E -272
+WR E-219
+WR E-112
+WR E-220
+3.4
+Cont.
+WR E-183
+WR E-109
+WR E-276
+WR E-236
+WR E-222
+Diesel
+3.4.3.1.2
+3.4
+Diesel
+Cont.
+3.4.3.2
+INCLUDES FUEL AND OXIDANT
+3.4.3.3
+3.5
+WR E-190
+3.5.1
+3.5
+Cont.
+WR E-62
+3.5
+Cont . 
+3.5.1.2
+3.5.1.3
+WR E-276
+3.5.1.4
+WR E-87
+WR E-257
+3.5.1.6
+3.5.2
+3.5
+Cont.
+WR E-121
+WR L-179
+WR E-39
+WR E-179
+3.5.2.1
+3.5
+Cont . 
+WR L-338
+3.5.2.1.1
+3.5
+Cont . 
+WR E-53
+WR W-32
+WR E-120
+3.5
+Cont . 
+WR E-134
+WR E-129
+WR E-244
+WR E-36
+WR E-94
+WR E-72
+WR E-37
+WR E-257
+WR E-198
+WR E-268
+WR E-181
+WR E-132
+WR E-276
+July 1943
+3.5
+Diesel
+3.5.2.1.2
+3.5
+Diesel 
+3.5.2.2
+WR L-278
+July 1943
+3.5.2.3
+July 1943
+3.5
+3.5.2.5
+WRE-49
+3.5.2.4
+WR L-714
+3.6
+WR E-13
+WR E-277
+3.6.1
+WR L-765
+3.6.1.1
+WR L-455
+WR L-304
+3.6
+Cont.
+WR L-243
+WR L-508
+WR E-5
+WR L-635
+WR L-188
+
+3.6
+Cont . 
+3.6.1.2
+WR E-3
+WR E-266
+WR E-6
+WR E-ll
+WR E-4
+3.6
+Cont . 
+WR E-2
+WR E-278
+WR E-285
+3.6.1.3
+WR E-197
+WR E-203
+WR E-4
+WR E-ll
+WR E-9
+3.6
+Cont.
+3.6.1.4
+3.6.2
+WR E-4
+WR E-277
+3.6
+Cont . 
+3.6.3
+WR E-6
+WR E-4
+WR E-9
+WR E-13
+3.7
+3.7.1
+WR E-23
+WR L-21
+3.7.1.1
+3.7
+Cont.
+WR E-218
+WR E-233
+WR E-232
+WR L-188
+WR E-209
+3.7.1.2
+3.7.1.3
+WR E-281
+3.7.2
+3.7
+Cont.
+3.7.3
+3.7.4
+3.8
+WRE-157
+WR E-158
+WR E-160
+3.8.1
+WR E-157
+WR E-158
+WR E-160
+WR E-123
+3.8.1.1
+WR E-126
+WR E-70
+WR E-25
+3.8
+Cont . 
+3.8.1.2
+WRE-156
+WR E-143
+WR W-52
+WR E-29
+WR E-144
+WR E-76
+3.8
+Cont.
+3.8.1.3
+WR E-126
+WR E-124
+WR E-54
+WR W-54
+WR E-107
+WR W-47
+WR E-29
+WR E-144
+WR E-145
+WR E-59
+WR E-25
+WR E-28
+3.8
+Cont.
+WR E-76
+3.8.2
+WR E-107
+3.8.2.1
+WR W-54
+3.8
+Cont . 
+WR E-26
+WR E-67
+WR E-46
+3.8.2.2
+WR E-126
+WR E-143
+WR E-54
+WR E-70
+WR W-47
+WR E-29
+WR E-74
+WR E-144
+WR E-145
+WR E-75
+WR E-44
+3.8
+Cont.
+WR E-25
+WR E-28
+WR E-76
+3.8.2.3
+3.8.3
+3.8.3.1
+3.8.4
+3.8.4.1
+3.8.5
+WR E-157
+3.8
+Cont.
+WR E-158
+WR E-160
+3.8.6
+WR E-182
+WR W-54
+WR E-57
+3.9
+WR E-196
+WR E-195
+WR E-204
+WR E-81
+WR W-10
+WR W-ll
+WR W-13
+WR W-14
+3.9
+WR E-127
+WR E-34
+WR E-65
+WR E-110
+WR E-132
+3.9.1
+WR L-232
+WR L-491
+WR L-427
+WR E-103
+3.9
+Cont . 
+WR W-23
+WR L-609
+WR L-744
+WR L-298
+WR L-239
+WR E-60
+WR E-88
+WR W-108
+WR E-101
+WR L-782
+WR E-136
+WR E-25
+3.9
+Cont.
+3.9.2
+WR L-329
+WR L-232
+3.9
+Cont . 
+WR L-491
+WR L-427
+WR W-9
+WRW-12
+WR W-98
+WR L-609
+WR W-20
+WR W-16
+WR W-17
+WR L-341
+WR W-18
+WR L-239
+WR W-19
+WR A-23
+WR W-21
+WR A-46
+WR A- 29
+WR W-22
+WR L-208
+3.9
+Cont.
+WR W-24
+WR W-25
+WR E-97
+WR W-30
+WR A-28
+WR W-27
+WR W-26
+WRW-29
+WRW-88
+WR A-26
+WRW-95
+WR A-30
+3.9
+Cont . 
+3.9.2.1
+3.9
+Cont . 
+WR L-233
+WR L-342
+3.9.2.2
+WR E-141
+WR E-106
+WR E-82
+WR L-408
+WR E-102
+WR L-360
+WR E-104
+WR L-287
+WR L-774
+3.9.2.3
+WR L-705
+3.9.2.4
+3.9
+Cont.
+3.9.2.5
+WR L-3
+3.10
+WR L-321
+WR L-341
+WR L-407
+WR L-115
+3.10.1
+WR L-471
+WR L-542
+3.10
+Cont . 
+WR L-485
+WR L-300
+WR L-342
+WR L-491
+WR L-570
+WR L-360
+WR L-386
+WR E-134
+WR E-117
+WR E-16
+WR L-208
+WR E-34
+WR E-35
+WR E-24
+WR E-95
+WR L-130
+WR L-771
+WR L-775
+3.10
+Cont . 
+WR E-36
+WR E-91
+WR E-228
+WR L-685
+WR W-108
+WR E-61
+WR E-189
+WR E-202
+WR E-200
+WR E-268
+WR L-3
+WR E-45
+WR E-110
+3.10.1.1
+WR L-6
+WR L-773
+3.10
+Cont . 
+WR L-782
+WR E-198
+WR E-125
+WR E-146
+3.10.1.2
+3.10
+Cont.
+3.10
+Cont . 
+WR L-478
+WR L-279
+WR E- 196
+WR E-195
+WR E-204
+WR E-80
+WR L-24
+WR L-356
+WR L-229
+WR L-455
+WR E-103
+3.10
+Cont.
+WR L-689
+WR L-612
+WR L-383
+WR L-243
+WR L-508
+WR L-285
+WR L-686
+WR L-640
+WR L-767
+WR L-338
+WR E-127
+WR E-169
+WR E-85
+WR E-224
+3.10
+Cont.
+WR L-632
+WR L-579
+WR L-137
+WR L-705
+WR L-776
+WR L-207
+WR L-772
+WR L-638
+WR E-60
+WR E-42
+WR E-100
+WR E-255
+WR E-201
+WR E-264
+WR E-65
+WR E-219
+WR E-271
+WR E-272
+WR E-47
+3.10
+Cont.
+WR L-754
+WR E-19
+WR E-280
+WR E-254
+WR E-20
+WR E-256
+3.10.2
+WR L-774
+3.11
+WR E-51
+WR L-474
+WR W-9
+WR W-13
+WR E-23
+WR L-21
+WR W-22
+4
+4.1
+4.1.1
+4.1.2
+4.1
+Con t . 
+4.1.3
+4.1
+Cont . 
+WR L-256
+WR L-333
+4.1
+Cont.
+WR L-429
+WR L-198
+WR L-268
+WRL-180
+WR L-190
+WR L-20
+WR L-173
+WR L-32
+WR L-33
+WR L-284
+4.2
+An Attempt at Standardization
+4.2
+WR L-501
+4.2
+WR L-34
+4.3
+4.3.1
+4.3.1.1
+4.3
+Cont.
+WR L-402
+WR L-466
+WR L-429
+WR L-476
+4.3
+Cont.
+WR L-340
+WR L-398
+WR L-268
+WR L-190
+WR L-20
+WR L-173
+WR L-32
+WR L-33
+WR L-104
+WR L-224
+WR L-49
+WR L-284
+4.3
+Cont . 
+4.3.1.2
+4.3
+Cont.
+WR W-33
+WR L-399
+WR L-402
+WR L-323
+WR L-401
+WR L-500
+WR L-368
+WR L-588
+WR L-482
+WR L-310
+WR L-499
+WR L-587
+WR L-512
+WR L-64
+4.3
+Cont.
+WR L-62
+WR L-204
+WR L-61
+WR L-59
+WRL-192
+WR L-ll
+WR L-44
+4.3
+Cont.
+4.3.2
+4.3.2.1
+WR L-557
+WR L-253
+4.3.2.2
+WR L-690
+WR L-258
+WR L-527
+WR L-416
+WR L-389
+4.3
+Cont . 
+WR L-259
+WR L-280
+WR W-51
+WRL-58
+WR L-57
+4.4
+4.4
+WR L-367
+WR L-524
+WR L-586
+WR L-27
+WR L-34
+WR L-104
+4.4
+4.4.1
+4.4
+WR W-33
+WR L-253
+WR L-307
+WR L-352
+WR L-401
+WR L-324
+WR L-310
+WR L-482
+4.4
+Cont.
+WR L-37
+WR L-14
+WR L-59
+WR L-ll
+WR L-106
+WR L-2
+4.4.2
+4.5
+WR L-389
+4.5.1
+4.5.1.1
+4.5
+Cont . 
+WR L-442
+4.5
+Cont . 
+WR W-89
+WR L-67
+WR L-66
+4.5
+Cont . 
+4.5.1.2
+4.5.2
+WR L-501
+4.5
+Con t . 
+WR L-352
+WR L-37
+4.6
+4.6.1
+WR L-297
+4.6.2
+4.6
+Cont . 
+WR W-79
+WR L-294
+WR L-252
+WR L-315
+WR L-523
+WR L-393
+WR L-519
+WR L-495
+WR L-297
+WR L-293
+WR W-55
+4.6
+Cont . 
+WR L-176
+WR L-61
+WR W-56
+WR W-76
+WR L-44
+WR W-53
+WR W-82
+4.6
+4.6.3
+CC
+4.6
+Cont.
+WR W-38
+WR W-64
+WR W-61
+WR W-63
+WR W-56
+4.6
+Cont.
+4.6.4
+4.7
+Continued
+WR E-26
+WR E-67
+WR E-46
+4.7
+4.7.1
+WR L-399
+WR W-83
+WR L-368
+WR L-466
+WR L-340
+WR L-293
+WR L-176
+4.7
+Cont.
+WR E-86
+WR L-ll
+4.7.2
+4.7
+Cont . 
+4.7
+Cont.
+WR L-256
+WR E-670
+WR W-83
+4.7
+Cont . 
+WR L-258
+WR L-442
+WR L-527
+WR L-472
+WR W-64
+WR L-557
+WR L-466
+WR L-330
+WR L-429
+WR L-340
+4.7
+Cont . 
+WR L-588
+WR L-499
+WR L-587
+WR L-62
+WR L-204
+WR L-280
+WR L-268
+WR L-61
+WR W-51
+4.7
+Con t . 
+WR L-44
+WR E-71
+WR L-224
+WR L-49
+WR L-253
+4.7
+Cont.
+4.7
+Cont . 
+4.7
+4.7.3
+4.7
+Con t . 
+4.7
+Cont.
+WR W-33
+WR L-367
+WR L-442
+WR L-401
+4.7
+Con t . 
+WR L-324
+WR L-482
+WR L-310
+WR L-524
+WR L-59
+WR W-49
+WR L-ll
+WR L-106
+WR L-9
+4.7
+Cont.
+4.7.4
+4.7
+Cont . 
+WR L-501
+4.7
+Con t . 
+WR L-442
+WR L-352
+WR L-416
+WR W-89
+WR L-67
+WR L-14
+WR L-2
+4.7
+Cont . 
+4.7.5
+4.7
+Con t . 
+WR W-33
+WR L-402
+WR L-294
+WR L-254
+WR L-252
+WR L-315
+WR L-307
+WR L-523
+WR L-323
+4.7
+Con t . 
+WR L-442
+WR L-401
+WR L-393
+WR W-64
+WR L-519
+WR L-500
+WR L-297
+WR L-466
+WR L-476
+WR L-340
+WR L-495
+WR W-61
+WR L-482
+WR L-310
+WR L-297
+WR L-293
+WR L-512
+WR L-64
+WR L-259
+4.7
+Cont . 
+WR L-586
+WR L-58
+WR L-59
+WR L-192
+WR L-106
+WR L-104
+4.7
+Cont . 
+4.7.6
+WR L-66
+4.7
+Cont . 
+4.7.7
+WR L-484
+4.7
+Con t . 
+WR W-64
+WR L-583
+WR W-92
+WR L-211
+WR W-49
+WR L-27
+WR L-70
+WR L-9
+WR W-53
+WR W-82
+WR W-106
+WR L-69
+WR L-68
+4.7
+Con t . 
+4.7.7.1
+4.7.7.2
+4.7.8
+WR L-258
+4.7
+Cont . 
+WR L-57
+WR L-416
+WR L-67
+WR L-280
+4.8
+5
+5.1
+5.1.1
+5.1
+Cont . 
+24ST
+5.1
+Cont.
+WR W-31
+WR W-79
+5.1
+Cont.
+WR W-83
+WR W-34
+WR W-38
+WR L-472
+WR W-64
+5.1
+Cont . 
+WR L-297
+WR L-500
+WR L-257
+WR L-557
+WR L-333
+WR W-61
+WR W-102
+WR L-499
+WR L-587
+WR L-512
+WR W-63
+WR L-62
+5.1
+Cont.
+WR W-55
+WR W-51
+WR W-56
+WR L-190
+WR L-20
+WR L-173
+WR L-32
+WR W-76
+5.1
+Cant.
+WR L-33
+WR W-91
+WR W-82
+WR L-284
+5.1
+Cont.
+5.1
+Cont . 
+5.1.2
+WR L-604
+5.1
+Cont.
+WR E-178
+5.1.3
+5.1
+Cont.
+24ST
+WR W-102
+5.1
+Cont.
+WR E-143
+WR E-107
+WR E-29
+WR E-145
+234-A-5
+WR W-75
+WR W-103
+5.1.4
+WR W-80
+WR W-93
+234- A- 5
+WR W-73
+WR W-75
+WR W-103
+5.1
+Cont.
+5.1
+Cont.
+5.1.5
+WR W-48
+5.1.6
+5.1
+Cont.
+WR W-36
+WR W-99
+WR W-59
+WR W-46
+WR W-60
+WR W-62
+WR L-280
+WR L-225
+WR W-85
+5.1
+Cont.
+5.1.7
+5.1
+Cont.
+WR W-59
+WR W-85
+5.1.8
+WR W-36
+5.1.9
+CC
+CC
+5.1
+Cont . 
+WR W-35
+WR E-143
+WR E-29
+WR E-25
+WR E-28
+WR E-178
+5.1.10
+5.1
+Cont . 
+WR L-760
+5.1.11
+WR W-36
+5.1
+Cont . 
+5.1.12
+5.1
+Cont.
+WR E-143
+WR E-29
+WR W-85
+WR E-86
+5.2
+24ST
+5.2
+WR W-31
+WR W-34
+WR W-99
+WR W-46
+WR W-19
+WR E-143
+WR E-107
+WR E-29
+5.2
+234-A-5
+WR W-73
+WR W-75
+WR W-103
+WR E-178
+5.2
+5.2.1
+5.2
+Cont . 
+WR L-604
+WR W-80
+WR L-257
+WR W-93
+WR W-74
+WR E-86
+WR W-103
+5.2
+Cont.
+WR W-48
+5.2
+Cont.
+5.2.2
+WR L-604
+5.2
+Cont.
+WR L-225
+WR L-189
+WR L-190
+WR L-20
+WR L-173
+WR L-32
+WR L-33
+WR L-284
+5.2
+Cont . 
+5.2.3
+WR W-80
+WR W-93
+WR L-225
+WR W-74
+WR W-103
+WR W-48
+5.2
+Cont.
+5.2.4
+WR W-80
+WR W-46
+WR W-93
+WR W-74
+WR W-75
+WR W-103
+WR W-48
+5.2
+Cont . 
+5.2.5
+5.4
+Cont.
+WR W-83
+WR W-38
+WR W-61
+WR W-63
+WR W-78
+WR W-55
+WR L-121
+WR W-56
+5.2
+Cont.
+WR W-76
+WR E-44
+WR W-91
+WR L-10
+5.2.6
+5.2.7
+5.2.8
+5.2
+Cont.
+5.2.9
+WR W-79
+5.2.10
+5.3
+CC
+CC
+CC
+WR E-86
+WR E-191
+5.3
+5.3.1
+Continued
+WR L-121
+5.3.2
+5.3
+Cont.
+WR E-44
+WR E-71
+WR E-26
+WR E-67
+WR E-46
+WR E-25
+6
+6.1
+WR L-555
+WR L-474
+6.1.1
+5.1
+Cont.
+WR L- 57 6
+WR L-474
+WR L-291
+WR L-771
+6.1.2
+6.1.2.1
+WR L-576
+WR L-418
+WR L-484
+6.1
+Cont.
+WR L-551
+WR L-121
+WR L-554
+WR L-39
+6.1.2.2
+WR L-453
+WR L-121
+WR L-73
+6.1.2.3
+6.1
+Cont . 
+WR L-555
+WR L-453
+WR L-551
+WR L-552
+WR L-36
+WR L-121
+WR L-554
+WR L-73
+WR L-39
+WR L-18
+WR L-723
+6.1
+Cont.
+6.1.2.4
+6.2
+WR W-59
+WR W-60
+WR W-62
+WR W-85
+Cont . 
+6.1.3
+6.2
+WR L-474
+WR W-97
+WR A-23
+WR A-15
+WR E-15
+WR E-12
+WR E-18
+WR A-4
+WR E-171
+6.2
+WR E-172
+WR E-174
+WR E-173
+WR E-175
+WR E-284
+7
+7.1
+7.1
+7.1
+WR L-503
+WR L-474
+WR L-364
+WR W-42
+WR W-92
+WR L-121
+7.1
+WR L-160
+WR L-554
+WR W-85
+WR L-73
+7.1
+7.2
+7.3
+Survey
+WR A-34
+WR W-23
+WR W-9
+WR W-12
+WR W-98
+WR W-ll
+WR W-10
+WR W-13
+7.3
+WR W-14
+WR W-20
+WR W-16
+WR W-15
+WR W-17
+WR W-18
+WR W-19
+WR W-21
+WR A -29
+WR W-22
+WR W-24
+WR W-25
+WR E-97
+WR W-30
+WR W-28
+WR W-27
+WR W-26
+WR W-29
+7.3
+WR W-88
+WR W-95
+WR A-30
+WR A-4
+WR E-170
+7.3.1
+WR W-97
+WR E-15
+WR E-12
+WR E-18
+WR A-8
+WR E-171
+WR E-172
+WR E-174
+WR E-173
+WR E-175
+7.3
+Cont.
+WR E-176
+WR E-177
+WR E-178
+WR E-284
+7.3.2
+WR A -47
+WR A -50
+WR A-17
+WR A-8
+7.3
+Cont.
+7.3.3
+WR L-292
+WR L-503
+WR A-35
+WR A-51
+WR A-49
+WR A-7
+WR A-23
+7.3
+Cont.
+7.3.4
+WR A-56
+WR A-51
+WR A-7
+WR A-49
+WR A-23
+WR A-20
+7.3.5
+7.3
+Cont . 
+7.3.6
+WR W-45
+WR E-172
+7.4
+7.5
+WR W-23
+WR W-9
+WR W-12
+WR W-98
+WR W-ll
+WR W-10
+WR W-13
+WR W-14
+WR W-20
+WR W-16
+WR W-15
+WR W-17
+WRW-18
+WR W-19
+WR A-29
+7.3
+WR W-22
+WRW-24
+WR E-97
+WR W-30
+WR W-28
+WRW- 27
+WR W-26
+WR W-29
+WR W-88
+WR W-95
+7.6
+WR W-59
+WR W-60
+WR W-62
+WR W-85
+7.7
+England
+7.7
+WR L-365
+WR L-248
+WR L-474
+WR W-6
+WR L-36
+WR L-554
+WR L-73
+WR L-230
+WR E-173
+7.8
+WR W-85
+7.9
+7.9
+W.G.L.
+WR E-114
+8
+8.1
+8.1
+Accelerometer
+8.1
+8.1
+WR L-396
+WR L-503
+8.1
+WR W-40
+WR E-137
+WR L-473
+WR W-42
+WR A-64
+WR L-200
+WR L-75
+WR L-90
+WR L-706
+WRE-64
+WR L-18
+8.1
+WRL-780
+WR L-580
+WRL-741
+WR L-723
+8.2
+Accelerometer
+8.2
+8.2
+WR L-273
+WR W-ll
+WR L-477
+WR E-137
+WR L-244
+8.2
+WR L-473
+WR L-274
+WR L-423
+WR E-139
+WR L-7 5
+WR L-203
+WR E-56
+WR W-24
+WR W-30
+WR L-90
+WR E-40
+WR E-41
+WR E-62
+WR L-631
+WR W-88
+WR L-77
+WR L-72
+8.2
+WR L-517
+WR L-154
+WR L-43
+WR W-86
+8.2
+8.3
+WR A-15
+8.3
+9
+9.1
+WR L-273
+WR L-711
+WR L-603
+WR L-423
+WR L-l
+WR W-47
+9.1
+WR W-87
+9.1.1
+9.1
+Cpnt . 
+Brussels
+Wind Tunnel Tests
+9.1
+Cont.
+WR A-14
+WR W-90
+WR L-631
+WR L-143
+9.1
+Cont . 
+9.1.2
+9.1
+Cont.
+WR L-737
+WR W-42
+WR L-706
+WR L-780
+WR L-580
+9.1
+Cont.
+9.1.3
+WR L-687
+WR L-584
+WR L-230
+WR W-106
+9.1
+9.1.4
+WR L-232
+WR W-37
+9.1
+Cont . 
+WR E-122
+WR E-139
+WR L-200
+WR E-41
+WR L-631
+WR E-187
+WR E-64
+WR E-179
+WR E-191
+WR E-170
+9.1
+Cont . 
+9.1.5
+WR L-405
+WR L-631
+WR L-517
+WR L-154
+9.1.6
+9.1
+Cont.
+WR E-187
+WR L-189
+9.1.7
+9.1
+Cont . 
+WR L-536
+9.2
+Jan. 1926
+WR L-120
+9.2
+9.2.1
+9.2
+Cont . 
+WR L-711
+WR L-536
+WR L-603
+WR L-274
+WR W-94
+WR L-240
+9.2
+Cont . 
+WR L-75
+WR L-l
+WR L-74
+WR A -14
+
+WR L-123
+WR L-18
+WR L-580
+WR L-43
+9.2
+Cont . 
+9.2.2
+9.2
+Coat.
+Wind Tunnel Tests
+9.2
+Cont . 
+WR L-737
+WR L-345
+9.2
+Cont . 
+WR L-273
+WR L-710
+WR W-4
+WR L-244
+WR L-265
+WR L-423
+WR L-460
+WR L-274
+WR L-344
+WR L-436
+WR L-240
+WR L-l
+WR L-90
+WR W-90
+WR L-706
+WR A-86
+WR L-77
+9.2
+Cont. 
+WR L-120
+WR A-61
+WR A -37
+WR L-87
+WR A-71
+WR A -57
+WR L-5
+WR L-154
+WR L-741
+9.2
+Cont . 
+9.2.3
+WR L-475
+WR L-468
+9.2
+Cont. 
+WR W-68
+WR W-96
+WR W-69
+WR W-70
+WR W-72
+WR L-230
+9.2.4
+9.2
+Cont . 
+WR L-536
+WR L-255
+WR L-198
+WR W-78
+WR L-180
+WR L-189
+9.2
+Cont.
+9.2.5
+9.2
+Cont.
+WR E-51
+WR E-7
+WR L-232
+WR L-342
+WR L-200
+WR L-130
+WR W-47
+WR E-62
+WR E-187
+WR E-64
+WR E-179
+WR E-113
+WR E-191
+WR E-170
+9.2
+Cont . 
+July, 1943
+9.2.6
+WR L-584
+11
+10
+11
+to June, 1923
+11
+12
+WR L-230
+12
+WR L-633
+WR L-419
+WR L-171
+WR L-665
+WR L-158
