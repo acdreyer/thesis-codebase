@@ -10,22 +10,34 @@ export default {
 data() {
       return {
         options: [{
-          value: 'Option1',
-          label: 'Option1'
+          value: 'Research Memorandum	RM',
+          label: 'Research Memorandum'
         }, {
-          value: 'Option2',
-          label: 'Option2'
+          value: 'Technical Note	TN',
+          label: 'Technical Note'
         }, {
-          value: 'Option3',
-          label: 'Option3'
-        }, {
-          value: 'Option4',
-          label: 'Option4'
-        }, {
-          value: 'Option5',
-          label: 'Option5'
+          value: 'Technical Memorandum	TM',
+          label: 'Technical Memorandum'
+          }, {
+            value: 'Technical Report	TR',
+            label: 'Technical Report'
+          }, {
+            value: 'Wartime Reports	WR',
+            label: 'Wartime Reports'
+          }, {
+            value: 'Aircraft Circular	AC',
+            label: 'Aircraft Circular'
+          }, {
+          value: 'Memorandum Reports',
+          label: 'Memorandum Reports'
+          }, {
+          value: 'Advance Restricted Reports	ARR',
+          label: 'Advance Restricted Reports'
+          }, {
+          value: 'Advance Confidential Reports	ACR',
+          label: 'Advance Confidential Reports'
         }],
-        value: ''
+        value: 'Document Type'
       }
     }
 }

@@ -41,7 +41,9 @@ nacaWebHeads = 'NACA_subjectHeadings.csv'
 untjsonData = 'naca_data.json'
 untplotData = 'testplot.csv'
 ocrTitleHeads = fname
-ocrRepnoHeads = fname.replace('content','subjRepNos')
+# note; the replace might be misleading to think one is used to generate the other
+# which is not the case, its just to not have to write the names twice...
+subjRepNos = fname.replace('content','subjRepNos')
 
 
 
@@ -54,16 +56,16 @@ df_unt = pd.read_csv(untplotData, sep=',',header=None)
 
 
 
-if fname.find('_toc_lc') != -1:
-#    filtlen = 30
-    print('cant get report numbers that werent originally in brackets')
-else:
-    df_ocrRepno = pd.read_csv(ocrRepnoHeads, sep=',',header=None)
+#if fname.find('_toc_lc') != -1:
+##    filtlen = 30
+#    print('cant get report numbers that werent originally in brackets')
+#else:
+df_ocrRepno = pd.read_csv(subjRepNos, sep=',',header=None)
 #    print(df_ocrRepno.head)
-    print(df_ocrRepno.values[:,0])
-    
-    for rowOcr in df_ocrRepno:
-        print(rowOcr)
+print(df_ocrRepno.values[:,0])
+
+for rowOcr in df_ocrRepno:
+    print(rowOcr)
 #        for rowDB in df_unt:
 #            print(rowDB)
 #            for repClean in rowDB['id_repno2']:

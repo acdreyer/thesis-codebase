@@ -760,7 +760,7 @@ Problems in Supersonic Flight.
 Rept. 945, 1949. 
 
 Tollmien, W. : Theory of Characteristics. 
-TM 1242, September 1949 
+TM 1242, September 1949. 
 
 Harmon, Sidney M. : Theoretical Rela- 
 tions between the Stability Deriva- 
@@ -6925,8 +6925,7 @@ of the Design BFW - M 31. TM
 
 Shanks, Robert E. : Model Flight In- 
 vestigation of a Nonlifting Winged 
-Tow Target. RM L50H30. Octo- 
-ber 1950. 
+Tow Target. RM L50H30, October 1950. 
 
 Michael, William H. , Jr. : Analysis 
 of the Effects of Wing Interference 
@@ -8546,7 +8545,7 @@ planes. TM 1198, September 1949.
 Dods, Jules B. , Jr.: Wind-Tunnel Inves- 
 tigation of Horizontal Tails. V - 
 45° Swept-Back Plan Form of Aspect 
-Ratio 2. RM A9D05, September 1949 
+Ratio 2. RM A9D05, September 1949. 
 
 Gustafson, F. B. ; Amer, Kenneth B. ; 
 Haig, C. R. ; and Reeder, J. P.: 
@@ -9591,7 +9590,7 @@ Kapryan, Walter J. : Effect of Forebody
 Warp and Increase in Afterbody 
 Length on the Hydrodynamic Quali- 
 ties of a Flying- Boat Hull of High 
-Length-Beam Ratio. TN 1980 
+Length-Beam Ratio. TN 1980, 
 November 1949. 
 
 Sottorf, W. : Systematic Model Re- 
@@ -12570,7 +12569,7 @@ Cylindrical Roller Bearings at High
 Speeds. II - Lubrication Studies - 
 Effect of Oil-Inlet Location, Angle, 
 and Velocity. TN 2216, November 
-1950, 
+1950. 
 
 
 
@@ -15523,7 +15522,7 @@ April 1950.
 Miller, James A. : Stress-Strain and 
 Elongation Graphs for Alclad 
 Aluminum-Alloy 24S-T86 Sheet. 
-TN 2094. May 1950. 
+TN 2094, May 1950. 
 
 Ringelstetter, L. A. ; Voss, A. W. ; 
 and Norris, C. B. : Effect of 
@@ -16306,7 +16305,7 @@ Ice Prevention and Removal
 Gray, Vernon H. : Improvements in 
 Heat Transfer for Anti-Icing of 
 Gas-Heated Airfoils with Internal 
-Fins and Partitions. TN 2126. 
+Fins and Partitions. TN 2126, 
 July 1950. 
 
 Dorsch, Robert G. and Hacker, Paul T. : 
@@ -16727,7 +16726,7 @@ Operation. RM E50I29, December
 Buchele, Donald R. and Day, Pierce B. : 
 Interferometer with Large Working 
 Field Utilizing Schlieren Optics. 
-RM E50I27. January 1951. 
+RM E50I27, January 1951. 
 
 Tarr, Philip R. : Methods for Connection 
 to Revolving Thermocouples. RM 

@@ -30,24 +30,14 @@ import matplotlib.pyplot as plt
 # define the input files; these are OCR with header/intro and footer stripped
 toc_49 = "./indexes/1915-1949_toc_lc.txt"
 toc_51 = "./indexes/1949-1951_toc_lc.txt"
-#toc_53 = "./indexes/1949-1953_toc_uc.txt"
-#toc_54 = "./indexes/1953-1954_toc_uc.txt"
-#toc_55 = "./indexes/1954-1955_toc_uc.txt"
-#toc_56 = "./indexes/1955-1956_toc_uc.txt"
-#toc_57 = "./indexes/1956-1957_toc_uc.txt"
-#toc_58 = "./indexes/1957-1958_toc_uc.txt"
+
 toc1=toc_49
 toc2=toc_51
-#toc3=toc_53
-#toc4=toc_54
-#toc5=toc_55
-#toc6=toc_56
-#toc7=toc_57
-#toc8=toc_58
+
 
 # the file being handled; change from toc1-toc8 manually 
 # (yea I know; cumbersome) such is data cleaning
-fname = toc2
+fname = toc1
 
 iii=0;
 
@@ -128,6 +118,9 @@ if fname[-6:-4] =='lc':
 #CB
 #WR
 #RB
+
+
+
 
 
 

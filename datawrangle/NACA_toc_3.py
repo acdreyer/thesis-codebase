@@ -44,7 +44,7 @@ toc8=toc_58
 # the file being handled; change from toc1-toc8 manually 
 # (yea I know; cumbersome) such is data cleaning
 
-fname = toc1    # <<======== CHANGE THIS fname
+fname = toc8   # <<======== CHANGE THIS fname
 
 
 # init and triggers
@@ -135,7 +135,7 @@ with open(fname) as fr:
 
 # now extract the contents              
 fname_2 = fname_1.replace('paragraphs','content')
-fname_2 = fname_2.replace('ent3','ent')
+fname_2 = fname_2.replace('content3','content')
 
 #regexp = re.compile(r"^([^()]|\([^()]+\))+$")
 
@@ -174,23 +174,166 @@ f2.close()
 
 
 
+#  extract the subject headings for lowercase files. 
+# This is simpler with the text in a single line (as compared to the
+#uppercase files which had report numbers in brackets)
+
+
+
+
+
+
+# now extract the report numbers:
+
+#workaround to get the right name
+fname_1 = fname.replace('repNoLines','paragraphs')              
+fname_2 = fname.replace('repNoLines3.txt','repNos.txt')
+fname_3 = fname.replace('repNoLines3.txt','repNos_TBD.txt')
+
+#regexp = re.compile(r"^([^()]|\([^()]+\))+$")
+#print(fname_2)
+# init and triggers
+allsections = [];
+allSec2 = { 'sec': [], 'line': []}
+#thissection = []
+buffer = []
+newSecTrigger = False
+subjLineTrigger = False
+subjLineTrigger = False 
+filtlen = 2
+
+# do the lower case files
+if (fname.find('_lc_') != -1):
+    with open(fname_1) as fr:
+        with open(fname_2, 'w') as f2:
+            with open(fname_3, 'w') as f3:
+                lines = fr.readlines()
+                for i, line in enumerate(lines[:-1]):
+            
+                    # extract the subject heading numbers 
+    
+                    if (line.find("----------") != -1):
+                        subjBool=True
+                        firstFind=True
+                        f2.write(line+'\n')
+                        f3.write(line+'\n')
+                    elif (len(line)<filtlen) and (line != '\n'):
+                        print('remove ' + line)
+    #                elif not firstFind:
+    #                    print('remove ' + line)                
+    #                elif (len(line) > 10):
+    #                    templine=line.rstrip('\n')
+    ##                    f3.write('"'+subjNum+'","'+templine+'"\n')
+    #                    f2.write('line')
+                        
+           
+                    elif (line.find("Rept.") != -1) or (line.find("TN ") != -1)\
+                    or (line.find("TM ") != -1) or (line.find("Rept ") != -1)\
+                    or (line.find("WR ") != -1) or (line.find(" AC ") != -1)\
+                    or (line.find(" RM ") != -1) or (line.find("ACR") != -1)\
+                    or (line.find("NACARM ") != -1)\
+                    or (line.find(" ARR ") != -1) or (line.find("CB ") != -1)\
+                    or (line.find("RB ") != -1) or (line.find("MR ") != -1):
+                        templine = line.replace('Rept. ','NACA-TR-')
+                        templine=templine.replace('TN ','NACA-TN-')
+                        templine=templine.replace('TM ','NACA-TM-')
+                        templine=templine.replace('AC ','NACA-AC-')
+                        templine=templine.replace('RM ','NACA-RM-')
+                        
+                        templine=templine.replace('ACR (','(')
+                        templine=templine.replace('ACR ','NACA-ACR-')
+                        templine=templine.replace('ARR (','(')
+                        templine=templine.replace('ARR ','NACA-ARR-')
+                        templine=templine.replace('CB (','(')
+                        templine=templine.replace('CB ','NACA-CB-')
+                        templine=templine.replace('RB ','NACA-RB-')
+                        
+                        templine=templine.replace('MR (','(')
+                        templine=templine.replace('MR ','NACA-MR-')
+                        templine=templine.replace('SR ','NACA-SR-')
+                        templine=templine.replace('WRL','WR L')
+                        templine=templine.replace('WRW','WR W')
+                        templine=templine.replace('(WRE','(WR E')
+                        templine=templine.replace('WR ','NACA-WR-') #this must be last
+                        
+                        templine=templine.replace('NACA-Langley','NACA Langley') #this must be last
+    #
+                        repnoStart=templine.find('NACA-')
+                        if (repnoStart != -1):
+    #                        print('Rep no. ',type(len(templine)))
+                            repnoEnd = templine.find(',',repnoStart)
+                            templine = templine[repnoStart:len(templine)]
+                            templine=templine[:templine.rfind(',')]
+                            
+    #                    templine = templine.replace('(','\n\n')
+    #                    templine = templine.replace(')','')
+    #                    templine=templine[templine.find("(")+1:templine.find(")")]
+                        print(templine)
+                        if (templine.find("Cont.") != -1)\
+                        or (templine.find("Declassified") !=-1)\
+                        or (templine.find("ii") !=-1)\
+                        or (templine.find("inpocket") !=-1)\
+                        or (templine.find("M=1.53") !=-1)\
+                        or (templine.find("Revised") !=-1):
+                            print('line removed:'+templine)
+                        elif (templine.find('ACR,') != -1):
+                            f3.write(templine+'\n')
+                        else:
+                            templine=templine.replace('(','\n\n')
+                            templine=templine.replace(')','')
+                            templine=templine.replace(' ','')
+                            templine=templine.replace(',','')
+                            f2.write(templine+'\n\n')
+                            iii=iii+1;
+
+
+
+
+
+fr.close()
+f2.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 # also extract the subject headings. This is only done for uppercase files              
 fname_read = fname.replace('repNoLines','repNos')
+fname_read = fname_read.replace('repNos3','repNos')
 fname_write = fname_read.replace('repNos','subjRepNos')
 
 #regexp = re.compile(r"^([^()]|\([^()]+\))+$")
 
 
 if fname.find('_toc_lc') != -1:
-#    filtlen = 30
-    sys.exit('cant get report numbers that werent originally in brackets')
+    filtlen = 2
+#    print('still nee/d to do subjRepNos')
+    
 else:
     filtlen = 2
 
-# now extract the structure
+    # now extract the structure
 newSecTrigger = False
 subjLineTrigger = False
 firstFind = False
@@ -214,8 +357,8 @@ with open(fname_read) as fr:
             elif (len(line) > 10):
                 templine=line.rstrip('\n')
                 f3.write('"'+subjNum+'","'+templine+'"\n')
-fr.close()
-f3.close()
+    fr.close()
+    f3.close()
 
 
 
@@ -231,18 +374,7 @@ f3.close()
 
 
 
-#.  ,
-#TM
-#TN
-#ACR
-#MR 
-#RM
-#ARR
-#Rept.
-#Rept
-#CB
-#WR
-#RB
+
 
 
 

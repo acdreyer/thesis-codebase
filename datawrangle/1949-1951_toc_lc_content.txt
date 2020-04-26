@@ -114,7 +114,8 @@
 |1.1.2.3|,|Ritter, William K. and Johnsen, Irving A.: Performance of 24-Inch Supersonic Axial-Flow Compressor in Air. I - Performance of Compressor Rotor at Design Tip Speed of 1600 Feet per Second. RM E7L10, May 1948. |
 |1.1.2.3|,|Czarnecki, K. R. and Schueller, C. F. : Investigation of Interaction Effects Arising from Side- Wall Boundary Layers in Supersonic Wind-Tunnel Tests of Airfoils. RM L8G27, November 1948. |
 |1.1.2.3|,|Heaslet, Max. A. and Lomax, Harvard: Two-Dimensional Unsteady Lift Problems in Supersonic Flight. Rept. 945, 1949. |
-|1.1.2.3|,|Tollmien, W. : Theory of Characteristics. TM 1242, September 1949 Harmon, Sidney M. : Theoretical Rela- tions between the Stability Deriva- tives of a Wing in Direct and in Re- verse Supersonic Flow. TN 1943, September 1949. |
+|1.1.2.3|,|Tollmien, W. : Theory of Characteristics. TM 1242, September 1949. |
+|1.1.2.3|,|Harmon, Sidney M. : Theoretical Rela- tions between the Stability Deriva- tives of a Wing in Direct and in Re- verse Supersonic Flow. TN 1943, September 1949. |
 |1.1.2.3|,|Garrick, I. E. and Rubinow, S. I. : Theoretical Study of Air Forces on an Oscillating or Steady Thin Wing in a Supersonic Main Stream. Rept. 872, 1947. |
 |1.1.2.3|,|Falkovich, S. V. : Two-Dimensional Motion of a Gas at Large Super- sonic Velocities. TM 1239, October 1949. |
 |1.1.2.3|,|Gurevich, M. I. : Lift Force of an Arrow-Shaped Wing. TM 1245, October 1949. |
@@ -951,7 +952,7 @@
 |1.7.1|,|Neihouse, Anshal I. and Pepoon, Philip W. : Dynamic Similitude between a Model and a Full-Scale Body for Model Investigation at Full-Scale Mach Number. TN 2062, March 1950. |
 |1.7.1.1|,|Sivells, James C. and Spooner, Stanley H. : Investigation in the Langley 19-Foot Pressure Tunnel of Two Wings of NACA 65-210 and 64-210 Airfoil Sections with Vari- ous Type Flaps. Rept. 942, 1949. |
 |1.7.1.1|,|Kohler, M. and Mautz, W. : Pressure- Distribution Measurements on the Tail Surfaces of a Rotating Model of the Design BFW - M 31. TM 1220, December 1949. |
-|1.7.1.1|,|Shanks, Robert E. : Model Flight In- vestigation of a Nonlifting Winged Tow Target. RM L50H30. Octo- ber 1950. |
+|1.7.1.1|,|Shanks, Robert E. : Model Flight In- vestigation of a Nonlifting Winged Tow Target. RM L50H30, October 1950. |
 |1.7.1.1|,|Michael, William H. , Jr. : Analysis of the Effects of Wing Interference on the Tail Contributions to the Rolling Derivatives. TN 2332, April 1951. |
 |1.7.1.1.1|,|Van Dyke, Milton D. : Aerodynamic Characteristics Including Scale Effects of Several Wings and Bodies alone and in Combination at a Mach Number of 1. 53. RM A6K22, December 1946. |
 |1.7.1.1.1|,|Lomax, Harvard and Heaslet, Max. A. : Damping-in-Roll Calculations for Slender Swept-Back Wings and Slender Wing-Body Combinations. TN 1950, September 1949. |
@@ -1161,7 +1162,8 @@
 |1.8.2.1|,|Weil, Joseph and Sleeman, William G., Jr Prediction of the Effects of Propeller Operation on the Static Longitudinal Stability of Single-Engine Tractor Monoplanes with Flaps Retracted. Rept. 941, 1949. |
 |1.8.2.1|,|Filzek, B. : Investigation on the Stability, Oscillation, and Stress Conditions of Airplanes with Tab Control. First Partial Report - Derivation of the Equations of Motion and their Gen- eral Solutions. TM 1197, September 1949. |
 |1.8.2.1|,|Filzek, B. : Investigations on the Stabil- ity, Oscillation, and Stress Condi- tions of Airplanes with Tab Control. Second Partial Report - Application of the Solutions Obtained in the First Partial Report to Tab-Controlled Air- planes. TM 1198, September 1949. |
-|1.8.2.1|,|Dods, Jules B. , Jr.: Wind-Tunnel Inves- tigation of Horizontal Tails. V - 45° Swept-Back Plan Form of Aspect Ratio 2. RM A9D05, September 1949 Gustafson, F. B. ; Amer, Kenneth B. ; Haig, C. R. ; and Reeder, J. P.: Longitudinal Flying Qualities of Several Single-Rotor Helicopters in Forward Flight. TN 1983, Novem- ber 1949. |
+|1.8.2.1|,|Dods, Jules B. , Jr.: Wind-Tunnel Inves- tigation of Horizontal Tails. V - 45° Swept-Back Plan Form of Aspect Ratio 2. RM A9D05, September 1949. |
+|1.8.2.1|,|Gustafson, F. B. ; Amer, Kenneth B. ; Haig, C. R. ; and Reeder, J. P.: Longitudinal Flying Qualities of Several Single-Rotor Helicopters in Forward Flight. TN 1983, Novem- ber 1949. |
 |1.8.2.1|,|Lange, Roy H. and McLemore, Huel C. : Static Longitudinal Stability and Con- trol of a Convertible-Type Airplane as Affected by Articulated- and Rigid- Propeller Operation. TN 2014, Feb- ruary 1950. |
 |1.8.2.1|,|Matheny, CloyceE.: Maximum Pitch- ing Angular Accelerations of Air- planes Measured in Flight. TN 2103, May 1950. |
 |1.8.2.1|,|Mathews, Charles W. ; Talmage, Donald B. ; and Whitten, James B. : Effects of Longitudinal Stability and Control Characteristics of a B-29 Airplane of Variations in Stick-Force and Control-Rate Characteristics Obtained through Use of a Booster in the Elevator- Control System. TN 2238, Febru- ary 1951. |
@@ -1282,7 +1284,7 @@
 |2.3.3|,|Sottorf, W. : Systematic Model Re- searches on the Stability Limits of the DVL Series of Float Designs. TM 1254, December 1949. |
 |2.3.6|,|Smiley, Robert F. : A Study of Water Pressure Distributions during Landings with Special Reference to a Prismatic Model having a Heavy Beam Loading and a 30° Angle of Dead Rise. TN 2111, July 1950. |
 |2.3.4|,|Olson, Roland E. and Land, Norman S. : Effect of Afterbody Length and Keel Angle on Minimum Depth of Step for Landing Stability and on Take- off Stability of a Flying Boat. Rept. 923, 1949. |
-|2.3.4|,|Kapryan, Walter J. : Effect of Forebody Warp and Increase in Afterbody Length on the Hydrodynamic Quali- ties of a Flying- Boat Hull of High Length-Beam Ratio. TN 1980 November 1949. |
+|2.3.4|,|Kapryan, Walter J. : Effect of Forebody Warp and Increase in Afterbody Length on the Hydrodynamic Quali- ties of a Flying- Boat Hull of High Length-Beam Ratio. TN 1980, November 1949. |
 |2.3.4|,|Sottorf, W. : Systematic Model Re- searches on the Stability Limits of the DVL Series of Float Designs. TM 1254, December 1949. |
 |2.3.5|,|Milwitzky, Benjamin: A Theoretical Investigation of Hydrodynamic Impact Loads on Scalloped- Bottom Seaplanes and Comparisons with Experiment. Rept. 867, 1947. |
 |2.3.5|,|Ferguson, J. A.; Seibels, R. E. , Jr.; and Corber, R. J. : Flight Tests of the Hydrodynamic Characteris- tics of a Japanese "Emily" Flying Boat. TN 1968, September 1949. |
@@ -1657,7 +1659,7 @@
 |3.8.3.1|,|Macks, E. Fred and Nemeth, Zolton N. : Investigation of 75-Millimeter-Bore Cylindrical Roller Bearings at High Speeds. I - Initial Studies. TN 2128, July 1950. |
 |3.8.3.1|,|Macks, E. Fred and Nemeth, Zolton N. : Investigation of 75-Millimeter-Bore Cylindrical Roller Bearings at High Speeds, n - Lubrication Studies - Effect of Oil-Inlet Location, Angle, and Velocity. TN 2216, November 1950. |
 |3.8.4|,|Macks, E. Fred and Nemeth, Zolton N. : Investigation of 75-Millimeter-Bore Cylindrical Roller Bearings at High Speeds. I - Initial Studies. TN 2128, July 1950. |
-|3.8.4|,|Macks, E. Fred and Nemeth, Zolton N. : Investigation of 75-Millimeter-Bore Cylindrical Roller Bearings at High Speeds. II - Lubrication Studies - Effect of Oil-Inlet Location, Angle, and Velocity. TN 2216, November 1950, |
+|3.8.4|,|Macks, E. Fred and Nemeth, Zolton N. : Investigation of 75-Millimeter-Bore Cylindrical Roller Bearings at High Speeds. II - Lubrication Studies - Effect of Oil-Inlet Location, Angle, and Velocity. TN 2216, November 1950. |
 |3.8.4|,|Godfrey, Douglas and Bisson, Edmond E.: Effectiveness of Molybdenum Di- sulfide as a Fretting-Corrosion Inhibitor. TN 2180, September 1950. |
 |3.8.4|,|Johnson, Robert L. ; Peterson, Marshall B. ; and Swikert, Max A. : Friction at High Sliding Velocities of Oxide Films on Steel Surfaces Boundary Lubricated with Stearic- Acid Solutions. TN 2366, May 1951. |
 |3.8.5|,|Johnson, Robert L. ; Swikert, Max A. ; and Bisson, Edmond E. : Friction and Wear of Hot-Pressed Bearing Materials Containing Molybdenum Disulfide. TN 2027, February 1950. |
@@ -2041,7 +2043,7 @@
 |5.2.1|,|Robards, C. F. and Gangler, J. J. : Some Properties of Beryllium Oxide and Beryllium Oxide - Columbium Ceramals. RM E50G21, March 1951. |
 |5.2.2|,|Barrett, Paul F. : Compressive Prop- erties of Titanium Sheet at Ele- vated Temperatures. TN 2038, February 1950. |
 |5.2.2|,|Miller, James A. : Stress-Strain and Elongation Graphs for Aluminum- Alloy 75S-T6 Sheet. TN 2085, April 1950. |
-|5.2.2|,|Miller, James A. : Stress-Strain and Elongation Graphs for Alclad Aluminum-Alloy 24S-T86 Sheet. TN 2094. May 1950. |
+|5.2.2|,|Miller, James A. : Stress-Strain and Elongation Graphs for Alclad Aluminum-Alloy 24S-T86 Sheet. TN 2094, May 1950. |
 |5.2.2|,|Ringelstetter, L. A. ; Voss, A. W. ; and Norris, C. B. : Effect of Cell Shape on Compressive Strength of Hexagonal Honeycomb Structures. TN 2243, December 1950. |
 |5.2.2|,|Finley, E. M. : Bearing Strengths of Some Aluminum-Alloy Permanent- Mold Castings. TN 2312, Febru- ary 1951. |
 |5.2.3|,|Machlin, E. S. : Dislocation Theory of the Fatigue of Metals. Rept. 929, 1949. |
@@ -2136,7 +2138,7 @@
 |7.2|,|Gracey, William; Coletti, Donald E.; and Russell, Walter R. : Wind- Tunnel Investigation of a Number of Total-Pressure Tubes at High Angles of Attack. Supersonic Speeds. TN 2261, January 1951. |
 |7.2|,|Gracey, William and Scheithauer, Elwood F. : Flight Investigation of the Variation of Static-Pressure Error of a Static-Pressure Tube with Distance ahead of a Wing and a Fuselage. TN 2311, March 1951. |
 |7.2|,|Gracey, William; Letko, William; and Russell, Walter R. : Wind-Tunnel Investigation of a Number of Total- Pressure Tubes at High Angles of Attack. Subsonic Speeds. TN 2331, April 1951. |
-|7.3|,|Gray, Vernon H. : Improvements in Heat Transfer for Anti-Icing of Gas-Heated Airfoils with Internal Fins and Partitions. TN 2126. July 1950. |
+|7.3|,|Gray, Vernon H. : Improvements in Heat Transfer for Anti-Icing of Gas-Heated Airfoils with Internal Fins and Partitions. TN 2126, July 1950. |
 |7.3|,|Dorsch, Robert G. and Hacker, Paul T. : Photomicrographic Investigation of Spontaneous Freezing Temperatures of Supercooled Water Droplets. TN 2142, July 1950. |
 |7.3|,|Koutz, Stanley L. ; Hensley, Reece V. ; and Rom, Frank E. : Effect of Heat . and Power Extraction on Turbojet- Engine Performance. Ill - Ana- lytical Determination of Effects of Shaft-Power Extraction. TN 2202, October 1950. |
 |7.3|,|Levine, Joseph: Statistical Explanation of Spontaneous Freezing of Water Droplets. TN 2234, December 1950. |
@@ -2185,7 +2187,7 @@
 |8.2|,|Lowell, Herman H.: Design and Appli- cations of Hot-Wire Anemometers for Steady-State Measurements at Transonic and Supersonic Airspeeds. TN 2117, July 1950. |
 |8.2|,|Taback, Israel: The NACA Oil-Damped V-G Recorder. TN 2194, October 1950. |
 |8.2|,|Scadron, Marvin D. ; Gettelman, Clarence C. ; and Pack, George J. : Performance of Three High- Recovery-Factor Thermocouple Probes for Room-Temperature Operation. RM E50I29, December 1950. |
-|8.2|,|Buchele, Donald R. and Day, Pierce B. : Interferometer with Large Working Field Utilizing Schlieren Optics. RM E50I27. January 1951. |
+|8.2|,|Buchele, Donald R. and Day, Pierce B. : Interferometer with Large Working Field Utilizing Schlieren Optics. RM E50I27, January 1951. |
 |8.2|,|Tarr, Philip R. : Methods for Connection to Revolving Thermocouples. RM E50J23a, January 1951. |
 |8.2|,|Perkins, Porter J. : Flight Instrument for Measurement of Liquid-Water Content in Clouds at Temperatures above and below Freezing. RM E50J12a, March 1951. |
 |8.2|,|Jaffe, Leonard; Coss, Bert A. ; and Daykin, Donald R. : An Electro- magnetic Flowmeter for Rocket Research. RM E50L12, March 1951. |

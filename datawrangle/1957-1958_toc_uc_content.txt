@@ -1,6 +1,6 @@
 |ocrSubjNumT|,|ocrTitle|
 |1|,|DESIGN PROCEDURE AND LIMITED TEST RE- SULTS FOR A HIGH SOLIDITY, 12-INCH TRAN- SONIC IMPELLER WITH AXIAL DISCHARGE. LinwoodC. Wright and Karl Kovach. April 1953. 37p. photos., diagrs., tab. (NACA RM E53B09) |
-|1|,|COMPOSITION AND THERMODYNAMIC PROPER- TIES OF AIR IN CHEMICAL EQUILIBRIUM. W. E. Moeckel and Kenneth C. Weston. April 1958. 39p. diagrs. (NACA TN 42G5) |
+|1|,|COMPOSITION AND THERMODYNAMIC PROPER- TIES OF AIR IN CHEMICAL EQUILIBRIUM. W. E. Moeckel and Kenneth C. Weston. April 1958. 39p. diagrs. (NACA TN 4265) |
 |1.1|,|EXPERIMENTAL INVESTIGATION OF DRAG OF AFTERBODIES WITH EXITING JET AT HIGH SUBSONIC MACH NUMBERS. Reino J. Salmi. November 1354. 28p. diagrs., photos. (NACA RM E54I13) |
 |1.1|,|A PRELIMINARY INVESTIGATION OF STATIC- PRESSURE CHANGES ASSOCIATED WITH COMBUS- TION OF ALUMINUM BOROHYDRIDE IN A SUPER- SONIC WIND TUNNEL. Robert G. Dorsch, John S. Serafini, and Edward A. Tletcher. August 1955, 12p. diagrs., ph'.tos. (NACA RM E55F07) ' |
 |1.1|,|ON THE SPECTRUM OF NATURAL OSCILLATIONS OF TWO-DIMENSIONAL LAMINAR FLOWS. (Uber das Spektrum bei Eigenschwingungen ebener Laminarstromungen. ) D. Grohne. December 1957. 34p. diagrs. (NACA TM 1417. Translation from Zeitschrift fiir angewandte Mathematik und Mechanik, v. 34, no. 8-9, August -September 1954, p. 344-357) |
